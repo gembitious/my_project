@@ -1,0 +1,2830 @@
+[
+  {
+    "name": " Pound ",
+    "nameKor": "막치기"
+  },
+  {
+    "name": " Karate Chop ",
+    "nameKor": "태권당수"
+  },
+  {
+    "name": " Double Slap ",
+    "nameKor": "연속뺨치기"
+  },
+  {
+    "name": " Comet Punch ",
+    "nameKor": "연속펀치"
+  },
+  {
+    "name": " Mega Punch ",
+    "nameKor": "메가톤펀치"
+  },
+  {
+    "name": " Pay Day ",
+    "nameKor": "고양이돈받기"
+  },
+  {
+    "name": " Fire Punch ",
+    "nameKor": "불꽃펀치"
+  },
+  {
+    "name": " Ice Punch ",
+    "nameKor": "냉동펀치"
+  },
+  {
+    "name": " Thunder Punch ",
+    "nameKor": "번개펀치"
+  },
+  {
+    "name": " Scratch ",
+    "nameKor": "할퀴기"
+  },
+  {
+    "name": " Vise Grip ",
+    "nameKor": "찝기"
+  },
+  {
+    "name": " Guillotine ",
+    "nameKor": "가위자르기"
+  },
+  {
+    "name": " Razor Wind ",
+    "nameKor": "칼바람"
+  },
+  {
+    "name": " Swords Dance ",
+    "nameKor": "칼춤"
+  },
+  {
+    "name": " Cut ",
+    "nameKor": "풀베기"
+  },
+  {
+    "name": " Gust ",
+    "nameKor": "바람일으키기"
+  },
+  {
+    "name": " Wing Attack ",
+    "nameKor": "날개치기"
+  },
+  {
+    "name": " Whirlwind ",
+    "nameKor": "날려버리기"
+  },
+  {
+    "name": " Fly ",
+    "nameKor": "공중날기"
+  },
+  {
+    "name": " Bind ",
+    "nameKor": "조이기"
+  },
+  {
+    "name": " Slam ",
+    "nameKor": "힘껏치기"
+  },
+  {
+    "name": " Vine Whip ",
+    "nameKor": "덩굴채찍"
+  },
+  {
+    "name": " Stomp ",
+    "nameKor": "짓밟기"
+  },
+  {
+    "name": " Double Kick ",
+    "nameKor": "두번치기"
+  },
+  {
+    "name": " Mega Kick ",
+    "nameKor": "메가톤킥"
+  },
+  {
+    "name": " Jump Kick ",
+    "nameKor": "점프킥"
+  },
+  {
+    "name": " Rolling Kick ",
+    "nameKor": "돌려차기"
+  },
+  {
+    "name": " Sand Attack ",
+    "nameKor": "모래뿌리기"
+  },
+  {
+    "name": " Headbutt ",
+    "nameKor": "박치기"
+  },
+  {
+    "name": " Horn Attack ",
+    "nameKor": "뿔찌르기"
+  },
+  {
+    "name": " Fury Attack ",
+    "nameKor": "마구찌르기"
+  },
+  {
+    "name": " Horn Drill ",
+    "nameKor": "뿔드릴"
+  },
+  {
+    "name": " Tackle ",
+    "nameKor": "몸통박치기"
+  },
+  {
+    "name": " Body Slam ",
+    "nameKor": "누르기"
+  },
+  {
+    "name": " Wrap ",
+    "nameKor": "김밥말이"
+  },
+  {
+    "name": " Take Down ",
+    "nameKor": "돌진"
+  },
+  {
+    "name": " Thrash ",
+    "nameKor": "난동부리기"
+  },
+  {
+    "name": " Double-Edge ",
+    "nameKor": "이판사판태클"
+  },
+  {
+    "name": " Tail Whip ",
+    "nameKor": "꼬리흔들기"
+  },
+  {
+    "name": " Poison Sting ",
+    "nameKor": "독침"
+  },
+  {
+    "name": " Twineedle ",
+    "nameKor": "더블니들"
+  },
+  {
+    "name": " Pin Missile ",
+    "nameKor": "바늘미사일"
+  },
+  {
+    "name": " Leer ",
+    "nameKor": "째려보기"
+  },
+  {
+    "name": " Bite ",
+    "nameKor": "물기"
+  },
+  {
+    "name": " Growl ",
+    "nameKor": "울음소리"
+  },
+  {
+    "name": " Roar ",
+    "nameKor": "울부짖기"
+  },
+  {
+    "name": " Sing ",
+    "nameKor": "노래하기"
+  },
+  {
+    "name": " Supersonic ",
+    "nameKor": "초음파"
+  },
+  {
+    "name": " Sonic Boom ",
+    "nameKor": "소닉붐"
+  },
+  {
+    "name": " Disable ",
+    "nameKor": "사슬묶기"
+  },
+  {
+    "name": " Acid ",
+    "nameKor": "용해액"
+  },
+  {
+    "name": " Ember ",
+    "nameKor": "불꽃세례"
+  },
+  {
+    "name": " Flamethrower ",
+    "nameKor": "화염방사"
+  },
+  {
+    "name": " Mist ",
+    "nameKor": "흰안개"
+  },
+  {
+    "name": " Water Gun ",
+    "nameKor": "물대포"
+  },
+  {
+    "name": " Hydro Pump ",
+    "nameKor": "하이드로펌프"
+  },
+  {
+    "name": " Surf ",
+    "nameKor": "파도타기"
+  },
+  {
+    "name": " Ice Beam ",
+    "nameKor": "냉동빔"
+  },
+  {
+    "name": " Blizzard ",
+    "nameKor": "눈보라"
+  },
+  {
+    "name": " Psybeam ",
+    "nameKor": "환상빔"
+  },
+  {
+    "name": " Bubble Beam ",
+    "nameKor": "거품광선"
+  },
+  {
+    "name": " Aurora Beam ",
+    "nameKor": "오로라빔"
+  },
+  {
+    "name": " Hyper Beam ",
+    "nameKor": "파괴광선"
+  },
+  {
+    "name": " Peck ",
+    "nameKor": "쪼기"
+  },
+  {
+    "name": " Drill Peck ",
+    "nameKor": "회전부리"
+  },
+  {
+    "name": " Submission ",
+    "nameKor": "지옥의바퀴"
+  },
+  {
+    "name": " Low Kick ",
+    "nameKor": "안다리걸기"
+  },
+  {
+    "name": " Counter ",
+    "nameKor": "카운터"
+  },
+  {
+    "name": " Seismic Toss ",
+    "nameKor": "지구던지기"
+  },
+  {
+    "name": " Strength ",
+    "nameKor": "괴력"
+  },
+  {
+    "name": " Absorb ",
+    "nameKor": "흡수"
+  },
+  {
+    "name": " Mega Drain ",
+    "nameKor": "메가드레인"
+  },
+  {
+    "name": " Leech Seed ",
+    "nameKor": "씨뿌리기"
+  },
+  {
+    "name": " Growth ",
+    "nameKor": "성장"
+  },
+  {
+    "name": " Razor Leaf ",
+    "nameKor": "잎날가르기"
+  },
+  {
+    "name": " Solar Beam ",
+    "nameKor": "솔라빔"
+  },
+  {
+    "name": " Poison Powder ",
+    "nameKor": "독가루"
+  },
+  {
+    "name": " Stun Spore ",
+    "nameKor": "저리가루"
+  },
+  {
+    "name": " Sleep Powder ",
+    "nameKor": "수면가루"
+  },
+  {
+    "name": " Petal Dance ",
+    "nameKor": "꽃잎댄스"
+  },
+  {
+    "name": " String Shot ",
+    "nameKor": "실뿜기"
+  },
+  {
+    "name": " Dragon Rage ",
+    "nameKor": "용의분노"
+  },
+  {
+    "name": " Fire Spin ",
+    "nameKor": "회오리불꽃"
+  },
+  {
+    "name": " Thunder Shock ",
+    "nameKor": "전기쇼크"
+  },
+  {
+    "name": " Thunderbolt ",
+    "nameKor": "10만볼트"
+  },
+  {
+    "name": " Thunder Wave ",
+    "nameKor": "전기자석파"
+  },
+  {
+    "name": " Thunder ",
+    "nameKor": "번개"
+  },
+  {
+    "name": " Rock Throw ",
+    "nameKor": "돌떨구기"
+  },
+  {
+    "name": " Earthquake ",
+    "nameKor": "지진"
+  },
+  {
+    "name": " Fissure ",
+    "nameKor": "땅가르기"
+  },
+  {
+    "name": " Dig ",
+    "nameKor": "구멍파기"
+  },
+  {
+    "name": " Toxic ",
+    "nameKor": "맹독"
+  },
+  {
+    "name": " Confusion ",
+    "nameKor": "염동력"
+  },
+  {
+    "name": " Psychic ",
+    "nameKor": "사이코키네시스"
+  },
+  {
+    "name": " Hypnosis ",
+    "nameKor": "최면술"
+  },
+  {
+    "name": " Meditate ",
+    "nameKor": "요가포즈"
+  },
+  {
+    "name": " Agility ",
+    "nameKor": "고속이동"
+  },
+  {
+    "name": " Quick Attack ",
+    "nameKor": "전광석화"
+  },
+  {
+    "name": " Rage ",
+    "nameKor": "분노"
+  },
+  {
+    "name": " Teleport ",
+    "nameKor": "순간이동"
+  },
+  {
+    "name": " Night Shade ",
+    "nameKor": "나이트헤드"
+  },
+  {
+    "name": " Mimic ",
+    "nameKor": "흉내내기"
+  },
+  {
+    "name": " Screech ",
+    "nameKor": "싫은소리"
+  },
+  {
+    "name": " Double Team ",
+    "nameKor": "그림자분신"
+  },
+  {
+    "name": " Recover ",
+    "nameKor": "HP회복"
+  },
+  {
+    "name": " Harden ",
+    "nameKor": "단단해지기"
+  },
+  {
+    "name": " Minimize ",
+    "nameKor": "작아지기"
+  },
+  {
+    "name": " Smokescreen ",
+    "nameKor": "연막"
+  },
+  {
+    "name": " Confuse Ray ",
+    "nameKor": "이상한빛"
+  },
+  {
+    "name": " Withdraw ",
+    "nameKor": "껍질에숨기"
+  },
+  {
+    "name": " Defense Curl ",
+    "nameKor": "웅크리기"
+  },
+  {
+    "name": " Barrier ",
+    "nameKor": "배리어"
+  },
+  {
+    "name": " Light Screen ",
+    "nameKor": "빛의장막"
+  },
+  {
+    "name": " Haze ",
+    "nameKor": "흑안개"
+  },
+  {
+    "name": " Reflect ",
+    "nameKor": "리플렉터"
+  },
+  {
+    "name": " Focus Energy ",
+    "nameKor": "기충전"
+  },
+  {
+    "name": " Bide ",
+    "nameKor": "참기"
+  },
+  {
+    "name": " Metronome ",
+    "nameKor": "손가락흔들기"
+  },
+  {
+    "name": " Mirror Move ",
+    "nameKor": "따라하기"
+  },
+  {
+    "name": " Self-Destruct ",
+    "nameKor": "자폭"
+  },
+  {
+    "name": " Egg Bomb ",
+    "nameKor": "알폭탄"
+  },
+  {
+    "name": " Lick ",
+    "nameKor": "핥기"
+  },
+  {
+    "name": " Smog ",
+    "nameKor": "스모그"
+  },
+  {
+    "name": " Sludge ",
+    "nameKor": "오물공격"
+  },
+  {
+    "name": " Bone Club ",
+    "nameKor": "뼈다귀치기"
+  },
+  {
+    "name": " Fire Blast ",
+    "nameKor": "불대문자"
+  },
+  {
+    "name": " Waterfall ",
+    "nameKor": "폭포오르기"
+  },
+  {
+    "name": " Clamp ",
+    "nameKor": "껍질끼우기"
+  },
+  {
+    "name": " Swift ",
+    "nameKor": "스피드스타"
+  },
+  {
+    "name": " Skull Bash ",
+    "nameKor": "로케트박치기"
+  },
+  {
+    "name": " Spike Cannon ",
+    "nameKor": "가시대포"
+  },
+  {
+    "name": " Constrict ",
+    "nameKor": "휘감기"
+  },
+  {
+    "name": " Amnesia ",
+    "nameKor": "망각술"
+  },
+  {
+    "name": " Kinesis ",
+    "nameKor": "숟가락휘기"
+  },
+  {
+    "name": " Soft-Boiled ",
+    "nameKor": "알낳기"
+  },
+  {
+    "name": " High Jump Kick ",
+    "nameKor": "무릎차기"
+  },
+  {
+    "name": " Glare ",
+    "nameKor": "뱀눈초리"
+  },
+  {
+    "name": " Dream Eater ",
+    "nameKor": "꿈먹기"
+  },
+  {
+    "name": " Poison Gas ",
+    "nameKor": "독가스"
+  },
+  {
+    "name": " Barrage ",
+    "nameKor": "구슬던지기"
+  },
+  {
+    "name": " Leech Life ",
+    "nameKor": "흡혈"
+  },
+  {
+    "name": " Lovely Kiss ",
+    "nameKor": "악마의키스"
+  },
+  {
+    "name": " Sky Attack ",
+    "nameKor": "불새"
+  },
+  {
+    "name": " Transform ",
+    "nameKor": "변신"
+  },
+  {
+    "name": " Bubble ",
+    "nameKor": "거품"
+  },
+  {
+    "name": " Dizzy Punch ",
+    "nameKor": "잼잼펀치"
+  },
+  {
+    "name": " Spore ",
+    "nameKor": "버섯포자"
+  },
+  {
+    "name": " Flash ",
+    "nameKor": "플래시"
+  },
+  {
+    "name": " Psywave ",
+    "nameKor": "사이코웨이브"
+  },
+  {
+    "name": " Splash ",
+    "nameKor": "튀어오르기"
+  },
+  {
+    "name": " Acid Armor ",
+    "nameKor": "녹기"
+  },
+  {
+    "name": " Crabhammer ",
+    "nameKor": "찝게햄머"
+  },
+  {
+    "name": " Explosion ",
+    "nameKor": "대폭발"
+  },
+  {
+    "name": " Fury Swipes ",
+    "nameKor": "마구할퀴기"
+  },
+  {
+    "name": " Bonemerang ",
+    "nameKor": "뼈다귀부메랑"
+  },
+  {
+    "name": " Rest ",
+    "nameKor": "잠자기"
+  },
+  {
+    "name": " Rock Slide ",
+    "nameKor": "스톤샤워"
+  },
+  {
+    "name": " Hyper Fang ",
+    "nameKor": "필살앞니"
+  },
+  {
+    "name": " Sharpen ",
+    "nameKor": "각지기"
+  },
+  {
+    "name": " Conversion ",
+    "nameKor": "텍스처"
+  },
+  {
+    "name": " Tri Attack ",
+    "nameKor": "트라이어택"
+  },
+  {
+    "name": " Super Fang ",
+    "nameKor": "분노의앞니"
+  },
+  {
+    "name": " Slash ",
+    "nameKor": "베어가르기"
+  },
+  {
+    "name": " Substitute ",
+    "nameKor": "대타출동"
+  },
+  {
+    "name": " Struggle ",
+    "nameKor": "발버둥"
+  },
+  {
+    "name": " Sketch ",
+    "nameKor": "스케치"
+  },
+  {
+    "name": " Triple Kick ",
+    "nameKor": "트리플킥"
+  },
+  {
+    "name": " Thief ",
+    "nameKor": "도둑질"
+  },
+  {
+    "name": " Spider Web ",
+    "nameKor": "거미집"
+  },
+  {
+    "name": " Mind Reader ",
+    "nameKor": "마음의눈"
+  },
+  {
+    "name": " Nightmare ",
+    "nameKor": "악몽"
+  },
+  {
+    "name": " Flame Wheel ",
+    "nameKor": "화염자동차"
+  },
+  {
+    "name": " Snore ",
+    "nameKor": "코골기"
+  },
+  {
+    "name": " Curse ",
+    "nameKor": "저주"
+  },
+  {
+    "name": " Flail ",
+    "nameKor": "바둥바둥"
+  },
+  {
+    "name": " Conversion 2 ",
+    "nameKor": "텍스처2"
+  },
+  {
+    "name": " Aeroblast ",
+    "nameKor": "에어로블라스트"
+  },
+  {
+    "name": " Cotton Spore ",
+    "nameKor": "목화포자"
+  },
+  {
+    "name": " Reversal ",
+    "nameKor": "기사회생"
+  },
+  {
+    "name": " Spite ",
+    "nameKor": "원한"
+  },
+  {
+    "name": " Powder Snow ",
+    "nameKor": "눈싸라기"
+  },
+  {
+    "name": " Protect ",
+    "nameKor": "방어"
+  },
+  {
+    "name": " Mach Punch ",
+    "nameKor": "마하펀치"
+  },
+  {
+    "name": " Scary Face ",
+    "nameKor": "겁나는얼굴"
+  },
+  {
+    "name": " Feint Attack ",
+    "nameKor": "속여때리기"
+  },
+  {
+    "name": " Sweet Kiss ",
+    "nameKor": "천사의키스"
+  },
+  {
+    "name": " Belly Drum ",
+    "nameKor": "배북"
+  },
+  {
+    "name": " Sludge Bomb ",
+    "nameKor": "오물폭탄"
+  },
+  {
+    "name": " Mud-Slap ",
+    "nameKor": "진흙뿌리기"
+  },
+  {
+    "name": " Octazooka ",
+    "nameKor": "대포무노포"
+  },
+  {
+    "name": " Spikes ",
+    "nameKor": "압정뿌리기"
+  },
+  {
+    "name": " Zap Cannon ",
+    "nameKor": "전자포"
+  },
+  {
+    "name": " Foresight ",
+    "nameKor": "꿰뚫어보기"
+  },
+  {
+    "name": " Destiny Bond ",
+    "nameKor": "길동무"
+  },
+  {
+    "name": " Perish Song ",
+    "nameKor": "멸망의노래"
+  },
+  {
+    "name": " Icy Wind ",
+    "nameKor": "얼다바람"
+  },
+  {
+    "name": " Detect ",
+    "nameKor": "판별"
+  },
+  {
+    "name": " Bone Rush ",
+    "nameKor": "본러쉬"
+  },
+  {
+    "name": " Lock-On ",
+    "nameKor": "록온"
+  },
+  {
+    "name": " Outrage ",
+    "nameKor": "역린"
+  },
+  {
+    "name": " Sandstorm ",
+    "nameKor": "모래바람"
+  },
+  {
+    "name": " Giga Drain ",
+    "nameKor": "기가드레인"
+  },
+  {
+    "name": " Endure ",
+    "nameKor": "버티기"
+  },
+  {
+    "name": " Charm ",
+    "nameKor": "애교부리기"
+  },
+  {
+    "name": " Rollout ",
+    "nameKor": "구르기"
+  },
+  {
+    "name": " False Swipe ",
+    "nameKor": "칼등치기"
+  },
+  {
+    "name": " Swagger ",
+    "nameKor": "뽐내기"
+  },
+  {
+    "name": " Milk Drink ",
+    "nameKor": "우유마시기"
+  },
+  {
+    "name": " Spark ",
+    "nameKor": "스파크"
+  },
+  {
+    "name": " Fury Cutter ",
+    "nameKor": "연속자르기"
+  },
+  {
+    "name": " Steel Wing ",
+    "nameKor": "강철날개"
+  },
+  {
+    "name": " Mean Look ",
+    "nameKor": "검은눈빛"
+  },
+  {
+    "name": " Attract ",
+    "nameKor": "헤롱헤롱"
+  },
+  {
+    "name": " Sleep Talk ",
+    "nameKor": "잠꼬대"
+  },
+  {
+    "name": " Heal Bell ",
+    "nameKor": "치료방울"
+  },
+  {
+    "name": " Return ",
+    "nameKor": "은혜갚기"
+  },
+  {
+    "name": " Present ",
+    "nameKor": "프레젠트"
+  },
+  {
+    "name": " Frustration ",
+    "nameKor": "화풀이"
+  },
+  {
+    "name": " Safeguard ",
+    "nameKor": "신비의부적"
+  },
+  {
+    "name": " Pain Split ",
+    "nameKor": "아픔나누기"
+  },
+  {
+    "name": " Sacred Fire ",
+    "nameKor": "성스러운불꽃"
+  },
+  {
+    "name": " Magnitude ",
+    "nameKor": "매그니튜드"
+  },
+  {
+    "name": " Dynamic Punch ",
+    "nameKor": "폭발펀치"
+  },
+  {
+    "name": " Megahorn ",
+    "nameKor": "메가폰"
+  },
+  {
+    "name": " Dragon Breath ",
+    "nameKor": "용의숨결"
+  },
+  {
+    "name": " Baton Pass ",
+    "nameKor": "바톤터치"
+  },
+  {
+    "name": " Encore ",
+    "nameKor": "앵콜"
+  },
+  {
+    "name": " Pursuit ",
+    "nameKor": "따라가때리기"
+  },
+  {
+    "name": " Rapid Spin ",
+    "nameKor": "고속스핀"
+  },
+  {
+    "name": " Sweet Scent ",
+    "nameKor": "달콤한향기"
+  },
+  {
+    "name": " Iron Tail ",
+    "nameKor": "아이언테일"
+  },
+  {
+    "name": " Metal Claw ",
+    "nameKor": "메탈크로우"
+  },
+  {
+    "name": " Vital Throw ",
+    "nameKor": "받아던지기"
+  },
+  {
+    "name": " Morning Sun ",
+    "nameKor": "아침햇살"
+  },
+  {
+    "name": " Synthesis ",
+    "nameKor": "광합성"
+  },
+  {
+    "name": " Moonlight ",
+    "nameKor": "달의불빛"
+  },
+  {
+    "name": " Hidden Power ",
+    "nameKor": "잠재파워"
+  },
+  {
+    "name": " Cross Chop ",
+    "nameKor": "크로스촙"
+  },
+  {
+    "name": " Twister ",
+    "nameKor": "회오리"
+  },
+  {
+    "name": " Rain Dance ",
+    "nameKor": "비바라기"
+  },
+  {
+    "name": " Sunny Day ",
+    "nameKor": "쾌청"
+  },
+  {
+    "name": " Crunch ",
+    "nameKor": "깨물어부수기"
+  },
+  {
+    "name": " Mirror Coat ",
+    "nameKor": "미러코트"
+  },
+  {
+    "name": " Psych Up ",
+    "nameKor": "자기암시"
+  },
+  {
+    "name": " Extreme Speed ",
+    "nameKor": "신속"
+  },
+  {
+    "name": " Ancient Power ",
+    "nameKor": "원시의힘"
+  },
+  {
+    "name": " Shadow Ball ",
+    "nameKor": "섀도볼"
+  },
+  {
+    "name": " Future Sight ",
+    "nameKor": "미래예지"
+  },
+  {
+    "name": " Rock Smash ",
+    "nameKor": "바위깨기"
+  },
+  {
+    "name": " Whirlpool ",
+    "nameKor": "바다회오리"
+  },
+  {
+    "name": " Beat Up ",
+    "nameKor": "집단구타"
+  },
+  {
+    "name": " Fake Out ",
+    "nameKor": "속이다"
+  },
+  {
+    "name": " Uproar ",
+    "nameKor": "소란피기"
+  },
+  {
+    "name": " Stockpile ",
+    "nameKor": "비축하기"
+  },
+  {
+    "name": " Spit Up ",
+    "nameKor": "토해내기"
+  },
+  {
+    "name": " Swallow ",
+    "nameKor": "꿀꺽"
+  },
+  {
+    "name": " Heat Wave ",
+    "nameKor": "열풍"
+  },
+  {
+    "name": " Hail ",
+    "nameKor": "싸라기눈"
+  },
+  {
+    "name": " Torment ",
+    "nameKor": "트집"
+  },
+  {
+    "name": " Flatter ",
+    "nameKor": "부추기기"
+  },
+  {
+    "name": " Will-O-Wisp ",
+    "nameKor": "도깨비불"
+  },
+  {
+    "name": " Memento ",
+    "nameKor": "추억의선물"
+  },
+  {
+    "name": " Facade ",
+    "nameKor": "객기"
+  },
+  {
+    "name": " Focus Punch ",
+    "nameKor": "힘껏펀치"
+  },
+  {
+    "name": " Smelling Salts ",
+    "nameKor": "정신차리기"
+  },
+  {
+    "name": " Follow Me ",
+    "nameKor": "날따름"
+  },
+  {
+    "name": " Nature Power ",
+    "nameKor": "자연의힘"
+  },
+  {
+    "name": " Charge ",
+    "nameKor": "충전"
+  },
+  {
+    "name": " Taunt ",
+    "nameKor": "도발"
+  },
+  {
+    "name": " Helping Hand ",
+    "nameKor": "도우미"
+  },
+  {
+    "name": " Trick ",
+    "nameKor": "트릭"
+  },
+  {
+    "name": " Role Play ",
+    "nameKor": "역할"
+  },
+  {
+    "name": " Wish ",
+    "nameKor": "희망사항"
+  },
+  {
+    "name": " Assist ",
+    "nameKor": "조수"
+  },
+  {
+    "name": " Ingrain ",
+    "nameKor": "뿌리박기"
+  },
+  {
+    "name": " Superpower ",
+    "nameKor": "엄청난힘"
+  },
+  {
+    "name": " Magic Coat ",
+    "nameKor": "매직코트"
+  },
+  {
+    "name": " Recycle ",
+    "nameKor": "리사이클"
+  },
+  {
+    "name": " Revenge ",
+    "nameKor": "리벤지"
+  },
+  {
+    "name": " Brick Break ",
+    "nameKor": "깨트리다"
+  },
+  {
+    "name": " Yawn ",
+    "nameKor": "하품"
+  },
+  {
+    "name": " Knock Off ",
+    "nameKor": "탁쳐서떨구기"
+  },
+  {
+    "name": " Endeavor ",
+    "nameKor": "죽기살기"
+  },
+  {
+    "name": " Eruption ",
+    "nameKor": "분화"
+  },
+  {
+    "name": " Skill Swap ",
+    "nameKor": "스킬스웹"
+  },
+  {
+    "name": " Imprison ",
+    "nameKor": "봉인"
+  },
+  {
+    "name": " Refresh ",
+    "nameKor": "리프레쉬"
+  },
+  {
+    "name": " Grudge ",
+    "nameKor": "원념"
+  },
+  {
+    "name": " Snatch ",
+    "nameKor": "가로챔"
+  },
+  {
+    "name": " Secret Power ",
+    "nameKor": "비밀의힘"
+  },
+  {
+    "name": " Dive ",
+    "nameKor": "다이빙"
+  },
+  {
+    "name": " Arm Thrust ",
+    "nameKor": "손바닥치기"
+  },
+  {
+    "name": " Camouflage ",
+    "nameKor": "보호색"
+  },
+  {
+    "name": " Tail Glow ",
+    "nameKor": "반딧불"
+  },
+  {
+    "name": " Luster Purge ",
+    "nameKor": "라스트버지"
+  },
+  {
+    "name": " Mist Ball ",
+    "nameKor": "미스트볼"
+  },
+  {
+    "name": " Feather Dance ",
+    "nameKor": "깃털댄스"
+  },
+  {
+    "name": " Teeter Dance ",
+    "nameKor": "흔들흔들댄스"
+  },
+  {
+    "name": " Blaze Kick ",
+    "nameKor": "브레이즈킥"
+  },
+  {
+    "name": " Mud Sport ",
+    "nameKor": "흙놀이"
+  },
+  {
+    "name": " Ice Ball ",
+    "nameKor": "아이스볼"
+  },
+  {
+    "name": " Needle Arm ",
+    "nameKor": "바늘팔"
+  },
+  {
+    "name": " Slack Off ",
+    "nameKor": "태만함"
+  },
+  {
+    "name": " Hyper Voice ",
+    "nameKor": "하이퍼보이스"
+  },
+  {
+    "name": " Poison Fang ",
+    "nameKor": "독엄니"
+  },
+  {
+    "name": " Crush Claw ",
+    "nameKor": "브레이크크루"
+  },
+  {
+    "name": " Blast Burn ",
+    "nameKor": "블러스트번"
+  },
+  {
+    "name": " Hydro Cannon ",
+    "nameKor": "하이드로캐논"
+  },
+  {
+    "name": " Meteor Mash ",
+    "nameKor": "코멧펀치"
+  },
+  {
+    "name": " Astonish ",
+    "nameKor": "놀래키기"
+  },
+  {
+    "name": " Weather Ball ",
+    "nameKor": "웨더볼"
+  },
+  {
+    "name": " Aromatherapy ",
+    "nameKor": "아로마테라피"
+  },
+  {
+    "name": " Fake Tears ",
+    "nameKor": "거짓울음"
+  },
+  {
+    "name": " Air Cutter ",
+    "nameKor": "에어컷터"
+  },
+  {
+    "name": " Overheat ",
+    "nameKor": "오버히트"
+  },
+  {
+    "name": " Odor Sleuth ",
+    "nameKor": "냄새구별"
+  },
+  {
+    "name": " Rock Tomb ",
+    "nameKor": "암석봉인"
+  },
+  {
+    "name": " Silver Wind ",
+    "nameKor": "은빛바람"
+  },
+  {
+    "name": " Metal Sound ",
+    "nameKor": "금속음"
+  },
+  {
+    "name": " Grass Whistle ",
+    "nameKor": "풀피리"
+  },
+  {
+    "name": " Tickle ",
+    "nameKor": "간지르기"
+  },
+  {
+    "name": " Cosmic Power ",
+    "nameKor": "코스믹파워"
+  },
+  {
+    "name": " Water Spout ",
+    "nameKor": "해수스파우팅"
+  },
+  {
+    "name": " Signal Beam ",
+    "nameKor": "시그널빔"
+  },
+  {
+    "name": " Shadow Punch ",
+    "nameKor": "섀도펀치"
+  },
+  {
+    "name": " Extrasensory ",
+    "nameKor": "신통력"
+  },
+  {
+    "name": " Sky Uppercut ",
+    "nameKor": "스카이업퍼"
+  },
+  {
+    "name": " Sand Tomb ",
+    "nameKor": "모래지옥"
+  },
+  {
+    "name": " Sheer Cold ",
+    "nameKor": "절대영도"
+  },
+  {
+    "name": " Muddy Water ",
+    "nameKor": "탁류"
+  },
+  {
+    "name": " Bullet Seed ",
+    "nameKor": "기관총"
+  },
+  {
+    "name": " Aerial Ace ",
+    "nameKor": "제비반환"
+  },
+  {
+    "name": " Icicle Spear ",
+    "nameKor": "고드름침"
+  },
+  {
+    "name": " Iron Defense ",
+    "nameKor": "철벽"
+  },
+  {
+    "name": " Block ",
+    "nameKor": "블록"
+  },
+  {
+    "name": " Howl ",
+    "nameKor": "멀리짖음"
+  },
+  {
+    "name": " Dragon Claw ",
+    "nameKor": "드래곤크루"
+  },
+  {
+    "name": " Frenzy Plant ",
+    "nameKor": "하드플랜트"
+  },
+  {
+    "name": " Bulk Up ",
+    "nameKor": "벌크업"
+  },
+  {
+    "name": " Bounce ",
+    "nameKor": "뛰어오르다"
+  },
+  {
+    "name": " Mud Shot ",
+    "nameKor": "머드숏"
+  },
+  {
+    "name": " Poison Tail ",
+    "nameKor": "포이즌테일"
+  },
+  {
+    "name": " Covet ",
+    "nameKor": "탐내다"
+  },
+  {
+    "name": " Volt Tackle ",
+    "nameKor": "볼트태클"
+  },
+  {
+    "name": " Magical Leaf ",
+    "nameKor": "메지컬리프"
+  },
+  {
+    "name": " Water Sport ",
+    "nameKor": "물놀이"
+  },
+  {
+    "name": " Calm Mind ",
+    "nameKor": "명상"
+  },
+  {
+    "name": " Leaf Blade ",
+    "nameKor": "리프블레이드"
+  },
+  {
+    "name": " Dragon Dance ",
+    "nameKor": "용의춤"
+  },
+  {
+    "name": " Rock Blast ",
+    "nameKor": "락블레스트"
+  },
+  {
+    "name": " Shock Wave ",
+    "nameKor": "전격파"
+  },
+  {
+    "name": " Water Pulse ",
+    "nameKor": "물의파동"
+  },
+  {
+    "name": " Doom Desire ",
+    "nameKor": "파멸의소원"
+  },
+  {
+    "name": " Psycho Boost ",
+    "nameKor": "사이코부스트"
+  },
+  {
+    "name": " Roost ",
+    "nameKor": "날개쉬기"
+  },
+  {
+    "name": " Gravity ",
+    "nameKor": "중력"
+  },
+  {
+    "name": " Miracle Eye ",
+    "nameKor": "미라클아이"
+  },
+  {
+    "name": " Wake-Up Slap ",
+    "nameKor": "잠깨움뺨치기"
+  },
+  {
+    "name": " Hammer Arm ",
+    "nameKor": "암해머"
+  },
+  {
+    "name": " Gyro Ball ",
+    "nameKor": "자이로볼"
+  },
+  {
+    "name": " Healing Wish ",
+    "nameKor": "치유소원"
+  },
+  {
+    "name": " Brine ",
+    "nameKor": "소금물"
+  },
+  {
+    "name": " Natural Gift ",
+    "nameKor": "자연의은혜"
+  },
+  {
+    "name": " Feint ",
+    "nameKor": "페인트"
+  },
+  {
+    "name": " Pluck ",
+    "nameKor": "쪼아대기"
+  },
+  {
+    "name": " Tailwind ",
+    "nameKor": "순풍"
+  },
+  {
+    "name": " Acupressure ",
+    "nameKor": "경혈찌르기"
+  },
+  {
+    "name": " Metal Burst ",
+    "nameKor": "메탈버스트"
+  },
+  {
+    "name": " U-turn ",
+    "nameKor": "유턴"
+  },
+  {
+    "name": " Close Combat ",
+    "nameKor": "인파이트"
+  },
+  {
+    "name": " Payback ",
+    "nameKor": "보복"
+  },
+  {
+    "name": " Assurance ",
+    "nameKor": "승부굳히기"
+  },
+  {
+    "name": " Embargo ",
+    "nameKor": "금제"
+  },
+  {
+    "name": " Fling ",
+    "nameKor": "내던지기"
+  },
+  {
+    "name": " Psycho Shift ",
+    "nameKor": "사이코시프트"
+  },
+  {
+    "name": " Trump Card ",
+    "nameKor": "마지막수단"
+  },
+  {
+    "name": " Heal Block ",
+    "nameKor": "회복봉인"
+  },
+  {
+    "name": " Wring Out ",
+    "nameKor": "쥐어짜기"
+  },
+  {
+    "name": " Power Trick ",
+    "nameKor": "파워트릭"
+  },
+  {
+    "name": " Gastro Acid ",
+    "nameKor": "위액"
+  },
+  {
+    "name": " Lucky Chant ",
+    "nameKor": "주술"
+  },
+  {
+    "name": " Me First ",
+    "nameKor": "선취"
+  },
+  {
+    "name": " Copycat ",
+    "nameKor": "흉내쟁이"
+  },
+  {
+    "name": " Power Swap ",
+    "nameKor": "파워스웹"
+  },
+  {
+    "name": " Guard Swap ",
+    "nameKor": "가드스웹"
+  },
+  {
+    "name": " Punishment ",
+    "nameKor": "혼내기"
+  },
+  {
+    "name": " Last Resort ",
+    "nameKor": "뒀다쓰기"
+  },
+  {
+    "name": " Worry Seed ",
+    "nameKor": "고민씨"
+  },
+  {
+    "name": " Sucker Punch ",
+    "nameKor": "기습"
+  },
+  {
+    "name": " Toxic Spikes ",
+    "nameKor": "독압정"
+  },
+  {
+    "name": " Heart Swap ",
+    "nameKor": "하트스웹"
+  },
+  {
+    "name": " Aqua Ring ",
+    "nameKor": "아쿠아링"
+  },
+  {
+    "name": " Magnet Rise ",
+    "nameKor": "전자부유"
+  },
+  {
+    "name": " Flare Blitz ",
+    "nameKor": "플레어드라이브"
+  },
+  {
+    "name": " Force Palm ",
+    "nameKor": "발경"
+  },
+  {
+    "name": " Aura Sphere ",
+    "nameKor": "파동탄"
+  },
+  {
+    "name": " Rock Polish ",
+    "nameKor": "록커트"
+  },
+  {
+    "name": " Poison Jab ",
+    "nameKor": "독찌르기"
+  },
+  {
+    "name": " Dark Pulse ",
+    "nameKor": "악의파동"
+  },
+  {
+    "name": " Night Slash ",
+    "nameKor": "깜짝베기"
+  },
+  {
+    "name": " Aqua Tail ",
+    "nameKor": "아쿠아테일"
+  },
+  {
+    "name": " Seed Bomb ",
+    "nameKor": "씨폭탄"
+  },
+  {
+    "name": " Air Slash ",
+    "nameKor": "에어슬래시"
+  },
+  {
+    "name": " X-Scissor ",
+    "nameKor": "시저크로스"
+  },
+  {
+    "name": " Bug Buzz ",
+    "nameKor": "벌레의야단법석"
+  },
+  {
+    "name": " Dragon Pulse ",
+    "nameKor": "용의파동"
+  },
+  {
+    "name": " Dragon Rush ",
+    "nameKor": "드래곤다이브"
+  },
+  {
+    "name": " Power Gem ",
+    "nameKor": "파워젬"
+  },
+  {
+    "name": " Drain Punch ",
+    "nameKor": "드레인펀치"
+  },
+  {
+    "name": " Vacuum Wave ",
+    "nameKor": "진공파"
+  },
+  {
+    "name": " Focus Blast ",
+    "nameKor": "기합구슬"
+  },
+  {
+    "name": " Energy Ball ",
+    "nameKor": "에너지볼"
+  },
+  {
+    "name": " Brave Bird ",
+    "nameKor": "브레이브버드"
+  },
+  {
+    "name": " Earth Power ",
+    "nameKor": "대지의힘"
+  },
+  {
+    "name": " Switcheroo ",
+    "nameKor": "바꿔치기"
+  },
+  {
+    "name": " Giga Impact ",
+    "nameKor": "기가임팩트"
+  },
+  {
+    "name": " Nasty Plot ",
+    "nameKor": "나쁜음모"
+  },
+  {
+    "name": " Bullet Punch ",
+    "nameKor": "불릿펀치"
+  },
+  {
+    "name": " Avalanche ",
+    "nameKor": "눈사태"
+  },
+  {
+    "name": " Ice Shard ",
+    "nameKor": "얼음뭉치"
+  },
+  {
+    "name": " Shadow Claw ",
+    "nameKor": "섀도크루"
+  },
+  {
+    "name": " Thunder Fang ",
+    "nameKor": "번개엄니"
+  },
+  {
+    "name": " Ice Fang ",
+    "nameKor": "얼음엄니"
+  },
+  {
+    "name": " Fire Fang ",
+    "nameKor": "불꽃엄니"
+  },
+  {
+    "name": " Shadow Sneak ",
+    "nameKor": "야습"
+  },
+  {
+    "name": " Mud Bomb ",
+    "nameKor": "진흙폭탄"
+  },
+  {
+    "name": " Psycho Cut ",
+    "nameKor": "사이코커터"
+  },
+  {
+    "name": " Zen Headbutt ",
+    "nameKor": "사념의박치기"
+  },
+  {
+    "name": " Mirror Shot ",
+    "nameKor": "미러숏"
+  },
+  {
+    "name": " Flash Cannon ",
+    "nameKor": "러스터캐논"
+  },
+  {
+    "name": " Rock Climb ",
+    "nameKor": "락클라임"
+  },
+  {
+    "name": " Defog ",
+    "nameKor": "안개제거"
+  },
+  {
+    "name": " Trick Room ",
+    "nameKor": "트릭룸"
+  },
+  {
+    "name": " Draco Meteor ",
+    "nameKor": "용성군"
+  },
+  {
+    "name": " Discharge ",
+    "nameKor": "방전"
+  },
+  {
+    "name": " Lava Plume ",
+    "nameKor": "분연"
+  },
+  {
+    "name": " Leaf Storm ",
+    "nameKor": "리프스톰"
+  },
+  {
+    "name": " Power Whip ",
+    "nameKor": "파워휩"
+  },
+  {
+    "name": " Rock Wrecker ",
+    "nameKor": "암석포"
+  },
+  {
+    "name": " Cross Poison ",
+    "nameKor": "크로스포이즌"
+  },
+  {
+    "name": " Gunk Shot ",
+    "nameKor": "더스트슈트"
+  },
+  {
+    "name": " Iron Head ",
+    "nameKor": "아이언헤드"
+  },
+  {
+    "name": " Magnet Bomb ",
+    "nameKor": "마그넷봄"
+  },
+  {
+    "name": " Stone Edge ",
+    "nameKor": "스톤에지"
+  },
+  {
+    "name": " Captivate ",
+    "nameKor": "유혹"
+  },
+  {
+    "name": " Stealth Rock ",
+    "nameKor": "스텔스록"
+  },
+  {
+    "name": " Grass Knot ",
+    "nameKor": "풀묶기"
+  },
+  {
+    "name": " Chatter ",
+    "nameKor": "수다"
+  },
+  {
+    "name": " Judgment ",
+    "nameKor": "심판의뭉치"
+  },
+  {
+    "name": " Bug Bite ",
+    "nameKor": "벌레먹음"
+  },
+  {
+    "name": " Charge Beam ",
+    "nameKor": "차지빔"
+  },
+  {
+    "name": " Wood Hammer ",
+    "nameKor": "우드해머"
+  },
+  {
+    "name": " Aqua Jet ",
+    "nameKor": "아쿠아제트"
+  },
+  {
+    "name": " Attack Order ",
+    "nameKor": "공격지령"
+  },
+  {
+    "name": " Defend Order ",
+    "nameKor": "방어지령"
+  },
+  {
+    "name": " Heal Order ",
+    "nameKor": "회복지령"
+  },
+  {
+    "name": " Head Smash ",
+    "nameKor": "양날박치기"
+  },
+  {
+    "name": " Double Hit ",
+    "nameKor": "더블어택"
+  },
+  {
+    "name": " Roar of Time ",
+    "nameKor": "시간의포효"
+  },
+  {
+    "name": " Spacial Rend ",
+    "nameKor": "공간절단"
+  },
+  {
+    "name": " Lunar Dance ",
+    "nameKor": "초승달춤"
+  },
+  {
+    "name": " Crush Grip ",
+    "nameKor": "묵사발"
+  },
+  {
+    "name": " Magma Storm ",
+    "nameKor": "마그마스톰"
+  },
+  {
+    "name": " Dark Void ",
+    "nameKor": "다크홀"
+  },
+  {
+    "name": " Seed Flare ",
+    "nameKor": "시드플레어"
+  },
+  {
+    "name": " Ominous Wind ",
+    "nameKor": "괴상한바람"
+  },
+  {
+    "name": " Shadow Force ",
+    "nameKor": "섀도다이브"
+  },
+  {
+    "name": " Hone Claws ",
+    "nameKor": "손톱갈기"
+  },
+  {
+    "name": " Wide Guard ",
+    "nameKor": "와이드가드"
+  },
+  {
+    "name": " Guard Split ",
+    "nameKor": "가드셰어"
+  },
+  {
+    "name": " Power Split ",
+    "nameKor": "파워셰어"
+  },
+  {
+    "name": " Wonder Room ",
+    "nameKor": "원더룸"
+  },
+  {
+    "name": " Psyshock ",
+    "nameKor": "사이코쇼크"
+  },
+  {
+    "name": " Venoshock ",
+    "nameKor": "베놈쇼크"
+  },
+  {
+    "name": " Autotomize ",
+    "nameKor": "바디퍼지"
+  },
+  {
+    "name": " Rage Powder ",
+    "nameKor": "분노가루"
+  },
+  {
+    "name": " Telekinesis ",
+    "nameKor": "텔레키네시스"
+  },
+  {
+    "name": " Magic Room ",
+    "nameKor": "매직룸"
+  },
+  {
+    "name": " Smack Down ",
+    "nameKor": "떨어뜨리기"
+  },
+  {
+    "name": " Storm Throw ",
+    "nameKor": "업어후리기"
+  },
+  {
+    "name": " Flame Burst ",
+    "nameKor": "불꽃튀기기"
+  },
+  {
+    "name": " Sludge Wave ",
+    "nameKor": "오물웨이브"
+  },
+  {
+    "name": " Quiver Dance ",
+    "nameKor": "나비춤"
+  },
+  {
+    "name": " Heavy Slam ",
+    "nameKor": "헤비봄버"
+  },
+  {
+    "name": " Synchronoise ",
+    "nameKor": "싱크로노이즈"
+  },
+  {
+    "name": " Electro Ball ",
+    "nameKor": "일렉트릭볼"
+  },
+  {
+    "name": " Soak ",
+    "nameKor": "물붓기"
+  },
+  {
+    "name": " Flame Charge ",
+    "nameKor": "니트로차지"
+  },
+  {
+    "name": " Coil ",
+    "nameKor": "똬리틀기"
+  },
+  {
+    "name": " Low Sweep ",
+    "nameKor": "로킥"
+  },
+  {
+    "name": " Acid Spray ",
+    "nameKor": "애시드봄"
+  },
+  {
+    "name": " Foul Play ",
+    "nameKor": "속임수"
+  },
+  {
+    "name": " Simple Beam ",
+    "nameKor": "심플빔"
+  },
+  {
+    "name": " Entrainment ",
+    "nameKor": "동료만들기"
+  },
+  {
+    "name": " After You ",
+    "nameKor": "당신먼저"
+  },
+  {
+    "name": " Round ",
+    "nameKor": "돌림노래"
+  },
+  {
+    "name": " Echoed Voice ",
+    "nameKor": "에코보이스"
+  },
+  {
+    "name": " Chip Away ",
+    "nameKor": "야금야금"
+  },
+  {
+    "name": " Clear Smog ",
+    "nameKor": "클리어스모그"
+  },
+  {
+    "name": " Stored Power ",
+    "nameKor": "어시스트파워"
+  },
+  {
+    "name": " Quick Guard ",
+    "nameKor": "퍼스트가드"
+  },
+  {
+    "name": " Ally Switch ",
+    "nameKor": "사이드체인지"
+  },
+  {
+    "name": " Scald ",
+    "nameKor": "열탕"
+  },
+  {
+    "name": " Shell Smash ",
+    "nameKor": "껍질깨기"
+  },
+  {
+    "name": " Heal Pulse ",
+    "nameKor": "치유파동"
+  },
+  {
+    "name": " Hex ",
+    "nameKor": "병상첨병"
+  },
+  {
+    "name": " Sky Drop ",
+    "nameKor": "프리폴"
+  },
+  {
+    "name": " Shift Gear ",
+    "nameKor": "기어체인지"
+  },
+  {
+    "name": " Circle Throw ",
+    "nameKor": "배대뒤치기"
+  },
+  {
+    "name": " Incinerate ",
+    "nameKor": "불태우기"
+  },
+  {
+    "name": " Quash ",
+    "nameKor": "순서미루기"
+  },
+  {
+    "name": " Acrobatics ",
+    "nameKor": "애크러뱃"
+  },
+  {
+    "name": " Reflect Type ",
+    "nameKor": "미러타입"
+  },
+  {
+    "name": " Retaliate ",
+    "nameKor": "원수갚기"
+  },
+  {
+    "name": " Final Gambit ",
+    "nameKor": "목숨걸기"
+  },
+  {
+    "name": " Bestow ",
+    "nameKor": "기프트패스"
+  },
+  {
+    "name": " Inferno ",
+    "nameKor": "연옥"
+  },
+  {
+    "name": " Water Pledge ",
+    "nameKor": "물의맹세"
+  },
+  {
+    "name": " Fire Pledge ",
+    "nameKor": "불꽃의맹세"
+  },
+  {
+    "name": " Grass Pledge ",
+    "nameKor": "풀의맹세"
+  },
+  {
+    "name": " Volt Switch ",
+    "nameKor": "볼트체인지"
+  },
+  {
+    "name": " Struggle Bug ",
+    "nameKor": "벌레의저항"
+  },
+  {
+    "name": " Bulldoze ",
+    "nameKor": "땅고르기"
+  },
+  {
+    "name": " Frost Breath ",
+    "nameKor": "얼음숨결"
+  },
+  {
+    "name": " Dragon Tail ",
+    "nameKor": "드래곤테일"
+  },
+  {
+    "name": " Work Up ",
+    "nameKor": "분발"
+  },
+  {
+    "name": " Electroweb ",
+    "nameKor": "일렉트릭네트"
+  },
+  {
+    "name": " Wild Charge ",
+    "nameKor": "와일드볼트"
+  },
+  {
+    "name": " Drill Run ",
+    "nameKor": "드릴라이너"
+  },
+  {
+    "name": " Dual Chop ",
+    "nameKor": "더블촙"
+  },
+  {
+    "name": " Heart Stamp ",
+    "nameKor": "하트스탬프"
+  },
+  {
+    "name": " Horn Leech ",
+    "nameKor": "우드호른"
+  },
+  {
+    "name": " Sacred Sword ",
+    "nameKor": "성스러운칼"
+  },
+  {
+    "name": " Razor Shell ",
+    "nameKor": "셸블레이드"
+  },
+  {
+    "name": " Heat Crash ",
+    "nameKor": "히트스탬프"
+  },
+  {
+    "name": " Leaf Tornado ",
+    "nameKor": "그래스믹서"
+  },
+  {
+    "name": " Steamroller ",
+    "nameKor": "하드롤러"
+  },
+  {
+    "name": " Cotton Guard ",
+    "nameKor": "코튼가드"
+  },
+  {
+    "name": " Night Daze ",
+    "nameKor": "나이트버스트"
+  },
+  {
+    "name": " Psystrike ",
+    "nameKor": "사이코브레이크"
+  },
+  {
+    "name": " Tail Slap ",
+    "nameKor": "스위프뺨치기"
+  },
+  {
+    "name": " Hurricane ",
+    "nameKor": "폭풍"
+  },
+  {
+    "name": " Head Charge ",
+    "nameKor": "아프로브레이크"
+  },
+  {
+    "name": " Gear Grind ",
+    "nameKor": "기어소서"
+  },
+  {
+    "name": " Searing Shot ",
+    "nameKor": "화염탄"
+  },
+  {
+    "name": " Techno Blast ",
+    "nameKor": "테크노버스터"
+  },
+  {
+    "name": " Relic Song ",
+    "nameKor": "옛노래"
+  },
+  {
+    "name": " Secret Sword ",
+    "nameKor": "신비의칼"
+  },
+  {
+    "name": " Glaciate ",
+    "nameKor": "얼다세계"
+  },
+  {
+    "name": " Bolt Strike ",
+    "nameKor": "뇌격"
+  },
+  {
+    "name": " Blue Flare ",
+    "nameKor": "푸른불꽃"
+  },
+  {
+    "name": " Fiery Dance ",
+    "nameKor": "불꽃춤"
+  },
+  {
+    "name": " Freeze Shock ",
+    "nameKor": "프리즈볼트"
+  },
+  {
+    "name": " Ice Burn ",
+    "nameKor": "콜드플레어"
+  },
+  {
+    "name": " Snarl ",
+    "nameKor": "바크아웃"
+  },
+  {
+    "name": " Icicle Crash ",
+    "nameKor": "고드름떨구기"
+  },
+  {
+    "name": " V-create ",
+    "nameKor": "V제너레이트"
+  },
+  {
+    "name": " Fusion Flare ",
+    "nameKor": "크로스플레임"
+  },
+  {
+    "name": " Fusion Bolt ",
+    "nameKor": "크로스썬더"
+  },
+  {
+    "name": " Flying Press ",
+    "nameKor": "플라잉프레스"
+  },
+  {
+    "name": " Mat Block ",
+    "nameKor": "마룻바닥세워막기"
+  },
+  {
+    "name": " Belch ",
+    "nameKor": "트림"
+  },
+  {
+    "name": " Rototiller ",
+    "nameKor": "일구기"
+  },
+  {
+    "name": " Sticky Web ",
+    "nameKor": "끈적끈적네트"
+  },
+  {
+    "name": " Fell Stinger ",
+    "nameKor": "마지막일침"
+  },
+  {
+    "name": " Phantom Force ",
+    "nameKor": "고스트다이브"
+  },
+  {
+    "name": " Trick-or-Treat ",
+    "nameKor": "핼러윈"
+  },
+  {
+    "name": " Noble Roar ",
+    "nameKor": "부르짖기"
+  },
+  {
+    "name": " Ion Deluge ",
+    "nameKor": "플라스마샤워"
+  },
+  {
+    "name": " Parabolic Charge ",
+    "nameKor": "파라볼라차지"
+  },
+  {
+    "name": " Forest’s Curse ",
+    "nameKor": "숲의저주"
+  },
+  {
+    "name": " Petal Blizzard ",
+    "nameKor": "꽃보라"
+  },
+  {
+    "name": " Freeze-Dry ",
+    "nameKor": "프리즈드라이"
+  },
+  {
+    "name": " Disarming Voice ",
+    "nameKor": "차밍보이스"
+  },
+  {
+    "name": " Parting Shot ",
+    "nameKor": "막말내뱉기"
+  },
+  {
+    "name": " Topsy-Turvy ",
+    "nameKor": "뒤집어엎기"
+  },
+  {
+    "name": " Draining Kiss ",
+    "nameKor": "드레인키스"
+  },
+  {
+    "name": " Crafty Shield ",
+    "nameKor": "트릭가드"
+  },
+  {
+    "name": " Flower Shield ",
+    "nameKor": "플라워가드"
+  },
+  {
+    "name": " Grassy Terrain ",
+    "nameKor": "그래스필드"
+  },
+  {
+    "name": " Misty Terrain ",
+    "nameKor": "미스트필드"
+  },
+  {
+    "name": " Electrify ",
+    "nameKor": "송전"
+  },
+  {
+    "name": " Play Rough ",
+    "nameKor": "치근거리기"
+  },
+  {
+    "name": " Fairy Wind ",
+    "nameKor": "요정의바람"
+  },
+  {
+    "name": " Moonblast ",
+    "nameKor": "문포스"
+  },
+  {
+    "name": " Boomburst ",
+    "nameKor": "폭음파"
+  },
+  {
+    "name": " Fairy Lock ",
+    "nameKor": "페어리록"
+  },
+  {
+    "name": " King’s Shield ",
+    "nameKor": "킹실드"
+  },
+  {
+    "name": " Play Nice ",
+    "nameKor": "친해지기"
+  },
+  {
+    "name": " Confide ",
+    "nameKor": "비밀이야기"
+  },
+  {
+    "name": " Diamond Storm ",
+    "nameKor": "다이아스톰"
+  },
+  {
+    "name": " Steam Eruption ",
+    "nameKor": "스팀버스트"
+  },
+  {
+    "name": " Hyperspace Hole ",
+    "nameKor": "다른차원홀"
+  },
+  {
+    "name": " Water Shuriken ",
+    "nameKor": "물수리검"
+  },
+  {
+    "name": " Mystical Fire ",
+    "nameKor": "매지컬플레임"
+  },
+  {
+    "name": " Spiky Shield ",
+    "nameKor": "니들가드"
+  },
+  {
+    "name": " Aromatic Mist ",
+    "nameKor": "아로마미스트"
+  },
+  {
+    "name": " Eerie Impulse ",
+    "nameKor": "괴전파"
+  },
+  {
+    "name": " Venom Drench ",
+    "nameKor": "베놈트랩"
+  },
+  {
+    "name": " Powder ",
+    "nameKor": "분진"
+  },
+  {
+    "name": " Geomancy ",
+    "nameKor": "지오컨트롤"
+  },
+  {
+    "name": " Magnetic Flux ",
+    "nameKor": "자기장조작"
+  },
+  {
+    "name": " Happy Hour ",
+    "nameKor": "해피타임"
+  },
+  {
+    "name": " Electric Terrain ",
+    "nameKor": "일렉트릭필드"
+  },
+  {
+    "name": " Dazzling Gleam ",
+    "nameKor": "매지컬샤인"
+  },
+  {
+    "name": " Celebrate ",
+    "nameKor": "축하"
+  },
+  {
+    "name": " Hold Hands ",
+    "nameKor": "손에손잡기"
+  },
+  {
+    "name": " Baby-Doll Eyes ",
+    "nameKor": "초롱초롱눈동자"
+  },
+  {
+    "name": " Nuzzle ",
+    "nameKor": "볼부비부비"
+  },
+  {
+    "name": " Hold Back ",
+    "nameKor": "적당히손봐주기"
+  },
+  {
+    "name": " Infestation ",
+    "nameKor": "엉겨붙기"
+  },
+  {
+    "name": " Power-Up Punch ",
+    "nameKor": "그로우펀치"
+  },
+  {
+    "name": " Oblivion Wing ",
+    "nameKor": "데스윙"
+  },
+  {
+    "name": " Thousand Arrows ",
+    "nameKor": "사우전드애로"
+  },
+  {
+    "name": " Thousand Waves ",
+    "nameKor": "사우전드웨이브"
+  },
+  {
+    "name": " Land’s Wrath ",
+    "nameKor": "그라운드포스"
+  },
+  {
+    "name": " Light of Ruin ",
+    "nameKor": "파멸의빛"
+  },
+  {
+    "name": " Origin Pulse ",
+    "nameKor": "근원의파동"
+  },
+  {
+    "name": " Precipice Blades ",
+    "nameKor": "단애의칼"
+  },
+  {
+    "name": " Dragon Ascent ",
+    "nameKor": "화룡점정"
+  },
+  {
+    "name": " Hyperspace Fury ",
+    "nameKor": "다른차원러시"
+  },
+  {
+    "name": " High Horsepower ",
+    "nameKor": "10만마력"
+  },
+  {
+    "name": " Darkest Lariat ",
+    "nameKor": "DD래리어트"
+  },
+  {
+    "name": " Spirit Shackle ",
+    "nameKor": "그림자꿰메기"
+  },
+  {
+    "name": " Power Trip ",
+    "nameKor": "기어오르기"
+  },
+  {
+    "name": " Pollen Puff ",
+    "nameKor": "꽃가루경단"
+  },
+  {
+    "name": " Leafage ",
+    "nameKor": "나뭇잎"
+  },
+  {
+    "name": " Tearful Look ",
+    "nameKor": "눈물그렁그렁"
+  },
+  {
+    "name": " Lunge ",
+    "nameKor": "덤벼들기"
+  },
+  {
+    "name": " Toxic Thread ",
+    "nameKor": "독실"
+  },
+  {
+    "name": " Dragon Hammer ",
+    "nameKor": "드래곤해머"
+  },
+  {
+    "name": " First Impression ",
+    "nameKor": "만나자마자"
+  },
+  {
+    "name": " Multi-Attack ",
+    "nameKor": "멀티어택"
+  },
+  {
+    "name": " Sunsteel Strike ",
+    "nameKor": "메테오드라이브"
+  },
+  {
+    "name": " Shore Up ",
+    "nameKor": "모래모으기"
+  },
+  {
+    "name": " Sparkling Aria ",
+    "nameKor": "물거품아리아"
+  },
+  {
+    "name": " Beak Blast ",
+    "nameKor": "부리캐논"
+  },
+  {
+    "name": " Stomping Tantrum ",
+    "nameKor": "분함의발구르기"
+  },
+  {
+    "name": " Fire Lash ",
+    "nameKor": "불꽃채찍"
+  },
+  {
+    "name": " Burn Up ",
+    "nameKor": "불사르기"
+  },
+  {
+    "name": " Psychic Fangs ",
+    "nameKor": "사이코팽"
+  },
+  {
+    "name": " Psychic Terrain ",
+    "nameKor": "사이코필드"
+  },
+  {
+    "name": " Moongeist Beam ",
+    "nameKor": "섀도레이"
+  },
+  {
+    "name": " Shadow Bone ",
+    "nameKor": "섀도본"
+  },
+  {
+    "name": " Spectral Thief ",
+    "nameKor": "섀도스틸"
+  },
+  {
+    "name": " Brutal Swing ",
+    "nameKor": "세차게휘두르기"
+  },
+  {
+    "name": " Solar Blade ",
+    "nameKor": "솔라블레이드"
+  },
+  {
+    "name": " Smart Strike ",
+    "nameKor": "스마트호른"
+  },
+  {
+    "name": " Clanging Scales ",
+    "nameKor": "스케일노이즈"
+  },
+  {
+    "name": " Spotlight ",
+    "nameKor": "스포트라이트"
+  },
+  {
+    "name": " Speed Swap ",
+    "nameKor": "스피드스웹"
+  },
+  {
+    "name": " Ice Hammer ",
+    "nameKor": "아이스해머"
+  },
+  {
+    "name": " Liquidation ",
+    "nameKor": "아쿠아브레이크"
+  },
+  {
+    "name": " Anchor Shot ",
+    "nameKor": "앵커숏"
+  },
+  {
+    "name": " Gear Up ",
+    "nameKor": "어시스트기어"
+  },
+  {
+    "name": " Accelerock ",
+    "nameKor": "엑셀록"
+  },
+  {
+    "name": " Laser Focus ",
+    "nameKor": "예민해지기"
+  },
+  {
+    "name": " Aurora Veil ",
+    "nameKor": "오로라베일"
+  },
+  {
+    "name": " Nature's Madness ",
+    "nameKor": "자연의분노"
+  },
+  {
+    "name": " Revelation Dance ",
+    "nameKor": "잠재댄스"
+  },
+  {
+    "name": " Purify ",
+    "nameKor": "정화"
+  },
+  {
+    "name": " Throat Chop ",
+    "nameKor": "지옥찌르기"
+  },
+  {
+    "name": " Instruct ",
+    "nameKor": "지휘"
+  },
+  {
+    "name": " Zing Zap ",
+    "nameKor": "찌리리따끔따끔"
+  },
+  {
+    "name": " Core Enforcer ",
+    "nameKor": "코어퍼니셔"
+  },
+  {
+    "name": " Baneful Bunker ",
+    "nameKor": "토치카"
+  },
+  {
+    "name": " Shell Trap ",
+    "nameKor": "트랩셸"
+  },
+  {
+    "name": " Trop Kick ",
+    "nameKor": "트로피컬킥"
+  },
+  {
+    "name": " Prismatic Laser ",
+    "nameKor": "프리즘레이저"
+  },
+  {
+    "name": " Floral Healing ",
+    "nameKor": "플라워힐"
+  },
+  {
+    "name": " Fleur Cannon ",
+    "nameKor": "플뢰르캐논"
+  },
+  {
+    "name": " Strength Sap ",
+    "nameKor": "힘흡수"
+  },
+  {
+    "name": " Double Iron Bash ",
+    "nameKor": "더블펀처"
+  },
+  {
+    "name": " Dynamax Cannon ",
+    "nameKor": "다이맥스포"
+  },
+  {
+    "name": " Snipe Shot ",
+    "nameKor": "노려맞히기"
+  },
+  {
+    "name": " Jaw Lock ",
+    "nameKor": "물고버티기"
+  },
+  {
+    "name": " Stuff Cheeks ",
+    "nameKor": "볼가득넣기"
+  },
+  {
+    "name": " No Retreat ",
+    "nameKor": "배수의진"
+  },
+  {
+    "name": " Tar Shot ",
+    "nameKor": "타르숏"
+  },
+  {
+    "name": " Magic Powder ",
+    "nameKor": "마법가루"
+  },
+  {
+    "name": " Dragon Darts ",
+    "nameKor": "드래곤애로"
+  },
+  {
+    "name": " Teatime ",
+    "nameKor": "다과회"
+  },
+  {
+    "name": " Octolock ",
+    "nameKor": "문어굳히기"
+  },
+  {
+    "name": " Bolt Beak ",
+    "nameKor": "전격부리"
+  },
+  {
+    "name": " Fishious Rend ",
+    "nameKor": "아가미물기"
+  },
+  {
+    "name": " Court Change ",
+    "nameKor": "코트체인지"
+  },
+  {
+    "name": " Clangorous Soul ",
+    "nameKor": "소울비트"
+  },
+  {
+    "name": " Body Press ",
+    "nameKor": "바디프레스"
+  },
+  {
+    "name": " Decorate ",
+    "nameKor": "데코레이션"
+  },
+  {
+    "name": " Drum Beating ",
+    "nameKor": "드럼어택"
+  },
+  {
+    "name": " Snap Trap ",
+    "nameKor": "집게덫"
+  },
+  {
+    "name": " Pyro Ball ",
+    "nameKor": "화염볼"
+  },
+  {
+    "name": " Behemoth Blade ",
+    "nameKor": "거수참"
+  },
+  {
+    "name": " Behemoth Bash ",
+    "nameKor": "거수탄"
+  },
+  {
+    "name": " Aura Wheel ",
+    "nameKor": "오라휠"
+  },
+  {
+    "name": " Breaking Swipe ",
+    "nameKor": "와이드브레이커"
+  },
+  {
+    "name": " Branch Poke ",
+    "nameKor": "가지찌르기"
+  },
+  {
+    "name": " Overdrive ",
+    "nameKor": "오버드라이브"
+  },
+  {
+    "name": " Apple Acid ",
+    "nameKor": "사과산"
+  },
+  {
+    "name": " Grav Apple ",
+    "nameKor": "G의힘"
+  },
+  {
+    "name": " Spirit Break ",
+    "nameKor": "소울크래시"
+  },
+  {
+    "name": " Strange Steam ",
+    "nameKor": "원더스팀"
+  },
+  {
+    "name": " Life Dew ",
+    "nameKor": "생명의물방울"
+  },
+  {
+    "name": " Obstruct ",
+    "nameKor": "블로킹"
+  },
+  {
+    "name": " False Surrender ",
+    "nameKor": "사죄의찌르기"
+  },
+  {
+    "name": " Meteor Assault ",
+    "nameKor": "스타어설트"
+  },
+  {
+    "name": " Steel Beam ",
+    "nameKor": "철제광선"
+  }
+]

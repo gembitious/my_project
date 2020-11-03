@@ -1,0 +1,3578 @@
+[
+  {
+    "dex": 1,
+    "speciesNameKor": "이상해씨"
+  },
+  {
+    "dex": 2,
+    "speciesNameKor": "이상해풀"
+  },
+  {
+    "dex": 3,
+    "speciesNameKor": "이상해꽃"
+  },
+  {
+    "dex": 4,
+    "speciesNameKor": "파이리"
+  },
+  {
+    "dex": 5,
+    "speciesNameKor": "리자드"
+  },
+  {
+    "dex": 6,
+    "speciesNameKor": "리자몽"
+  },
+  {
+    "dex": 7,
+    "speciesNameKor": "꼬부기"
+  },
+  {
+    "dex": 8,
+    "speciesNameKor": "어니부기"
+  },
+  {
+    "dex": 9,
+    "speciesNameKor": "거북왕"
+  },
+  {
+    "dex": 10,
+    "speciesNameKor": "캐터피"
+  },
+  {
+    "dex": 11,
+    "speciesNameKor": "단데기"
+  },
+  {
+    "dex": 12,
+    "speciesNameKor": "버터플"
+  },
+  {
+    "dex": 13,
+    "speciesNameKor": "뿔충이"
+  },
+  {
+    "dex": 14,
+    "speciesNameKor": "딱충이"
+  },
+  {
+    "dex": 15,
+    "speciesNameKor": "독침붕"
+  },
+  {
+    "dex": 16,
+    "speciesNameKor": "구구"
+  },
+  {
+    "dex": 17,
+    "speciesNameKor": "피죤"
+  },
+  {
+    "dex": 18,
+    "speciesNameKor": "피죤투"
+  },
+  {
+    "dex": 19,
+    "speciesNameKor": "꼬렛"
+  },
+  {
+    "dex": 20,
+    "speciesNameKor": "레트라"
+  },
+  {
+    "dex": 21,
+    "speciesNameKor": "깨비참"
+  },
+  {
+    "dex": 22,
+    "speciesNameKor": "깨비드릴조"
+  },
+  {
+    "dex": 23,
+    "speciesNameKor": "아보"
+  },
+  {
+    "dex": 24,
+    "speciesNameKor": "아보크"
+  },
+  {
+    "dex": 25,
+    "speciesNameKor": "피카츄"
+  },
+  {
+    "dex": 26,
+    "speciesNameKor": "라이츄"
+  },
+  {
+    "dex": 27,
+    "speciesNameKor": "모래두지"
+  },
+  {
+    "dex": 28,
+    "speciesNameKor": "고지"
+  },
+  {
+    "dex": 29,
+    "speciesNameKor": "니드런♀"
+  },
+  {
+    "dex": 30,
+    "speciesNameKor": "니드리나"
+  },
+  {
+    "dex": 31,
+    "speciesNameKor": "니드퀸"
+  },
+  {
+    "dex": 32,
+    "speciesNameKor": "니드런♂"
+  },
+  {
+    "dex": 33,
+    "speciesNameKor": "니드리노"
+  },
+  {
+    "dex": 34,
+    "speciesNameKor": "니드킹"
+  },
+  {
+    "dex": 35,
+    "speciesNameKor": "삐삐"
+  },
+  {
+    "dex": 36,
+    "speciesNameKor": "픽시"
+  },
+  {
+    "dex": 37,
+    "speciesNameKor": "식스테일"
+  },
+  {
+    "dex": 38,
+    "speciesNameKor": "나인테일"
+  },
+  {
+    "dex": 39,
+    "speciesNameKor": "푸린"
+  },
+  {
+    "dex": 40,
+    "speciesNameKor": "푸크린"
+  },
+  {
+    "dex": 41,
+    "speciesNameKor": "주뱃"
+  },
+  {
+    "dex": 42,
+    "speciesNameKor": "골뱃"
+  },
+  {
+    "dex": 43,
+    "speciesNameKor": "뚜벅쵸"
+  },
+  {
+    "dex": 44,
+    "speciesNameKor": "냄새꼬"
+  },
+  {
+    "dex": 45,
+    "speciesNameKor": "라플레시아"
+  },
+  {
+    "dex": 46,
+    "speciesNameKor": "파라스"
+  },
+  {
+    "dex": 47,
+    "speciesNameKor": "파라섹트"
+  },
+  {
+    "dex": 48,
+    "speciesNameKor": "콘팡"
+  },
+  {
+    "dex": 49,
+    "speciesNameKor": "도나리"
+  },
+  {
+    "dex": 50,
+    "speciesNameKor": "디그다"
+  },
+  {
+    "dex": 51,
+    "speciesNameKor": "닥트리오"
+  },
+  {
+    "dex": 52,
+    "speciesNameKor": "나옹"
+  },
+  {
+    "dex": 53,
+    "speciesNameKor": "페르시온"
+  },
+  {
+    "dex": 54,
+    "speciesNameKor": "고라파덕"
+  },
+  {
+    "dex": 55,
+    "speciesNameKor": "골덕"
+  },
+  {
+    "dex": 56,
+    "speciesNameKor": "망키"
+  },
+  {
+    "dex": 57,
+    "speciesNameKor": "성원숭"
+  },
+  {
+    "dex": 58,
+    "speciesNameKor": "가디"
+  },
+  {
+    "dex": 59,
+    "speciesNameKor": "윈디"
+  },
+  {
+    "dex": 60,
+    "speciesNameKor": "발챙이"
+  },
+  {
+    "dex": 61,
+    "speciesNameKor": "슈륙챙이[48]"
+  },
+  {
+    "dex": 62,
+    "speciesNameKor": "강챙이"
+  },
+  {
+    "dex": 63,
+    "speciesNameKor": "캐이시"
+  },
+  {
+    "dex": 64,
+    "speciesNameKor": "윤겔라"
+  },
+  {
+    "dex": 65,
+    "speciesNameKor": "후딘"
+  },
+  {
+    "dex": 66,
+    "speciesNameKor": "알통몬"
+  },
+  {
+    "dex": 67,
+    "speciesNameKor": "근육몬"
+  },
+  {
+    "dex": 68,
+    "speciesNameKor": "괴력몬"
+  },
+  {
+    "dex": 69,
+    "speciesNameKor": "모다피"
+  },
+  {
+    "dex": 70,
+    "speciesNameKor": "우츠동"
+  },
+  {
+    "dex": 71,
+    "speciesNameKor": "우츠보트"
+  },
+  {
+    "dex": 72,
+    "speciesNameKor": "왕눈해"
+  },
+  {
+    "dex": 73,
+    "speciesNameKor": "독파리"
+  },
+  {
+    "dex": 74,
+    "speciesNameKor": "꼬마돌"
+  },
+  {
+    "dex": 75,
+    "speciesNameKor": "데구리"
+  },
+  {
+    "dex": 76,
+    "speciesNameKor": "딱구리"
+  },
+  {
+    "dex": 77,
+    "speciesNameKor": "포니타"
+  },
+  {
+    "dex": 78,
+    "speciesNameKor": "날쌩마"
+  },
+  {
+    "dex": 79,
+    "speciesNameKor": "야돈"
+  },
+  {
+    "dex": 80,
+    "speciesNameKor": "야도란"
+  },
+  {
+    "dex": 81,
+    "speciesNameKor": "코일"
+  },
+  {
+    "dex": 82,
+    "speciesNameKor": "레어코일"
+  },
+  {
+    "dex": 83,
+    "speciesNameKor": "파오리"
+  },
+  {
+    "dex": 84,
+    "speciesNameKor": "두두"
+  },
+  {
+    "dex": 85,
+    "speciesNameKor": "두트리오"
+  },
+  {
+    "dex": 86,
+    "speciesNameKor": "쥬쥬"
+  },
+  {
+    "dex": 87,
+    "speciesNameKor": "쥬레곤"
+  },
+  {
+    "dex": 88,
+    "speciesNameKor": "질퍽이"
+  },
+  {
+    "dex": 89,
+    "speciesNameKor": "질뻐기"
+  },
+  {
+    "dex": 90,
+    "speciesNameKor": "셀러"
+  },
+  {
+    "dex": 91,
+    "speciesNameKor": "파르셀"
+  },
+  {
+    "dex": 92,
+    "speciesNameKor": "고오스"
+  },
+  {
+    "dex": 93,
+    "speciesNameKor": "고우스트"
+  },
+  {
+    "dex": 94,
+    "speciesNameKor": "팬텀"
+  },
+  {
+    "dex": 95,
+    "speciesNameKor": "롱스톤"
+  },
+  {
+    "dex": 96,
+    "speciesNameKor": "슬리프"
+  },
+  {
+    "dex": 97,
+    "speciesNameKor": "슬리퍼"
+  },
+  {
+    "dex": 98,
+    "speciesNameKor": "크랩"
+  },
+  {
+    "dex": 99,
+    "speciesNameKor": "킹크랩"
+  },
+  {
+    "dex": 100,
+    "speciesNameKor": "찌리리공"
+  },
+  {
+    "dex": 101,
+    "speciesNameKor": "붐볼"
+  },
+  {
+    "dex": 102,
+    "speciesNameKor": "아라리"
+  },
+  {
+    "dex": 103,
+    "speciesNameKor": "나시"
+  },
+  {
+    "dex": 104,
+    "speciesNameKor": "탕구리"
+  },
+  {
+    "dex": 105,
+    "speciesNameKor": "텅구리"
+  },
+  {
+    "dex": 106,
+    "speciesNameKor": "시라소몬"
+  },
+  {
+    "dex": 107,
+    "speciesNameKor": "홍수몬"
+  },
+  {
+    "dex": 108,
+    "speciesNameKor": "내루미"
+  },
+  {
+    "dex": 109,
+    "speciesNameKor": "또가스"
+  },
+  {
+    "dex": 110,
+    "speciesNameKor": "또도가스"
+  },
+  {
+    "dex": 111,
+    "speciesNameKor": "뿔카노"
+  },
+  {
+    "dex": 112,
+    "speciesNameKor": "코뿌리"
+  },
+  {
+    "dex": 113,
+    "speciesNameKor": "럭키"
+  },
+  {
+    "dex": 114,
+    "speciesNameKor": "덩쿠리[76]"
+  },
+  {
+    "dex": 115,
+    "speciesNameKor": "캥카"
+  },
+  {
+    "dex": 116,
+    "speciesNameKor": "쏘드라"
+  },
+  {
+    "dex": 117,
+    "speciesNameKor": "시드라"
+  },
+  {
+    "dex": 118,
+    "speciesNameKor": "콘치"
+  },
+  {
+    "dex": 119,
+    "speciesNameKor": "왕콘치"
+  },
+  {
+    "dex": 120,
+    "speciesNameKor": "별가사리"
+  },
+  {
+    "dex": 121,
+    "speciesNameKor": "아쿠스타"
+  },
+  {
+    "dex": 122,
+    "speciesNameKor": "마임맨"
+  },
+  {
+    "dex": 123,
+    "speciesNameKor": "스라크"
+  },
+  {
+    "dex": 124,
+    "speciesNameKor": "루주라"
+  },
+  {
+    "dex": 125,
+    "speciesNameKor": "에레브"
+  },
+  {
+    "dex": 126,
+    "speciesNameKor": "마그마"
+  },
+  {
+    "dex": 127,
+    "speciesNameKor": "쁘사이저"
+  },
+  {
+    "dex": 128,
+    "speciesNameKor": "켄타로스"
+  },
+  {
+    "dex": 129,
+    "speciesNameKor": "잉어킹"
+  },
+  {
+    "dex": 130,
+    "speciesNameKor": "갸라도스"
+  },
+  {
+    "dex": 131,
+    "speciesNameKor": "라프라스"
+  },
+  {
+    "dex": 132,
+    "speciesNameKor": "메타몽"
+  },
+  {
+    "dex": 133,
+    "speciesNameKor": "이브이"
+  },
+  {
+    "dex": 134,
+    "speciesNameKor": "샤미드"
+  },
+  {
+    "dex": 135,
+    "speciesNameKor": "쥬피썬더"
+  },
+  {
+    "dex": 136,
+    "speciesNameKor": "부스터"
+  },
+  {
+    "dex": 137,
+    "speciesNameKor": "폴리곤"
+  },
+  {
+    "dex": 138,
+    "speciesNameKor": "암나이트"
+  },
+  {
+    "dex": 139,
+    "speciesNameKor": "암스타"
+  },
+  {
+    "dex": 140,
+    "speciesNameKor": "투구"
+  },
+  {
+    "dex": 141,
+    "speciesNameKor": "투구푸스"
+  },
+  {
+    "dex": 142,
+    "speciesNameKor": "프테라"
+  },
+  {
+    "dex": 143,
+    "speciesNameKor": "잠만보"
+  },
+  {
+    "dex": 144,
+    "speciesNameKor": "프리져"
+  },
+  {
+    "dex": 145,
+    "speciesNameKor": "썬더"
+  },
+  {
+    "dex": 146,
+    "speciesNameKor": "파이어"
+  },
+  {
+    "dex": 147,
+    "speciesNameKor": "미뇽"
+  },
+  {
+    "dex": 148,
+    "speciesNameKor": "신뇽"
+  },
+  {
+    "dex": 149,
+    "speciesNameKor": "망나뇽"
+  },
+  {
+    "dex": 150,
+    "speciesNameKor": "뮤츠"
+  },
+  {
+    "dex": 151,
+    "speciesNameKor": "뮤"
+  },
+  {
+    "dex": 152,
+    "speciesNameKor": "치코리타"
+  },
+  {
+    "dex": 153,
+    "speciesNameKor": "베이리프"
+  },
+  {
+    "dex": 154,
+    "speciesNameKor": "메가니움"
+  },
+  {
+    "dex": 155,
+    "speciesNameKor": "브케인"
+  },
+  {
+    "dex": 156,
+    "speciesNameKor": "마그케인"
+  },
+  {
+    "dex": 157,
+    "speciesNameKor": "블레이범"
+  },
+  {
+    "dex": 158,
+    "speciesNameKor": "리아코"
+  },
+  {
+    "dex": 159,
+    "speciesNameKor": "엘리게이"
+  },
+  {
+    "dex": 160,
+    "speciesNameKor": "장크로다일"
+  },
+  {
+    "dex": 161,
+    "speciesNameKor": "꼬리선"
+  },
+  {
+    "dex": 162,
+    "speciesNameKor": "다꼬리"
+  },
+  {
+    "dex": 163,
+    "speciesNameKor": "부우부"
+  },
+  {
+    "dex": 164,
+    "speciesNameKor": "야부엉"
+  },
+  {
+    "dex": 165,
+    "speciesNameKor": "레디바"
+  },
+  {
+    "dex": 166,
+    "speciesNameKor": "레디안"
+  },
+  {
+    "dex": 167,
+    "speciesNameKor": "페이검"
+  },
+  {
+    "dex": 168,
+    "speciesNameKor": "아리아도스"
+  },
+  {
+    "dex": 169,
+    "speciesNameKor": "크로뱃"
+  },
+  {
+    "dex": 170,
+    "speciesNameKor": "초라기"
+  },
+  {
+    "dex": 171,
+    "speciesNameKor": "랜턴"
+  },
+  {
+    "dex": 172,
+    "speciesNameKor": "피츄"
+  },
+  {
+    "dex": 173,
+    "speciesNameKor": "삐"
+  },
+  {
+    "dex": 174,
+    "speciesNameKor": "푸푸린"
+  },
+  {
+    "dex": 175,
+    "speciesNameKor": "토게피"
+  },
+  {
+    "dex": 176,
+    "speciesNameKor": "토게틱"
+  },
+  {
+    "dex": 177,
+    "speciesNameKor": "네이티"
+  },
+  {
+    "dex": 178,
+    "speciesNameKor": "네이티오"
+  },
+  {
+    "dex": 179,
+    "speciesNameKor": "메리프"
+  },
+  {
+    "dex": 180,
+    "speciesNameKor": "보송송"
+  },
+  {
+    "dex": 181,
+    "speciesNameKor": "전룡"
+  },
+  {
+    "dex": 182,
+    "speciesNameKor": "아르코"
+  },
+  {
+    "dex": 183,
+    "speciesNameKor": "마릴"
+  },
+  {
+    "dex": 184,
+    "speciesNameKor": "마릴리"
+  },
+  {
+    "dex": 185,
+    "speciesNameKor": "꼬지모"
+  },
+  {
+    "dex": 186,
+    "speciesNameKor": "왕구리"
+  },
+  {
+    "dex": 187,
+    "speciesNameKor": "통통코"
+  },
+  {
+    "dex": 188,
+    "speciesNameKor": "두코"
+  },
+  {
+    "dex": 189,
+    "speciesNameKor": "솜솜코"
+  },
+  {
+    "dex": 190,
+    "speciesNameKor": "에이팜"
+  },
+  {
+    "dex": 191,
+    "speciesNameKor": "해너츠"
+  },
+  {
+    "dex": 192,
+    "speciesNameKor": "해루미"
+  },
+  {
+    "dex": 193,
+    "speciesNameKor": "왕자리"
+  },
+  {
+    "dex": 194,
+    "speciesNameKor": "우파"
+  },
+  {
+    "dex": 195,
+    "speciesNameKor": "누오"
+  },
+  {
+    "dex": 196,
+    "speciesNameKor": "에브이"
+  },
+  {
+    "dex": 197,
+    "speciesNameKor": "블래키"
+  },
+  {
+    "dex": 198,
+    "speciesNameKor": "니로우"
+  },
+  {
+    "dex": 199,
+    "speciesNameKor": "야도킹"
+  },
+  {
+    "dex": 200,
+    "speciesNameKor": "무우마"
+  },
+  {
+    "dex": 201,
+    "speciesNameKor": "안농"
+  },
+  {
+    "dex": 202,
+    "speciesNameKor": "마자용"
+  },
+  {
+    "dex": 203,
+    "speciesNameKor": "키링키"
+  },
+  {
+    "dex": 204,
+    "speciesNameKor": "피콘"
+  },
+  {
+    "dex": 205,
+    "speciesNameKor": "쏘콘"
+  },
+  {
+    "dex": 206,
+    "speciesNameKor": "노고치"
+  },
+  {
+    "dex": 207,
+    "speciesNameKor": "글라이거"
+  },
+  {
+    "dex": 208,
+    "speciesNameKor": "강철톤"
+  },
+  {
+    "dex": 209,
+    "speciesNameKor": "블루"
+  },
+  {
+    "dex": 210,
+    "speciesNameKor": "그랑블루"
+  },
+  {
+    "dex": 211,
+    "speciesNameKor": "침바루"
+  },
+  {
+    "dex": 212,
+    "speciesNameKor": "핫삼"
+  },
+  {
+    "dex": 213,
+    "speciesNameKor": "단단지"
+  },
+  {
+    "dex": 214,
+    "speciesNameKor": "헤라크로스"
+  },
+  {
+    "dex": 215,
+    "speciesNameKor": "포푸니"
+  },
+  {
+    "dex": 216,
+    "speciesNameKor": "깜지곰"
+  },
+  {
+    "dex": 217,
+    "speciesNameKor": "링곰"
+  },
+  {
+    "dex": 218,
+    "speciesNameKor": "마그마그"
+  },
+  {
+    "dex": 219,
+    "speciesNameKor": "마그카르고"
+  },
+  {
+    "dex": 220,
+    "speciesNameKor": "꾸꾸리"
+  },
+  {
+    "dex": 221,
+    "speciesNameKor": "메꾸리"
+  },
+  {
+    "dex": 222,
+    "speciesNameKor": "코산호"
+  },
+  {
+    "dex": 223,
+    "speciesNameKor": "총어"
+  },
+  {
+    "dex": 224,
+    "speciesNameKor": "대포무노"
+  },
+  {
+    "dex": 225,
+    "speciesNameKor": "딜리버드"
+  },
+  {
+    "dex": 226,
+    "speciesNameKor": "만타인"
+  },
+  {
+    "dex": 227,
+    "speciesNameKor": "무장조"
+  },
+  {
+    "dex": 228,
+    "speciesNameKor": "델빌"
+  },
+  {
+    "dex": 229,
+    "speciesNameKor": "헬가"
+  },
+  {
+    "dex": 230,
+    "speciesNameKor": "킹드라"
+  },
+  {
+    "dex": 231,
+    "speciesNameKor": "코코리"
+  },
+  {
+    "dex": 232,
+    "speciesNameKor": "코리갑"
+  },
+  {
+    "dex": 233,
+    "speciesNameKor": "폴리곤2"
+  },
+  {
+    "dex": 234,
+    "speciesNameKor": "노라키"
+  },
+  {
+    "dex": 235,
+    "speciesNameKor": "루브도"
+  },
+  {
+    "dex": 236,
+    "speciesNameKor": "배루키"
+  },
+  {
+    "dex": 237,
+    "speciesNameKor": "카포에라"
+  },
+  {
+    "dex": 238,
+    "speciesNameKor": "뽀뽀라"
+  },
+  {
+    "dex": 239,
+    "speciesNameKor": "에레키드"
+  },
+  {
+    "dex": 240,
+    "speciesNameKor": "마그비"
+  },
+  {
+    "dex": 241,
+    "speciesNameKor": "밀탱크"
+  },
+  {
+    "dex": 242,
+    "speciesNameKor": "해피너스"
+  },
+  {
+    "dex": 243,
+    "speciesNameKor": "라이코"
+  },
+  {
+    "dex": 244,
+    "speciesNameKor": "앤테이"
+  },
+  {
+    "dex": 245,
+    "speciesNameKor": "스이쿤"
+  },
+  {
+    "dex": 246,
+    "speciesNameKor": "애버라스"
+  },
+  {
+    "dex": 247,
+    "speciesNameKor": "데기라스"
+  },
+  {
+    "dex": 248,
+    "speciesNameKor": "마기라스"
+  },
+  {
+    "dex": 249,
+    "speciesNameKor": "루기아"
+  },
+  {
+    "dex": 250,
+    "speciesNameKor": "칠색조"
+  },
+  {
+    "dex": 251,
+    "speciesNameKor": "세레비"
+  },
+  {
+    "dex": 252,
+    "speciesNameKor": "나무지기"
+  },
+  {
+    "dex": 253,
+    "speciesNameKor": "나무돌이"
+  },
+  {
+    "dex": 254,
+    "speciesNameKor": "나무킹"
+  },
+  {
+    "dex": 255,
+    "speciesNameKor": "아차모"
+  },
+  {
+    "dex": 256,
+    "speciesNameKor": "영치코"
+  },
+  {
+    "dex": 257,
+    "speciesNameKor": "번치코"
+  },
+  {
+    "dex": 258,
+    "speciesNameKor": "물짱이"
+  },
+  {
+    "dex": 259,
+    "speciesNameKor": "늪짱이"
+  },
+  {
+    "dex": 260,
+    "speciesNameKor": "대짱이"
+  },
+  {
+    "dex": 261,
+    "speciesNameKor": "포챠나"
+  },
+  {
+    "dex": 262,
+    "speciesNameKor": "그라에나"
+  },
+  {
+    "dex": 263,
+    "speciesNameKor": "지그제구리"
+  },
+  {
+    "dex": 264,
+    "speciesNameKor": "직구리"
+  },
+  {
+    "dex": 265,
+    "speciesNameKor": "개무소"
+  },
+  {
+    "dex": 266,
+    "speciesNameKor": "실쿤"
+  },
+  {
+    "dex": 267,
+    "speciesNameKor": "뷰티플라이"
+  },
+  {
+    "dex": 268,
+    "speciesNameKor": "카스쿤"
+  },
+  {
+    "dex": 269,
+    "speciesNameKor": "독케일"
+  },
+  {
+    "dex": 270,
+    "speciesNameKor": "연꽃몬"
+  },
+  {
+    "dex": 271,
+    "speciesNameKor": "로토스"
+  },
+  {
+    "dex": 272,
+    "speciesNameKor": "로파파"
+  },
+  {
+    "dex": 273,
+    "speciesNameKor": "도토링"
+  },
+  {
+    "dex": 274,
+    "speciesNameKor": "잎새코"
+  },
+  {
+    "dex": 275,
+    "speciesNameKor": "다탱구"
+  },
+  {
+    "dex": 276,
+    "speciesNameKor": "테일로"
+  },
+  {
+    "dex": 277,
+    "speciesNameKor": "스왈로"
+  },
+  {
+    "dex": 278,
+    "speciesNameKor": "갈모매"
+  },
+  {
+    "dex": 279,
+    "speciesNameKor": "패리퍼"
+  },
+  {
+    "dex": 280,
+    "speciesNameKor": "랄토스"
+  },
+  {
+    "dex": 281,
+    "speciesNameKor": "킬리아"
+  },
+  {
+    "dex": 282,
+    "speciesNameKor": "가디안"
+  },
+  {
+    "dex": 283,
+    "speciesNameKor": "비구술[166]"
+  },
+  {
+    "dex": 284,
+    "speciesNameKor": "비나방"
+  },
+  {
+    "dex": 285,
+    "speciesNameKor": "버섯꼬"
+  },
+  {
+    "dex": 286,
+    "speciesNameKor": "버섯모"
+  },
+  {
+    "dex": 287,
+    "speciesNameKor": "게을로"
+  },
+  {
+    "dex": 288,
+    "speciesNameKor": "발바로"
+  },
+  {
+    "dex": 289,
+    "speciesNameKor": "게을킹"
+  },
+  {
+    "dex": 290,
+    "speciesNameKor": "토중몬"
+  },
+  {
+    "dex": 291,
+    "speciesNameKor": "아이스크"
+  },
+  {
+    "dex": 292,
+    "speciesNameKor": "껍질몬"
+  },
+  {
+    "dex": 293,
+    "speciesNameKor": "소곤룡"
+  },
+  {
+    "dex": 294,
+    "speciesNameKor": "노공룡"
+  },
+  {
+    "dex": 295,
+    "speciesNameKor": "폭음룡"
+  },
+  {
+    "dex": 296,
+    "speciesNameKor": "마크탕"
+  },
+  {
+    "dex": 297,
+    "speciesNameKor": "하리뭉"
+  },
+  {
+    "dex": 298,
+    "speciesNameKor": "루리리"
+  },
+  {
+    "dex": 299,
+    "speciesNameKor": "코코파스"
+  },
+  {
+    "dex": 300,
+    "speciesNameKor": "에나비[177]"
+  },
+  {
+    "dex": 301,
+    "speciesNameKor": "델케티"
+  },
+  {
+    "dex": 302,
+    "speciesNameKor": "깜까미"
+  },
+  {
+    "dex": 303,
+    "speciesNameKor": "입치트"
+  },
+  {
+    "dex": 304,
+    "speciesNameKor": "가보리"
+  },
+  {
+    "dex": 305,
+    "speciesNameKor": "갱도라"
+  },
+  {
+    "dex": 306,
+    "speciesNameKor": "보스로라"
+  },
+  {
+    "dex": 307,
+    "speciesNameKor": "요가랑"
+  },
+  {
+    "dex": 308,
+    "speciesNameKor": "요가램"
+  },
+  {
+    "dex": 309,
+    "speciesNameKor": "썬더라이"
+  },
+  {
+    "dex": 310,
+    "speciesNameKor": "썬더볼트"
+  },
+  {
+    "dex": 311,
+    "speciesNameKor": "플러시"
+  },
+  {
+    "dex": 312,
+    "speciesNameKor": "마이농"
+  },
+  {
+    "dex": 313,
+    "speciesNameKor": "볼비트"
+  },
+  {
+    "dex": 314,
+    "speciesNameKor": "네오비트"
+  },
+  {
+    "dex": 315,
+    "speciesNameKor": "로젤리아"
+  },
+  {
+    "dex": 316,
+    "speciesNameKor": "꼴깍몬"
+  },
+  {
+    "dex": 317,
+    "speciesNameKor": "꿀꺽몬"
+  },
+  {
+    "dex": 318,
+    "speciesNameKor": "샤프니아"
+  },
+  {
+    "dex": 319,
+    "speciesNameKor": "샤크니아"
+  },
+  {
+    "dex": 320,
+    "speciesNameKor": "고래왕자"
+  },
+  {
+    "dex": 321,
+    "speciesNameKor": "고래왕"
+  },
+  {
+    "dex": 322,
+    "speciesNameKor": "둔타"
+  },
+  {
+    "dex": 323,
+    "speciesNameKor": "폭타"
+  },
+  {
+    "dex": 324,
+    "speciesNameKor": "코터스"
+  },
+  {
+    "dex": 325,
+    "speciesNameKor": "피그점프"
+  },
+  {
+    "dex": 326,
+    "speciesNameKor": "피그킹"
+  },
+  {
+    "dex": 327,
+    "speciesNameKor": "얼루기"
+  },
+  {
+    "dex": 328,
+    "speciesNameKor": "톱치"
+  },
+  {
+    "dex": 329,
+    "speciesNameKor": "비브라바"
+  },
+  {
+    "dex": 330,
+    "speciesNameKor": "플라이곤"
+  },
+  {
+    "dex": 331,
+    "speciesNameKor": "선인왕"
+  },
+  {
+    "dex": 332,
+    "speciesNameKor": "밤선인"
+  },
+  {
+    "dex": 333,
+    "speciesNameKor": "파비코"
+  },
+  {
+    "dex": 334,
+    "speciesNameKor": "파비코리"
+  },
+  {
+    "dex": 335,
+    "speciesNameKor": "쟝고"
+  },
+  {
+    "dex": 336,
+    "speciesNameKor": "세비퍼"
+  },
+  {
+    "dex": 337,
+    "speciesNameKor": "루나톤"
+  },
+  {
+    "dex": 338,
+    "speciesNameKor": "솔록"
+  },
+  {
+    "dex": 339,
+    "speciesNameKor": "미꾸리"
+  },
+  {
+    "dex": 340,
+    "speciesNameKor": "메깅"
+  },
+  {
+    "dex": 341,
+    "speciesNameKor": "가재군"
+  },
+  {
+    "dex": 342,
+    "speciesNameKor": "가재장군"
+  },
+  {
+    "dex": 343,
+    "speciesNameKor": "오뚝군"
+  },
+  {
+    "dex": 344,
+    "speciesNameKor": "점토도리"
+  },
+  {
+    "dex": 345,
+    "speciesNameKor": "릴링"
+  },
+  {
+    "dex": 346,
+    "speciesNameKor": "릴리요"
+  },
+  {
+    "dex": 347,
+    "speciesNameKor": "아노딥스"
+  },
+  {
+    "dex": 348,
+    "speciesNameKor": "아말도"
+  },
+  {
+    "dex": 349,
+    "speciesNameKor": "빈티나"
+  },
+  {
+    "dex": 350,
+    "speciesNameKor": "밀로틱"
+  },
+  {
+    "dex": 351,
+    "speciesNameKor": "캐스퐁"
+  },
+  {
+    "dex": 352,
+    "speciesNameKor": "켈리몬[207]"
+  },
+  {
+    "dex": 353,
+    "speciesNameKor": "어둠대신"
+  },
+  {
+    "dex": 354,
+    "speciesNameKor": "다크펫"
+  },
+  {
+    "dex": 355,
+    "speciesNameKor": "해골몽"
+  },
+  {
+    "dex": 356,
+    "speciesNameKor": "미라몽"
+  },
+  {
+    "dex": 357,
+    "speciesNameKor": "트로피우스"
+  },
+  {
+    "dex": 358,
+    "speciesNameKor": "치렁"
+  },
+  {
+    "dex": 359,
+    "speciesNameKor": "앱솔"
+  },
+  {
+    "dex": 360,
+    "speciesNameKor": "마자[214]"
+  },
+  {
+    "dex": 361,
+    "speciesNameKor": "눈꼬마"
+  },
+  {
+    "dex": 362,
+    "speciesNameKor": "얼음귀신"
+  },
+  {
+    "dex": 363,
+    "speciesNameKor": "대굴레오"
+  },
+  {
+    "dex": 364,
+    "speciesNameKor": "씨레오"
+  },
+  {
+    "dex": 365,
+    "speciesNameKor": "씨카이저"
+  },
+  {
+    "dex": 366,
+    "speciesNameKor": "진주몽"
+  },
+  {
+    "dex": 367,
+    "speciesNameKor": "헌테일"
+  },
+  {
+    "dex": 368,
+    "speciesNameKor": "분홍장이"
+  },
+  {
+    "dex": 369,
+    "speciesNameKor": "시라칸"
+  },
+  {
+    "dex": 370,
+    "speciesNameKor": "사랑동이"
+  },
+  {
+    "dex": 371,
+    "speciesNameKor": "아공이"
+  },
+  {
+    "dex": 372,
+    "speciesNameKor": "쉘곤"
+  },
+  {
+    "dex": 373,
+    "speciesNameKor": "보만다"
+  },
+  {
+    "dex": 374,
+    "speciesNameKor": "메탕"
+  },
+  {
+    "dex": 375,
+    "speciesNameKor": "메탕구"
+  },
+  {
+    "dex": 376,
+    "speciesNameKor": "메타그로스"
+  },
+  {
+    "dex": 377,
+    "speciesNameKor": "레지락"
+  },
+  {
+    "dex": 378,
+    "speciesNameKor": "레지아이스"
+  },
+  {
+    "dex": 379,
+    "speciesNameKor": "레지스틸"
+  },
+  {
+    "dex": 380,
+    "speciesNameKor": "라티아스"
+  },
+  {
+    "dex": 381,
+    "speciesNameKor": "라티오스"
+  },
+  {
+    "dex": 382,
+    "speciesNameKor": "가이오가"
+  },
+  {
+    "dex": 383,
+    "speciesNameKor": "그란돈"
+  },
+  {
+    "dex": 384,
+    "speciesNameKor": "레쿠쟈"
+  },
+  {
+    "dex": 385,
+    "speciesNameKor": "지라치"
+  },
+  {
+    "dex": 386,
+    "speciesNameKor": "테오키스"
+  },
+  {
+    "dex": 387,
+    "speciesNameKor": "모부기"
+  },
+  {
+    "dex": 388,
+    "speciesNameKor": "수풀부기"
+  },
+  {
+    "dex": 389,
+    "speciesNameKor": "토대부기"
+  },
+  {
+    "dex": 390,
+    "speciesNameKor": "불꽃숭이"
+  },
+  {
+    "dex": 391,
+    "speciesNameKor": "파이숭이"
+  },
+  {
+    "dex": 392,
+    "speciesNameKor": "초염몽"
+  },
+  {
+    "dex": 393,
+    "speciesNameKor": "팽도리"
+  },
+  {
+    "dex": 394,
+    "speciesNameKor": "팽태자"
+  },
+  {
+    "dex": 395,
+    "speciesNameKor": "엠페르트"
+  },
+  {
+    "dex": 396,
+    "speciesNameKor": "찌르꼬"
+  },
+  {
+    "dex": 397,
+    "speciesNameKor": "찌르버드"
+  },
+  {
+    "dex": 398,
+    "speciesNameKor": "찌르호크"
+  },
+  {
+    "dex": 399,
+    "speciesNameKor": "비버니"
+  },
+  {
+    "dex": 400,
+    "speciesNameKor": "비버통"
+  },
+  {
+    "dex": 401,
+    "speciesNameKor": "귀뚤뚜기"
+  },
+  {
+    "dex": 402,
+    "speciesNameKor": "귀뚤톡크"
+  },
+  {
+    "dex": 403,
+    "speciesNameKor": "꼬링크"
+  },
+  {
+    "dex": 404,
+    "speciesNameKor": "럭시오"
+  },
+  {
+    "dex": 405,
+    "speciesNameKor": "렌트라"
+  },
+  {
+    "dex": 406,
+    "speciesNameKor": "꼬몽울"
+  },
+  {
+    "dex": 407,
+    "speciesNameKor": "로즈레이드"
+  },
+  {
+    "dex": 408,
+    "speciesNameKor": "두개도스"
+  },
+  {
+    "dex": 409,
+    "speciesNameKor": "램펄드"
+  },
+  {
+    "dex": 410,
+    "speciesNameKor": "방패톱스"
+  },
+  {
+    "dex": 411,
+    "speciesNameKor": "바리톱스"
+  },
+  {
+    "dex": 412,
+    "speciesNameKor": "도롱충이"
+  },
+  {
+    "dex": 413,
+    "speciesNameKor": "도롱마담"
+  },
+  {
+    "dex": 414,
+    "speciesNameKor": "나메일"
+  },
+  {
+    "dex": 415,
+    "speciesNameKor": "세꿀버리"
+  },
+  {
+    "dex": 416,
+    "speciesNameKor": "비퀸"
+  },
+  {
+    "dex": 417,
+    "speciesNameKor": "파치리스"
+  },
+  {
+    "dex": 418,
+    "speciesNameKor": "브이젤"
+  },
+  {
+    "dex": 419,
+    "speciesNameKor": "플로젤"
+  },
+  {
+    "dex": 420,
+    "speciesNameKor": "체리버"
+  },
+  {
+    "dex": 421,
+    "speciesNameKor": "체리꼬"
+  },
+  {
+    "dex": 422,
+    "speciesNameKor": "깝질무"
+  },
+  {
+    "dex": 423,
+    "speciesNameKor": "트리토돈"
+  },
+  {
+    "dex": 424,
+    "speciesNameKor": "겟핸보숭"
+  },
+  {
+    "dex": 425,
+    "speciesNameKor": "흔들풍손"
+  },
+  {
+    "dex": 426,
+    "speciesNameKor": "둥실라이드"
+  },
+  {
+    "dex": 427,
+    "speciesNameKor": "이어롤"
+  },
+  {
+    "dex": 428,
+    "speciesNameKor": "이어롭"
+  },
+  {
+    "dex": 429,
+    "speciesNameKor": "무우마직"
+  },
+  {
+    "dex": 430,
+    "speciesNameKor": "돈크로우"
+  },
+  {
+    "dex": 431,
+    "speciesNameKor": "나옹마"
+  },
+  {
+    "dex": 432,
+    "speciesNameKor": "몬냥이"
+  },
+  {
+    "dex": 433,
+    "speciesNameKor": "랑딸랑"
+  },
+  {
+    "dex": 434,
+    "speciesNameKor": "스컹뿡"
+  },
+  {
+    "dex": 435,
+    "speciesNameKor": "스컹탱크"
+  },
+  {
+    "dex": 436,
+    "speciesNameKor": "동미러"
+  },
+  {
+    "dex": 437,
+    "speciesNameKor": "동탁군"
+  },
+  {
+    "dex": 438,
+    "speciesNameKor": "꼬지지"
+  },
+  {
+    "dex": 439,
+    "speciesNameKor": "흉내내"
+  },
+  {
+    "dex": 440,
+    "speciesNameKor": "핑복"
+  },
+  {
+    "dex": 441,
+    "speciesNameKor": "페라페"
+  },
+  {
+    "dex": 442,
+    "speciesNameKor": "화강돌"
+  },
+  {
+    "dex": 443,
+    "speciesNameKor": "딥상어동"
+  },
+  {
+    "dex": 444,
+    "speciesNameKor": "한바이트"
+  },
+  {
+    "dex": 445,
+    "speciesNameKor": "한카리아스"
+  },
+  {
+    "dex": 446,
+    "speciesNameKor": "먹고자"
+  },
+  {
+    "dex": 447,
+    "speciesNameKor": "리오르"
+  },
+  {
+    "dex": 448,
+    "speciesNameKor": "루카리오"
+  },
+  {
+    "dex": 449,
+    "speciesNameKor": "히포포타스"
+  },
+  {
+    "dex": 450,
+    "speciesNameKor": "하마돈"
+  },
+  {
+    "dex": 451,
+    "speciesNameKor": "스콜피"
+  },
+  {
+    "dex": 452,
+    "speciesNameKor": "드래피온"
+  },
+  {
+    "dex": 453,
+    "speciesNameKor": "삐딱구리"
+  },
+  {
+    "dex": 454,
+    "speciesNameKor": "독개굴"
+  },
+  {
+    "dex": 455,
+    "speciesNameKor": "무스틈니"
+  },
+  {
+    "dex": 456,
+    "speciesNameKor": "형광어"
+  },
+  {
+    "dex": 457,
+    "speciesNameKor": "네오라이트"
+  },
+  {
+    "dex": 458,
+    "speciesNameKor": "타만타"
+  },
+  {
+    "dex": 459,
+    "speciesNameKor": "눈쓰개"
+  },
+  {
+    "dex": 460,
+    "speciesNameKor": "눈설왕"
+  },
+  {
+    "dex": 461,
+    "speciesNameKor": "포푸니라"
+  },
+  {
+    "dex": 462,
+    "speciesNameKor": "자포코일"
+  },
+  {
+    "dex": 463,
+    "speciesNameKor": "내룸벨트"
+  },
+  {
+    "dex": 464,
+    "speciesNameKor": "거대코뿌리"
+  },
+  {
+    "dex": 465,
+    "speciesNameKor": "덩쿠림보"
+  },
+  {
+    "dex": 466,
+    "speciesNameKor": "에레키블"
+  },
+  {
+    "dex": 467,
+    "speciesNameKor": "마그마번"
+  },
+  {
+    "dex": 468,
+    "speciesNameKor": "토게키스"
+  },
+  {
+    "dex": 469,
+    "speciesNameKor": "메가자리"
+  },
+  {
+    "dex": 470,
+    "speciesNameKor": "리피아"
+  },
+  {
+    "dex": 471,
+    "speciesNameKor": "글레이시아"
+  },
+  {
+    "dex": 472,
+    "speciesNameKor": "글라이온"
+  },
+  {
+    "dex": 473,
+    "speciesNameKor": "맘모꾸리"
+  },
+  {
+    "dex": 474,
+    "speciesNameKor": "폴리곤Z"
+  },
+  {
+    "dex": 475,
+    "speciesNameKor": "엘레이드"
+  },
+  {
+    "dex": 476,
+    "speciesNameKor": "대코파스"
+  },
+  {
+    "dex": 477,
+    "speciesNameKor": "야느와르몽"
+  },
+  {
+    "dex": 478,
+    "speciesNameKor": "눈여아"
+  },
+  {
+    "dex": 479,
+    "speciesNameKor": "로토무"
+  },
+  {
+    "dex": 480,
+    "speciesNameKor": "유크시"
+  },
+  {
+    "dex": 481,
+    "speciesNameKor": "엠라이트"
+  },
+  {
+    "dex": 482,
+    "speciesNameKor": "아그놈"
+  },
+  {
+    "dex": 483,
+    "speciesNameKor": "디아루가"
+  },
+  {
+    "dex": 484,
+    "speciesNameKor": "펄기아"
+  },
+  {
+    "dex": 485,
+    "speciesNameKor": "히드런"
+  },
+  {
+    "dex": 486,
+    "speciesNameKor": "레지기가스"
+  },
+  {
+    "dex": 487,
+    "speciesNameKor": "기라티나"
+  },
+  {
+    "dex": 488,
+    "speciesNameKor": "크레세리아"
+  },
+  {
+    "dex": 489,
+    "speciesNameKor": "피오네"
+  },
+  {
+    "dex": 490,
+    "speciesNameKor": "마나피"
+  },
+  {
+    "dex": 491,
+    "speciesNameKor": "다크라이"
+  },
+  {
+    "dex": 492,
+    "speciesNameKor": "쉐이미"
+  },
+  {
+    "dex": 493,
+    "speciesNameKor": "아르세우스"
+  },
+  {
+    "dex": 494,
+    "speciesNameKor": "비크티니[297]"
+  },
+  {
+    "dex": 495,
+    "speciesNameKor": "주리비얀"
+  },
+  {
+    "dex": 496,
+    "speciesNameKor": "샤비"
+  },
+  {
+    "dex": 497,
+    "speciesNameKor": "샤로다"
+  },
+  {
+    "dex": 498,
+    "speciesNameKor": "뚜꾸리"
+  },
+  {
+    "dex": 499,
+    "speciesNameKor": "차오꿀"
+  },
+  {
+    "dex": 500,
+    "speciesNameKor": "염무왕"
+  },
+  {
+    "dex": 501,
+    "speciesNameKor": "수댕이"
+  },
+  {
+    "dex": 502,
+    "speciesNameKor": "쌍검자비"
+  },
+  {
+    "dex": 503,
+    "speciesNameKor": "대검귀"
+  },
+  {
+    "dex": 504,
+    "speciesNameKor": "보르쥐"
+  },
+  {
+    "dex": 505,
+    "speciesNameKor": "보르그"
+  },
+  {
+    "dex": 506,
+    "speciesNameKor": "요테리"
+  },
+  {
+    "dex": 507,
+    "speciesNameKor": "하데리어"
+  },
+  {
+    "dex": 508,
+    "speciesNameKor": "바랜드"
+  },
+  {
+    "dex": 509,
+    "speciesNameKor": "쌔비냥"
+  },
+  {
+    "dex": 510,
+    "speciesNameKor": "레파르다스"
+  },
+  {
+    "dex": 511,
+    "speciesNameKor": "야나프"
+  },
+  {
+    "dex": 512,
+    "speciesNameKor": "야나키"
+  },
+  {
+    "dex": 513,
+    "speciesNameKor": "바오프"
+  },
+  {
+    "dex": 514,
+    "speciesNameKor": "바오키"
+  },
+  {
+    "dex": 515,
+    "speciesNameKor": "앗차프"
+  },
+  {
+    "dex": 516,
+    "speciesNameKor": "앗차키"
+  },
+  {
+    "dex": 517,
+    "speciesNameKor": "몽나"
+  },
+  {
+    "dex": 518,
+    "speciesNameKor": "몽얌나"
+  },
+  {
+    "dex": 519,
+    "speciesNameKor": "콩둘기"
+  },
+  {
+    "dex": 520,
+    "speciesNameKor": "유토브"
+  },
+  {
+    "dex": 521,
+    "speciesNameKor": "켄호로우"
+  },
+  {
+    "dex": 522,
+    "speciesNameKor": "줄뮤마"
+  },
+  {
+    "dex": 523,
+    "speciesNameKor": "제브라이카"
+  },
+  {
+    "dex": 524,
+    "speciesNameKor": "단굴"
+  },
+  {
+    "dex": 525,
+    "speciesNameKor": "암트르"
+  },
+  {
+    "dex": 526,
+    "speciesNameKor": "기가이어스"
+  },
+  {
+    "dex": 527,
+    "speciesNameKor": "또르박쥐"
+  },
+  {
+    "dex": 528,
+    "speciesNameKor": "맘박쥐"
+  },
+  {
+    "dex": 529,
+    "speciesNameKor": "두더류"
+  },
+  {
+    "dex": 530,
+    "speciesNameKor": "몰드류"
+  },
+  {
+    "dex": 531,
+    "speciesNameKor": "다부니"
+  },
+  {
+    "dex": 532,
+    "speciesNameKor": "으랏차"
+  },
+  {
+    "dex": 533,
+    "speciesNameKor": "토쇠골"
+  },
+  {
+    "dex": 534,
+    "speciesNameKor": "노보청"
+  },
+  {
+    "dex": 535,
+    "speciesNameKor": "동챙이"
+  },
+  {
+    "dex": 536,
+    "speciesNameKor": "두까비"
+  },
+  {
+    "dex": 537,
+    "speciesNameKor": "두빅굴"
+  },
+  {
+    "dex": 538,
+    "speciesNameKor": "던지미"
+  },
+  {
+    "dex": 539,
+    "speciesNameKor": "타격귀"
+  },
+  {
+    "dex": 540,
+    "speciesNameKor": "두르보"
+  },
+  {
+    "dex": 541,
+    "speciesNameKor": "두르쿤"
+  },
+  {
+    "dex": 542,
+    "speciesNameKor": "모아머"
+  },
+  {
+    "dex": 543,
+    "speciesNameKor": "마디네"
+  },
+  {
+    "dex": 544,
+    "speciesNameKor": "휠구"
+  },
+  {
+    "dex": 545,
+    "speciesNameKor": "펜드라"
+  },
+  {
+    "dex": 546,
+    "speciesNameKor": "소미안"
+  },
+  {
+    "dex": 547,
+    "speciesNameKor": "엘풍"
+  },
+  {
+    "dex": 548,
+    "speciesNameKor": "치릴리"
+  },
+  {
+    "dex": 549,
+    "speciesNameKor": "드레디어"
+  },
+  {
+    "dex": 550,
+    "speciesNameKor": "배쓰나이"
+  },
+  {
+    "dex": 551,
+    "speciesNameKor": "깜눈크"
+  },
+  {
+    "dex": 552,
+    "speciesNameKor": "악비르"
+  },
+  {
+    "dex": 553,
+    "speciesNameKor": "악비아르"
+  },
+  {
+    "dex": 554,
+    "speciesNameKor": "달막화"
+  },
+  {
+    "dex": 555,
+    "speciesNameKor": "불비달마"
+  },
+  {
+    "dex": 556,
+    "speciesNameKor": "마라카치"
+  },
+  {
+    "dex": 557,
+    "speciesNameKor": "돌살이"
+  },
+  {
+    "dex": 558,
+    "speciesNameKor": "암팰리스"
+  },
+  {
+    "dex": 559,
+    "speciesNameKor": "곤율랭"
+  },
+  {
+    "dex": 560,
+    "speciesNameKor": "곤율거니"
+  },
+  {
+    "dex": 561,
+    "speciesNameKor": "심보러"
+  },
+  {
+    "dex": 562,
+    "speciesNameKor": "데스마스"
+  },
+  {
+    "dex": 563,
+    "speciesNameKor": "데스니칸"
+  },
+  {
+    "dex": 564,
+    "speciesNameKor": "프로토가"
+  },
+  {
+    "dex": 565,
+    "speciesNameKor": "늑골라"
+  },
+  {
+    "dex": 566,
+    "speciesNameKor": "아켄"
+  },
+  {
+    "dex": 567,
+    "speciesNameKor": "아케오스"
+  },
+  {
+    "dex": 568,
+    "speciesNameKor": "깨봉이"
+  },
+  {
+    "dex": 569,
+    "speciesNameKor": "더스트나"
+  },
+  {
+    "dex": 570,
+    "speciesNameKor": "조로아"
+  },
+  {
+    "dex": 571,
+    "speciesNameKor": "조로아크"
+  },
+  {
+    "dex": 572,
+    "speciesNameKor": "치라미"
+  },
+  {
+    "dex": 573,
+    "speciesNameKor": "치라치노"
+  },
+  {
+    "dex": 574,
+    "speciesNameKor": "고디탱"
+  },
+  {
+    "dex": 575,
+    "speciesNameKor": "고디보미"
+  },
+  {
+    "dex": 576,
+    "speciesNameKor": "고디모아젤"
+  },
+  {
+    "dex": 577,
+    "speciesNameKor": "유니란"
+  },
+  {
+    "dex": 578,
+    "speciesNameKor": "듀란"
+  },
+  {
+    "dex": 579,
+    "speciesNameKor": "란쿨루스"
+  },
+  {
+    "dex": 580,
+    "speciesNameKor": "꼬지보리"
+  },
+  {
+    "dex": 581,
+    "speciesNameKor": "스완나"
+  },
+  {
+    "dex": 582,
+    "speciesNameKor": "바닐프티"
+  },
+  {
+    "dex": 583,
+    "speciesNameKor": "바닐리치"
+  },
+  {
+    "dex": 584,
+    "speciesNameKor": "배바닐라"
+  },
+  {
+    "dex": 585,
+    "speciesNameKor": "사철록"
+  },
+  {
+    "dex": 586,
+    "speciesNameKor": "바라철록"
+  },
+  {
+    "dex": 587,
+    "speciesNameKor": "에몽가"
+  },
+  {
+    "dex": 588,
+    "speciesNameKor": "딱정곤"
+  },
+  {
+    "dex": 589,
+    "speciesNameKor": "슈바르고"
+  },
+  {
+    "dex": 590,
+    "speciesNameKor": "깜놀버슬"
+  },
+  {
+    "dex": 591,
+    "speciesNameKor": "뽀록나"
+  },
+  {
+    "dex": 592,
+    "speciesNameKor": "탱그릴"
+  },
+  {
+    "dex": 593,
+    "speciesNameKor": "탱탱겔"
+  },
+  {
+    "dex": 594,
+    "speciesNameKor": "맘복치"
+  },
+  {
+    "dex": 595,
+    "speciesNameKor": "파쪼옥"
+  },
+  {
+    "dex": 596,
+    "speciesNameKor": "전툴라"
+  },
+  {
+    "dex": 597,
+    "speciesNameKor": "철시드"
+  },
+  {
+    "dex": 598,
+    "speciesNameKor": "너트령"
+  },
+  {
+    "dex": 599,
+    "speciesNameKor": "기어르"
+  },
+  {
+    "dex": 600,
+    "speciesNameKor": "기기어르"
+  },
+  {
+    "dex": 601,
+    "speciesNameKor": "기기기어르"
+  },
+  {
+    "dex": 602,
+    "speciesNameKor": "저리어"
+  },
+  {
+    "dex": 603,
+    "speciesNameKor": "저리릴"
+  },
+  {
+    "dex": 604,
+    "speciesNameKor": "저리더프"
+  },
+  {
+    "dex": 605,
+    "speciesNameKor": "리그레"
+  },
+  {
+    "dex": 606,
+    "speciesNameKor": "벰크"
+  },
+  {
+    "dex": 607,
+    "speciesNameKor": "불켜미"
+  },
+  {
+    "dex": 608,
+    "speciesNameKor": "램프라"
+  },
+  {
+    "dex": 609,
+    "speciesNameKor": "샹델라"
+  },
+  {
+    "dex": 610,
+    "speciesNameKor": "터검니"
+  },
+  {
+    "dex": 611,
+    "speciesNameKor": "액슨도"
+  },
+  {
+    "dex": 612,
+    "speciesNameKor": "액스라이즈"
+  },
+  {
+    "dex": 613,
+    "speciesNameKor": "코고미"
+  },
+  {
+    "dex": 614,
+    "speciesNameKor": "툰베어"
+  },
+  {
+    "dex": 615,
+    "speciesNameKor": "프리지오"
+  },
+  {
+    "dex": 616,
+    "speciesNameKor": "쪼마리"
+  },
+  {
+    "dex": 617,
+    "speciesNameKor": "어지리더"
+  },
+  {
+    "dex": 618,
+    "speciesNameKor": "메더"
+  },
+  {
+    "dex": 619,
+    "speciesNameKor": "비조푸"
+  },
+  {
+    "dex": 620,
+    "speciesNameKor": "비조도"
+  },
+  {
+    "dex": 621,
+    "speciesNameKor": "크리만"
+  },
+  {
+    "dex": 622,
+    "speciesNameKor": "골비람"
+  },
+  {
+    "dex": 623,
+    "speciesNameKor": "골루그"
+  },
+  {
+    "dex": 624,
+    "speciesNameKor": "자망칼"
+  },
+  {
+    "dex": 625,
+    "speciesNameKor": "절각참"
+  },
+  {
+    "dex": 626,
+    "speciesNameKor": "버프론"
+  },
+  {
+    "dex": 627,
+    "speciesNameKor": "수리둥보"
+  },
+  {
+    "dex": 628,
+    "speciesNameKor": "워글"
+  },
+  {
+    "dex": 629,
+    "speciesNameKor": "벌차이"
+  },
+  {
+    "dex": 630,
+    "speciesNameKor": "버랜지나"
+  },
+  {
+    "dex": 631,
+    "speciesNameKor": "앤티골"
+  },
+  {
+    "dex": 632,
+    "speciesNameKor": "아이앤트"
+  },
+  {
+    "dex": 633,
+    "speciesNameKor": "모노두"
+  },
+  {
+    "dex": 634,
+    "speciesNameKor": "디헤드"
+  },
+  {
+    "dex": 635,
+    "speciesNameKor": "삼삼드래"
+  },
+  {
+    "dex": 636,
+    "speciesNameKor": "활화르바"
+  },
+  {
+    "dex": 637,
+    "speciesNameKor": "불카모스"
+  },
+  {
+    "dex": 638,
+    "speciesNameKor": "코바르온"
+  },
+  {
+    "dex": 639,
+    "speciesNameKor": "테라키온"
+  },
+  {
+    "dex": 640,
+    "speciesNameKor": "비리디온"
+  },
+  {
+    "dex": 641,
+    "speciesNameKor": "토네로스"
+  },
+  {
+    "dex": 642,
+    "speciesNameKor": "볼트로스"
+  },
+  {
+    "dex": 643,
+    "speciesNameKor": "레시라무"
+  },
+  {
+    "dex": 644,
+    "speciesNameKor": "제크로무"
+  },
+  {
+    "dex": 645,
+    "speciesNameKor": "랜드로스"
+  },
+  {
+    "dex": 646,
+    "speciesNameKor": "큐레무"
+  },
+  {
+    "dex": 647,
+    "speciesNameKor": "케르디오"
+  },
+  {
+    "dex": 648,
+    "speciesNameKor": "메로엣타"
+  },
+  {
+    "dex": 649,
+    "speciesNameKor": "게노세크트"
+  },
+  {
+    "dex": 650,
+    "speciesNameKor": "도치마론"
+  },
+  {
+    "dex": 651,
+    "speciesNameKor": "도치보구"
+  },
+  {
+    "dex": 652,
+    "speciesNameKor": "브리가론"
+  },
+  {
+    "dex": 653,
+    "speciesNameKor": "푸호꼬"
+  },
+  {
+    "dex": 654,
+    "speciesNameKor": "테르나"
+  },
+  {
+    "dex": 655,
+    "speciesNameKor": "마폭시"
+  },
+  {
+    "dex": 656,
+    "speciesNameKor": "개구마르"
+  },
+  {
+    "dex": 657,
+    "speciesNameKor": "개굴반장"
+  },
+  {
+    "dex": 658,
+    "speciesNameKor": "개굴닌자"
+  },
+  {
+    "dex": 659,
+    "speciesNameKor": "파르빗"
+  },
+  {
+    "dex": 660,
+    "speciesNameKor": "파르토"
+  },
+  {
+    "dex": 661,
+    "speciesNameKor": "화살꼬빈"
+  },
+  {
+    "dex": 662,
+    "speciesNameKor": "불화살빈"
+  },
+  {
+    "dex": 663,
+    "speciesNameKor": "파이어로"
+  },
+  {
+    "dex": 664,
+    "speciesNameKor": "분이벌레"
+  },
+  {
+    "dex": 665,
+    "speciesNameKor": "분떠도리"
+  },
+  {
+    "dex": 666,
+    "speciesNameKor": "비비용"
+  },
+  {
+    "dex": 667,
+    "speciesNameKor": "레오꼬"
+  },
+  {
+    "dex": 668,
+    "speciesNameKor": "화염레오"
+  },
+  {
+    "dex": 669,
+    "speciesNameKor": "플라베베"
+  },
+  {
+    "dex": 670,
+    "speciesNameKor": "플라엣테"
+  },
+  {
+    "dex": 671,
+    "speciesNameKor": "플라제스"
+  },
+  {
+    "dex": 672,
+    "speciesNameKor": "메이클"
+  },
+  {
+    "dex": 673,
+    "speciesNameKor": "고고트"
+  },
+  {
+    "dex": 674,
+    "speciesNameKor": "판짱"
+  },
+  {
+    "dex": 675,
+    "speciesNameKor": "부란다"
+  },
+  {
+    "dex": 676,
+    "speciesNameKor": "트리미앙"
+  },
+  {
+    "dex": 677,
+    "speciesNameKor": "냐스퍼"
+  },
+  {
+    "dex": 678,
+    "speciesNameKor": "냐오닉스"
+  },
+  {
+    "dex": 679,
+    "speciesNameKor": "단칼빙"
+  },
+  {
+    "dex": 680,
+    "speciesNameKor": "쌍검킬"
+  },
+  {
+    "dex": 681,
+    "speciesNameKor": "킬가르도"
+  },
+  {
+    "dex": 682,
+    "speciesNameKor": "슈쁘"
+  },
+  {
+    "dex": 683,
+    "speciesNameKor": "프레프티르"
+  },
+  {
+    "dex": 684,
+    "speciesNameKor": "나룸퍼프"
+  },
+  {
+    "dex": 685,
+    "speciesNameKor": "나루림"
+  },
+  {
+    "dex": 686,
+    "speciesNameKor": "오케이징"
+  },
+  {
+    "dex": 687,
+    "speciesNameKor": "칼라마네로"
+  },
+  {
+    "dex": 688,
+    "speciesNameKor": "거북손손"
+  },
+  {
+    "dex": 689,
+    "speciesNameKor": "거북손데스"
+  },
+  {
+    "dex": 690,
+    "speciesNameKor": "수레기"
+  },
+  {
+    "dex": 691,
+    "speciesNameKor": "드래캄"
+  },
+  {
+    "dex": 692,
+    "speciesNameKor": "완철포"
+  },
+  {
+    "dex": 693,
+    "speciesNameKor": "블로스터"
+  },
+  {
+    "dex": 694,
+    "speciesNameKor": "목도리키텔"
+  },
+  {
+    "dex": 695,
+    "speciesNameKor": "일레도리자드"
+  },
+  {
+    "dex": 696,
+    "speciesNameKor": "티고라스"
+  },
+  {
+    "dex": 697,
+    "speciesNameKor": "견고라스"
+  },
+  {
+    "dex": 698,
+    "speciesNameKor": "아마루스"
+  },
+  {
+    "dex": 699,
+    "speciesNameKor": "아마루르가"
+  },
+  {
+    "dex": 700,
+    "speciesNameKor": "님피아"
+  },
+  {
+    "dex": 701,
+    "speciesNameKor": "루차불"
+  },
+  {
+    "dex": 702,
+    "speciesNameKor": "데덴네"
+  },
+  {
+    "dex": 703,
+    "speciesNameKor": "멜리시"
+  },
+  {
+    "dex": 704,
+    "speciesNameKor": "미끄메라"
+  },
+  {
+    "dex": 705,
+    "speciesNameKor": "미끄네일"
+  },
+  {
+    "dex": 706,
+    "speciesNameKor": "미끄래곤"
+  },
+  {
+    "dex": 707,
+    "speciesNameKor": "클레피"
+  },
+  {
+    "dex": 708,
+    "speciesNameKor": "나목령"
+  },
+  {
+    "dex": 709,
+    "speciesNameKor": "대로트"
+  },
+  {
+    "dex": 710,
+    "speciesNameKor": "호바귀"
+  },
+  {
+    "dex": 711,
+    "speciesNameKor": "펌킨인"
+  },
+  {
+    "dex": 712,
+    "speciesNameKor": "꽁어름"
+  },
+  {
+    "dex": 713,
+    "speciesNameKor": "크레베이스"
+  },
+  {
+    "dex": 714,
+    "speciesNameKor": "음뱃"
+  },
+  {
+    "dex": 715,
+    "speciesNameKor": "음번"
+  },
+  {
+    "dex": 716,
+    "speciesNameKor": "제르네아스"
+  },
+  {
+    "dex": 717,
+    "speciesNameKor": "이벨타르"
+  },
+  {
+    "dex": 718,
+    "speciesNameKor": "지가르데"
+  },
+  {
+    "dex": 719,
+    "speciesNameKor": "디안시"
+  },
+  {
+    "dex": 720,
+    "speciesNameKor": "후파"
+  },
+  {
+    "dex": 721,
+    "speciesNameKor": "볼케니온"
+  },
+  {
+    "dex": 722,
+    "speciesNameKor": "나몰빼미"
+  },
+  {
+    "dex": 723,
+    "speciesNameKor": "빼미스로우"
+  },
+  {
+    "dex": 724,
+    "speciesNameKor": "모크나이퍼"
+  },
+  {
+    "dex": 725,
+    "speciesNameKor": "냐오불"
+  },
+  {
+    "dex": 726,
+    "speciesNameKor": "냐오히트"
+  },
+  {
+    "dex": 727,
+    "speciesNameKor": "어흥염"
+  },
+  {
+    "dex": 728,
+    "speciesNameKor": "누리공"
+  },
+  {
+    "dex": 729,
+    "speciesNameKor": "키요공"
+  },
+  {
+    "dex": 730,
+    "speciesNameKor": "누리레느"
+  },
+  {
+    "dex": 731,
+    "speciesNameKor": "콕코구리"
+  },
+  {
+    "dex": 732,
+    "speciesNameKor": "크라파"
+  },
+  {
+    "dex": 733,
+    "speciesNameKor": "왕큰부리"
+  },
+  {
+    "dex": 734,
+    "speciesNameKor": "영구스"
+  },
+  {
+    "dex": 735,
+    "speciesNameKor": "형사구스"
+  },
+  {
+    "dex": 736,
+    "speciesNameKor": "턱지충이"
+  },
+  {
+    "dex": 737,
+    "speciesNameKor": "전지충이"
+  },
+  {
+    "dex": 738,
+    "speciesNameKor": "투구뿌논"
+  },
+  {
+    "dex": 739,
+    "speciesNameKor": "오기지게"
+  },
+  {
+    "dex": 740,
+    "speciesNameKor": "모단단게"
+  },
+  {
+    "dex": 741,
+    "speciesNameKor": "춤추새"
+  },
+  {
+    "dex": 742,
+    "speciesNameKor": "에블리"
+  },
+  {
+    "dex": 743,
+    "speciesNameKor": "에리본"
+  },
+  {
+    "dex": 744,
+    "speciesNameKor": "암멍이"
+  },
+  {
+    "dex": 745,
+    "speciesNameKor": "루가루암"
+  },
+  {
+    "dex": 746,
+    "speciesNameKor": "약어리"
+  },
+  {
+    "dex": 747,
+    "speciesNameKor": "시마사리"
+  },
+  {
+    "dex": 748,
+    "speciesNameKor": "더시마사리"
+  },
+  {
+    "dex": 749,
+    "speciesNameKor": "머드나기"
+  },
+  {
+    "dex": 750,
+    "speciesNameKor": "만마드"
+  },
+  {
+    "dex": 751,
+    "speciesNameKor": "물거미"
+  },
+  {
+    "dex": 752,
+    "speciesNameKor": "깨비물거미"
+  },
+  {
+    "dex": 753,
+    "speciesNameKor": "짜랑랑"
+  },
+  {
+    "dex": 754,
+    "speciesNameKor": "라란티스"
+  },
+  {
+    "dex": 755,
+    "speciesNameKor": "자마슈"
+  },
+  {
+    "dex": 756,
+    "speciesNameKor": "마셰이드"
+  },
+  {
+    "dex": 757,
+    "speciesNameKor": "야도뇽"
+  },
+  {
+    "dex": 758,
+    "speciesNameKor": "염뉴트"
+  },
+  {
+    "dex": 759,
+    "speciesNameKor": "포곰곰"
+  },
+  {
+    "dex": 760,
+    "speciesNameKor": "이븐곰"
+  },
+  {
+    "dex": 761,
+    "speciesNameKor": "달콤아"
+  },
+  {
+    "dex": 762,
+    "speciesNameKor": "달무리나"
+  },
+  {
+    "dex": 763,
+    "speciesNameKor": "달코퀸"
+  },
+  {
+    "dex": 764,
+    "speciesNameKor": "큐아링"
+  },
+  {
+    "dex": 765,
+    "speciesNameKor": "하랑우탄"
+  },
+  {
+    "dex": 766,
+    "speciesNameKor": "내던숭이"
+  },
+  {
+    "dex": 767,
+    "speciesNameKor": "꼬시레"
+  },
+  {
+    "dex": 768,
+    "speciesNameKor": "갑주무사"
+  },
+  {
+    "dex": 769,
+    "speciesNameKor": "모래꿍"
+  },
+  {
+    "dex": 770,
+    "speciesNameKor": "모래성이당"
+  },
+  {
+    "dex": 771,
+    "speciesNameKor": "해무기"
+  },
+  {
+    "dex": 772,
+    "speciesNameKor": "타입:널"
+  },
+  {
+    "dex": 773,
+    "speciesNameKor": "실버디"
+  },
+  {
+    "dex": 774,
+    "speciesNameKor": "메테노"
+  },
+  {
+    "dex": 775,
+    "speciesNameKor": "자말라"
+  },
+  {
+    "dex": 776,
+    "speciesNameKor": "폭거북스"
+  },
+  {
+    "dex": 777,
+    "speciesNameKor": "토게데마루"
+  },
+  {
+    "dex": 778,
+    "speciesNameKor": "따라큐"
+  },
+  {
+    "dex": 779,
+    "speciesNameKor": "치갈기"
+  },
+  {
+    "dex": 780,
+    "speciesNameKor": "할비롱"
+  },
+  {
+    "dex": 781,
+    "speciesNameKor": "타타륜"
+  },
+  {
+    "dex": 782,
+    "speciesNameKor": "짜랑꼬"
+  },
+  {
+    "dex": 783,
+    "speciesNameKor": "짜랑고우"
+  },
+  {
+    "dex": 784,
+    "speciesNameKor": "짜랑고우거"
+  },
+  {
+    "dex": 785,
+    "speciesNameKor": "카푸꼬꼬꼭"
+  },
+  {
+    "dex": 786,
+    "speciesNameKor": "카푸나비나"
+  },
+  {
+    "dex": 787,
+    "speciesNameKor": "카푸브루루"
+  },
+  {
+    "dex": 788,
+    "speciesNameKor": "카푸느지느"
+  },
+  {
+    "dex": 789,
+    "speciesNameKor": "코스모그"
+  },
+  {
+    "dex": 790,
+    "speciesNameKor": "코스모움"
+  },
+  {
+    "dex": 791,
+    "speciesNameKor": "솔가레오"
+  },
+  {
+    "dex": 792,
+    "speciesNameKor": "루나아라"
+  },
+  {
+    "dex": 793,
+    "speciesNameKor": "텅비드"
+  },
+  {
+    "dex": 794,
+    "speciesNameKor": "매시붕"
+  },
+  {
+    "dex": 795,
+    "speciesNameKor": "페로코체"
+  },
+  {
+    "dex": 796,
+    "speciesNameKor": "전수목"
+  },
+  {
+    "dex": 797,
+    "speciesNameKor": "철화구야"
+  },
+  {
+    "dex": 798,
+    "speciesNameKor": "종이신도"
+  },
+  {
+    "dex": 799,
+    "speciesNameKor": "악식킹"
+  },
+  {
+    "dex": 800,
+    "speciesNameKor": "네크로즈마"
+  },
+  {
+    "dex": 801,
+    "speciesNameKor": "마기아나"
+  },
+  {
+    "dex": 802,
+    "speciesNameKor": "마샤도"
+  },
+  {
+    "dex": 803,
+    "speciesNameKor": "베베놈"
+  },
+  {
+    "dex": 804,
+    "speciesNameKor": "아고용"
+  },
+  {
+    "dex": 805,
+    "speciesNameKor": "차곡차곡"
+  },
+  {
+    "dex": 806,
+    "speciesNameKor": "두파팡"
+  },
+  {
+    "dex": 807,
+    "speciesNameKor": "제라오라"
+  },
+  {
+    "dex": 808,
+    "speciesNameKor": "멜탄"
+  },
+  {
+    "dex": 809,
+    "speciesNameKor": "멜메탈"
+  },
+  {
+    "dex": 810,
+    "speciesNameKor": "흥나숭"
+  },
+  {
+    "dex": 811,
+    "speciesNameKor": "채키몽"
+  },
+  {
+    "dex": 812,
+    "speciesNameKor": "고릴타"
+  },
+  {
+    "dex": 813,
+    "speciesNameKor": "염버니"
+  },
+  {
+    "dex": 814,
+    "speciesNameKor": "래비풋"
+  },
+  {
+    "dex": 815,
+    "speciesNameKor": "에이스번"
+  },
+  {
+    "dex": 816,
+    "speciesNameKor": "울머기"
+  },
+  {
+    "dex": 817,
+    "speciesNameKor": "누겔레온"
+  },
+  {
+    "dex": 818,
+    "speciesNameKor": "인텔리레온"
+  },
+  {
+    "dex": 819,
+    "speciesNameKor": "탐리스"
+  },
+  {
+    "dex": 820,
+    "speciesNameKor": "요씽리스"
+  },
+  {
+    "dex": 821,
+    "speciesNameKor": "파라꼬"
+  },
+  {
+    "dex": 822,
+    "speciesNameKor": "파크로우"
+  },
+  {
+    "dex": 823,
+    "speciesNameKor": "아머까오"
+  },
+  {
+    "dex": 824,
+    "speciesNameKor": "두루지벌레"
+  },
+  {
+    "dex": 825,
+    "speciesNameKor": "레돔벌레"
+  },
+  {
+    "dex": 826,
+    "speciesNameKor": "이올브"
+  },
+  {
+    "dex": 827,
+    "speciesNameKor": "훔처우"
+  },
+  {
+    "dex": 828,
+    "speciesNameKor": "폭슬라이"
+  },
+  {
+    "dex": 829,
+    "speciesNameKor": "꼬모카"
+  },
+  {
+    "dex": 830,
+    "speciesNameKor": "백솜모카"
+  },
+  {
+    "dex": 831,
+    "speciesNameKor": "우르"
+  },
+  {
+    "dex": 832,
+    "speciesNameKor": "배우르"
+  },
+  {
+    "dex": 833,
+    "speciesNameKor": "깨물부기"
+  },
+  {
+    "dex": 834,
+    "speciesNameKor": "갈가부기"
+  },
+  {
+    "dex": 835,
+    "speciesNameKor": "멍파치"
+  },
+  {
+    "dex": 836,
+    "speciesNameKor": "펄스멍"
+  },
+  {
+    "dex": 837,
+    "speciesNameKor": "탄동"
+  },
+  {
+    "dex": 838,
+    "speciesNameKor": "탄차곤"
+  },
+  {
+    "dex": 839,
+    "speciesNameKor": "석탄산"
+  },
+  {
+    "dex": 840,
+    "speciesNameKor": "과사삭벌레"
+  },
+  {
+    "dex": 841,
+    "speciesNameKor": "애프룡"
+  },
+  {
+    "dex": 842,
+    "speciesNameKor": "단지래플"
+  },
+  {
+    "dex": 843,
+    "speciesNameKor": "모래뱀"
+  },
+  {
+    "dex": 844,
+    "speciesNameKor": "사다이사"
+  },
+  {
+    "dex": 845,
+    "speciesNameKor": "윽우지"
+  },
+  {
+    "dex": 846,
+    "speciesNameKor": "찌로꼬치"
+  },
+  {
+    "dex": 847,
+    "speciesNameKor": "꼬치조"
+  },
+  {
+    "dex": 848,
+    "speciesNameKor": "일레즌"
+  },
+  {
+    "dex": 849,
+    "speciesNameKor": "스트린더"
+  },
+  {
+    "dex": 850,
+    "speciesNameKor": "태우지네"
+  },
+  {
+    "dex": 851,
+    "speciesNameKor": "다태우지네"
+  },
+  {
+    "dex": 852,
+    "speciesNameKor": "때때무노"
+  },
+  {
+    "dex": 853,
+    "speciesNameKor": "케오퍼스"
+  },
+  {
+    "dex": 854,
+    "speciesNameKor": "데인차"
+  },
+  {
+    "dex": 855,
+    "speciesNameKor": "포트데스"
+  },
+  {
+    "dex": 856,
+    "speciesNameKor": "몸지브림"
+  },
+  {
+    "dex": 857,
+    "speciesNameKor": "손지브림"
+  },
+  {
+    "dex": 858,
+    "speciesNameKor": "브리무음"
+  },
+  {
+    "dex": 859,
+    "speciesNameKor": "메롱꿍"
+  },
+  {
+    "dex": 860,
+    "speciesNameKor": "쏘겨모"
+  },
+  {
+    "dex": 861,
+    "speciesNameKor": "오롱털"
+  },
+  {
+    "dex": 862,
+    "speciesNameKor": "가로막구리"
+  },
+  {
+    "dex": 863,
+    "speciesNameKor": "나이킹"
+  },
+  {
+    "dex": 864,
+    "speciesNameKor": "산호르곤"
+  },
+  {
+    "dex": 865,
+    "speciesNameKor": "창파나이트"
+  },
+  {
+    "dex": 866,
+    "speciesNameKor": "마임꽁꽁"
+  },
+  {
+    "dex": 867,
+    "speciesNameKor": "데스판"
+  },
+  {
+    "dex": 868,
+    "speciesNameKor": "마빌크"
+  },
+  {
+    "dex": 869,
+    "speciesNameKor": "마휘핑"
+  },
+  {
+    "dex": 870,
+    "speciesNameKor": "대여르"
+  },
+  {
+    "dex": 871,
+    "speciesNameKor": "찌르성게"
+  },
+  {
+    "dex": 872,
+    "speciesNameKor": "누니머기"
+  },
+  {
+    "dex": 873,
+    "speciesNameKor": "모스노우"
+  },
+  {
+    "dex": 874,
+    "speciesNameKor": "돌헨진"
+  },
+  {
+    "dex": 875,
+    "speciesNameKor": "빙큐보"
+  },
+  {
+    "dex": 876,
+    "speciesNameKor": "에써르"
+  },
+  {
+    "dex": 877,
+    "speciesNameKor": "모르페코"
+  },
+  {
+    "dex": 878,
+    "speciesNameKor": "끼리동"
+  },
+  {
+    "dex": 879,
+    "speciesNameKor": "대왕끼리동"
+  },
+  {
+    "dex": 880,
+    "speciesNameKor": "파치래곤"
+  },
+  {
+    "dex": 881,
+    "speciesNameKor": "파치르돈"
+  },
+  {
+    "dex": 882,
+    "speciesNameKor": "어래곤"
+  },
+  {
+    "dex": 883,
+    "speciesNameKor": "어치르돈"
+  },
+  {
+    "dex": 884,
+    "speciesNameKor": "두랄루돈"
+  },
+  {
+    "dex": 885,
+    "speciesNameKor": "드라꼰"
+  },
+  {
+    "dex": 886,
+    "speciesNameKor": "드래런치"
+  },
+  {
+    "dex": 887,
+    "speciesNameKor": "드래펄트"
+  },
+  {
+    "dex": 888,
+    "speciesNameKor": "자시안"
+  },
+  {
+    "dex": 889,
+    "speciesNameKor": "자마젠타"
+  },
+  {
+    "dex": 890,
+    "speciesNameKor": "무한다이노"
+  },
+  {
+    "dex": 891,
+    "speciesNameKor": "치고마"
+  },
+  {
+    "dex": 892,
+    "speciesNameKor": "우리오스(일격의 태세)"
+  },
+  {
+    "dex": 892,
+    "speciesNameKor": "우라오스(연격의 태세)"
+  },
+  {
+    "dex": 893,
+    "speciesNameKor": "자루도"
+  }
+]
