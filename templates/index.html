@@ -10,9 +10,9 @@
           content="Personal Project">
 
     <!--OG tags for social-->
-    <meta property="og:title" content="ALLIN-PokemonGO">
+    <meta property="og:title" content="STGpoke">
     <meta property="og:description" content="Personal Project">
-    <meta property="og:image" content="https://pvpoke.com/img/og.jpg">
+    <meta property="og:image" content="{{ url_for('static', filename='bg_main.png') }}">
 
     <meta name="apple-mobile-web-app-capable">
     <meta name="mobile-web-app-capable">
@@ -37,7 +37,6 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
             integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
             crossorigin="anonymous"></script>
-
 </head>
 <body>
 <header>
@@ -47,7 +46,7 @@
         <!--            <div class="meat"></div>-->
         <!--            <div class="meat"></div>-->
         <!--        </div>-->
-        <h1 class="title"><a href="https://pvpoke.com/">PvPoke.com</a></h1>
+<!--        <h1 class="title"><a href="https://pvpoke.com/">나만 보는 포켓몬고</a></h1>-->
         <!--        <div class="menu">-->
         <!--            <a class="icon-battle" href="https://pvpoke.com/battle/">Battle</a>-->
         <!--            <a class="icon-train" href="https://pvpoke.com/train/">Train</a>-->
@@ -76,7 +75,6 @@
         <div class="clear"></div>
     </div>
 </header>
-<body>
 <!--<div class="main-wrap">-->
 <div id="main">
     <!--        <div class="hide mega-warning"><b>Stats for released Mega Evolutions are official but PvP performance is-->
@@ -87,22 +85,26 @@
         <!--            <p>Welcome to PvPoke.com! We're an open-source tool for simulating, ranking, and building teams for Pokemon-->
         <!--                GO PvP (player versus player) battles. Check out the links below to get started.</p>-->
 
+        <a href="https://pvpoke.com/battle/" class="button">
+            <h2 class="title">GO배틀리그 전적 기록하기</h2>
+            <p>GO배틀리그 전적 관리 및 통계</p>
+        </a>
         <a href="https://pvpoke.com/pokedex/" class="button">
             <h2 class="title">도감</h2>
             <p>포켓몬고에 등장하는 모든 포켓몬스터의 정보</p>
-        </a>
-        <a href="https://pvpoke.com/battle/" class="button">
-            <h2 class="title">배틀</h2>
-            <p>-공사중-</p>
         </a>
         <a href="https://pvpoke.com/types/" class="button">
             <h2 class="title">타입별 상성</h2>
             <p>포켓몬의 타입별 상성</p>
         </a>
-        <button class="button" type="button" data-toggle="collapse" data-target="#news" aria-expanded="false">
-            <h2 class="title">새 소식</h2>
-            <p>pokemongohub, 기타 등등에 업데이트된 소식</p>
-        </button>
+        <a href="https://pvpoke.com/battle/" class="button">
+            <h2 class="title">배틀</h2>
+            <p>-공사중-</p>
+        </a>
+        <!--        <button class="button" type="button" data-toggle="collapse" data-target="#news" aria-expanded="false">-->
+        <!--            <h2 class="title">새 소식</h2>-->
+        <!--            <p>pokemongohub, 기타 등등에 업데이트된 소식</p>-->
+        <!--        </button>-->
         <div id="news" class="collapse" data-parent="#home">
             <div class="card-body">
                 Anim pariatur cliche reprehenderit,

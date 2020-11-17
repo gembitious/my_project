@@ -10,9 +10,9 @@
           content="Personal Project">
 
     <!--OG tags for social-->
-    <meta property="og:title" content="ALLIN-PokemonGO">
+    <meta property="og:title" content="STGpoke">
     <meta property="og:description" content="Personal Project">
-    <meta property="og:image" content="https://pvpoke.com/img/og.jpg">
+    <meta property="og:image" content="{{ url_for('static', filename='bg_main.png') }}">
 
     <meta name="apple-mobile-web-app-capable">
     <meta name="mobile-web-app-capable">
@@ -21,9 +21,9 @@
     <!--OG tags for social-->
     <link rel="icon" href="https://pvpoke.com/img/favicon.png">
     <link rel="stylesheet" type="text/css" href="../static/css/style.css">
-<!--    <link rel="stylesheet" type="text/css" href="../static/css/bootstrap.min.css">-->
-<!--    <script src="../static/js/jquery.min.js"></script>-->
-<!--    <script src="../static/js/bootstrap.min.js"></script>-->
+    <!--    <link rel="stylesheet" type="text/css" href="../static/css/bootstrap.min.css">-->
+    <!--    <script src="../static/js/jquery.min.js"></script>-->
+    <!--    <script src="../static/js/bootstrap.min.js"></script>-->
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -52,26 +52,70 @@
         <div class="section home white" id="pokemonTypes">
             <div class="btn-background">
                 <!--                <div class="card-header collapsible" id="singleType">-->
-                <button class="collapsible" type="button" data-toggle="collapse" data-target="#singleTypeContent" aria-expanded="false">
-                    방어시 타입별 상성
+                <button class="collapsible" type="button" data-toggle="collapse" data-target="#singleTypeContent"
+                        aria-expanded="false">
+                    타입별 방어 상성
                 </button>
                 <!--                </div>-->
                 <div id="singleTypeContent" class="collapse" data-parent="#pokemonTypes">
-                    <div class="card-body">
-                        Anim pariatur cliche reprehenderit,
+                    <div class="type-row">
+                        <div class="type-column-narrow" style="background-color: #ffffff;">
+                            3중 반감
+                        </div>
+                        <div class="type-column-narrow" style="background-color: #ffffff;">
+                            2중 반감
+                        </div>
+                        <div class="type-column">
+                            반감
+                        </div>
+                        <div class="type-column">
+                            타입
+                        </div>
+                        <div class="type-column">
+                            약점
+                        </div>
+                        <div class="type-column">
+                            2중 약점
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="btn-background">
-                <!--                <div class="card-header" id="doubleType">-->
-                <button class="collapsible" type="button" data-toggle="collapse" data-target="#doubleTypeContent" aria-expanded="false">
-                    공격시 타입별 상성
+                <button class="collapsible" type="button" data-toggle="collapse" data-target="#doubleTypeContent"
+                        aria-expanded="false">
+                    타입별 공격 상성
                 </button>
-                <!--                </div>-->
                 <div id="doubleTypeContent" class="collapse" data-parent="#pokemonTypes">
-                    <div class="card-body">
-                        Anim pariatur cliche reprehenderit,
-                    </div>
+                    <table class="type-table">
+                        <tr><td> 타입</td><td>2중 반감</td></tr>
+                        <tr>
+                            <td>
+                                <select class="type-select">
+                                    <option value="normal" class="normal">노말</option>
+                                    <option value="fire">불꽃</option>
+                                    <option value="water">물</option>
+                                    <option value="grass">풀</option>
+                                    <option value="electric">전기</option>
+                                    <option value="ice">얼음</option>
+                                    <option value="fighting">격투</option>
+                                    <option value="poison">독</option>
+                                    <option value="ground">땅</option>
+                                    <option value="flying">비행</option>
+                                    <option value="psychic">에스퍼</option>
+                                    <option value="bug">벌레</option>
+                                    <option value="rock">바위</option>
+                                    <option value="ghost">고스트</option>
+                                    <option value="dragon">드래곤</option>
+                                    <option value="dark">악</option>
+                                    <option value="steel">강철</option>
+                                    <option value="fairy">페어리</option>
+                                </select>
+                            </td>
+                            <td>반감</td>
+                        </tr>
+                        <tr><td>-</td><td>효과적</td>
+                        </tr>
+                    </table>
                 </div>
             </div>
 

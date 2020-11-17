@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>GO Battle League 전적</title>
+    <meta name="description"
+          content="Personal Project">
+
+    <!--OG tags for social-->
+    <meta property="og:title" content="STGpoke">
+    <meta property="og:description" content="Personal Project">
+    <meta property="og:image" content="{{ url_for('static', filename='bg_main.png') }}">
+
+    <meta name="apple-mobile-web-app-capable">
+    <meta name="mobile-web-app-capable">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!--OG tags for social-->
+    <link rel="icon" href="https://pvpoke.com/img/favicon.png">
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+    <!--    <link rel="stylesheet" type="text/css" href="../static/css/bootstrap.min.css">-->
+    <!--    <script src="../static/js/jquery.min.js"></script>-->
+    <!--    <script src="../static/js/bootstrap.min.js"></script>-->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            setpokemonList();
+        });
+
+        function clearList() {
+            $('#selectMyTeamFirst').empty();
+            $('#selectMyTeamSecond').empty();
+            $('#selectMyTeamThird').empty();
+            $('#selectOppTeamFirst').empty();
+            $('#selectOppTeamSecond').empty();
+            $('#selectOppTeamThird').empty();
+        }
+
+        function setpokemonList() {
+            clearList();
+            let cup = $('#cup').val();
+            $.ajax({
+                url: "../data/gamemaster.json",
+                dataType: "json",
+                data: {},
+                success: function (res) {
+                    let dex = res["pokemon"]
+                    let pokeList = ``;
+                    for (let i = 0; i < dex.length; i++) {
+                        let id = dex[i]["speciesId"];
+                        let name = dex[i]["speciesNameKor"];
+                        let temp = `<option value="${id}">${name}</option>`;
+                        pokeList += temp;
+                        console.log(temp);
+                    }
+                    $('#selectMyTeamFirst').append(pokeList);
+                    $('#selectMyTeamSecond').append(pokeList);
+                    $('#selectMyTeamThird').append(pokeList);
+                    $('#selectOppTeamFirst').append(pokeList);
+                    $('#selectOppTeamSecond').append(pokeList);
+                    $('#selectOppTeamThird').append(pokeList);
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+
+<header>
+    <div class="header-wrap">
+        <div class="clear"></div>
+    </div>
+</header>
+<div class="main-wrap">
+    <div id="main">
+        <div class="section home white">
+            <div class="">
+                <select class="poke-select">
+                    <option value="great">슈퍼리그 (CP 1500)</option>
+                    <option value="ultra">하이퍼리그 (CP 2500)</option>
+                    <option value="master">마스터리그 (CP 무제한)</option>
+                </select>
+                <select id="cup" class="poke-select">
+                    <option value="all">모든 포켓몬</option>
+                    <option value="premier">프리미어 리그</option>
+                    <option value="kanto">관동컵</option>
+                </select>
+            </div>
+            <div id="myTeam" class="">
+                <div>
+                    <input id="myTeamFirst" class="poke-search" type="text" placeholder="포켓몬 이름 검색">
+                    <input id="myTeamSecond" class="poke-search" type="text" placeholder="포켓몬 이름 검색">
+                    <input id="myTeamThird" class="poke-search" type="text" placeholder="포켓몬 이름 검색">
+                </div>
+                <div>
+                    <select id="selectMyTeamFirst" class="poke-select">
+                        <option disabled="" selected="" value="">-</option>
+                    </select>
+                    <select id="selectMyTeamSecond" class="poke-select">
+                        <option disabled="" selected="" value="">-</option>
+                    </select>
+                    <select id="selectMyTeamThird" class="poke-select">
+                        <option disabled="" selected="" value="">-</option>
+                    </select>
+                </div>
+            </div>
+            <div id="oppTeam" class="">
+                <div>
+                    <input id="oppTeamFirst" class="poke-search" type="text" placeholder="포켓몬 이름 검색">
+                    <input id="oppTeamSecond" class="poke-search" type="text" placeholder="포켓몬 이름 검색">
+                    <input id="oppTeamThird" class="poke-search" type="text" placeholder="포켓몬 이름 검색">
+                </div>
+                <div>
+                    <select id="selectOppTeamFirst" class="poke-select">
+                        <option disabled="" selected="" value="">-</option>
+                    </select>
+                    <select id="selectOppTeamSecond" class="poke-select">
+                        <option disabled="" selected="" value="">-</option>
+                    </select>
+                    <select id="selectOppTeamThird" class="poke-select">
+                        <option disabled="" selected="" value="">-</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div><!--end #main-->
+</div><!--end #main-wrap-->
+
+<!--<footer>-->
+<!--    <p class="copyright">Version <a href="https://github.com/pvpoke/pvpoke/releases">1.16.3.3</a> © 2019, released under-->
+<!--        the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT license</a> | <a-->
+<!--                href="https://pvpoke.com/privacy/">Privacy Policy</a></p>-->
+<!--    <p>Pokémon and Pokémon GO are copyright of The Pokémon Company, Niantic, Inc., and Nintendo. All trademarked images-->
+<!--        and names are property of their respective owners, and any such material is used on this site for educational-->
+<!--        purposes only.</p>-->
+<!--</footer>-->
+
+<img class="background" src="../static/images/bg_sunset.jpg">
+
+<!--Global script-->
+<!--<script>{-->
+<!--}</script>-->
+
+</body>
+</html>

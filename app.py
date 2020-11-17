@@ -1,11 +1,12 @@
+from flask import Flask, render_template, jsonify, request
+# import requests
 from pymongo import MongoClient
 
-from flask import Flask, render_template, jsonify, request
 
 app = Flask(__name__)
 
-# client = MongoClient('localhost', 27017)
-# db = client.pokemonDB
+client = MongoClient('mongodb://kandalf123:db7575@3.34.181.37', 27017)
+db = client.pokemonDB
 
 
 # HTML 화면 보여주기

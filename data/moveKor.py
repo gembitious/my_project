@@ -12,10 +12,10 @@ time.sleep(1)
 soup = BeautifulSoup(req, 'html.parser')
 
 dex = []
-movelist = soup.select('#mw-content-text > table.prettytable.sortable.jquery-tablesorter > tbody > tr')
+movelist = soup.select('#mw-content-text > div > table.prettytable.sortable.jquery-tablesorter > tbody > tr')
 for move in movelist:
-    nameKor = move.select_one('td:nth-child(2) > a').text
-    nameEng = move.select_one('td:nth-child(4)').text
+    nameKor = move.select_one('td:nth-child(2) > a').text.strip()
+    nameEng = move.select_one('td:nth-child(4)').text.strip()
     print(nameKor, nameEng)
     info = {'name': nameEng, 'nameKor': nameKor}
     dex.append(info)
