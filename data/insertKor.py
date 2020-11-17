@@ -14,8 +14,9 @@ with open("../data/gamemaster.json", "r", encoding='utf-8') as f:
 # print(data)
 
 for poke in data["pokemon"]:
-    if "shadow" in poke["tags"]:
-        poke["speciesNameKor"] += "(그림자)"
+    if "tags" in poke:
+        if "shadow" in poke["tags"]:
+            poke["speciesNameKor"] += "(그림자)"
     # poke["speciesNameKor"] = pokeKor[poke["dex"]-1]["speciesNameKor"]
 
 # for move in data["moves"]:

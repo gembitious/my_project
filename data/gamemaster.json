@@ -355,7 +355,7 @@
 			"dex": 1,
 			"speciesName": "Bulbasaur (Shadow)",
 			"speciesId": "bulbasaur_shadow",
-			"speciesNameKor": "이상해씨",
+			"speciesNameKor": "이상해씨(그림자)",
 			"baseStats": {
 				"atk": 118,
 				"def": 111,
@@ -452,7 +452,7 @@
 			"dex": 2,
 			"speciesName": "Ivysaur (Shadow)",
 			"speciesId": "ivysaur_shadow",
-			"speciesNameKor": "이상해풀",
+			"speciesNameKor": "이상해풀(그림자)",
 			"baseStats": {
 				"atk": 151,
 				"def": 143,
@@ -608,7 +608,7 @@
 			"dex": 3,
 			"speciesName": "Venusaur (Shadow)",
 			"speciesId": "venusaur_shadow",
-			"speciesNameKor": "이상해꽃",
+			"speciesNameKor": "이상해꽃(그림자)",
 			"baseStats": {
 				"atk": 198,
 				"def": 189,
@@ -710,7 +710,7 @@
 			"dex": 4,
 			"speciesName": "Charmander (Shadow)",
 			"speciesId": "charmander_shadow",
-			"speciesNameKor": "파이리",
+			"speciesNameKor": "파이리(그림자)",
 			"baseStats": {
 				"atk": 116,
 				"def": 93,
@@ -811,7 +811,7 @@
 			"dex": 5,
 			"speciesName": "Charmeleon (Shadow)",
 			"speciesId": "charmeleon_shadow",
-			"speciesNameKor": "리자드",
+			"speciesNameKor": "리자드(그림자)",
 			"baseStats": {
 				"atk": 158,
 				"def": 126,
@@ -1049,7 +1049,7 @@
 			"dex": 6,
 			"speciesName": "Charizard (Shadow)",
 			"speciesId": "charizard_shadow",
-			"speciesNameKor": "리자몽",
+			"speciesNameKor": "리자몽(그림자)",
 			"baseStats": {
 				"atk": 223,
 				"def": 173,
@@ -1159,7 +1159,7 @@
 			"dex": 7,
 			"speciesName": "Squirtle (Shadow)",
 			"speciesId": "squirtle_shadow",
-			"speciesNameKor": "꼬부기",
+			"speciesNameKor": "꼬부기(그림자)",
 			"baseStats": {
 				"atk": 94,
 				"def": 121,
@@ -1256,7 +1256,7 @@
 			"dex": 8,
 			"speciesName": "Wartortle (Shadow)",
 			"speciesId": "wartortle_shadow",
-			"speciesNameKor": "어니부기",
+			"speciesNameKor": "어니부기(그림자)",
 			"baseStats": {
 				"atk": 126,
 				"def": 155,
@@ -1413,7 +1413,7 @@
 			"dex": 9,
 			"speciesName": "Blastoise (Shadow)",
 			"speciesId": "blastoise_shadow",
-			"speciesNameKor": "거북왕",
+			"speciesNameKor": "거북왕(그림자)",
 			"baseStats": {
 				"atk": 171,
 				"def": 207,
@@ -1644,7 +1644,7 @@
 			"dex": 13,
 			"speciesName": "Weedle (Shadow)",
 			"speciesId": "weedle_shadow",
-			"speciesNameKor": "뿔충이",
+			"speciesNameKor": "뿔충이(그림자)",
 			"baseStats": {
 				"atk": 63,
 				"def": 50,
@@ -1735,7 +1735,7 @@
 			"dex": 14,
 			"speciesName": "Kakuna (Shadow)",
 			"speciesId": "kakuna_shadow",
-			"speciesNameKor": "딱충이",
+			"speciesNameKor": "딱충이(그림자)",
 			"baseStats": {
 				"atk": 46,
 				"def": 75,
@@ -1892,7 +1892,7 @@
 			"dex": 15,
 			"speciesName": "Beedrill (Shadow)",
 			"speciesId": "beedrill_shadow",
-			"speciesNameKor": "독침붕",
+			"speciesNameKor": "독침붕(그림자)",
 			"baseStats": {
 				"atk": 169,
 				"def": 130,
@@ -2237,7 +2237,7 @@
 			"dex": 19,
 			"speciesName": "Rattata (Shadow)",
 			"speciesId": "rattata_shadow",
-			"speciesNameKor": "꼬렛",
+			"speciesNameKor": "꼬렛(그림자)",
 			"baseStats": {
 				"atk": 103,
 				"def": 70,
@@ -2380,7 +2380,7 @@
 			"dex": 20,
 			"speciesName": "Raticate (Shadow)",
 			"speciesId": "raticate_shadow",
-			"speciesNameKor": "레트라",
+			"speciesNameKor": "레트라(그림자)",
 			"baseStats": {
 				"atk": 161,
 				"def": 139,
@@ -2575,7 +2575,7 @@
 			"dex": 23,
 			"speciesName": "Ekans (Shadow)",
 			"speciesId": "ekans_shadow",
-			"speciesNameKor": "아보",
+			"speciesNameKor": "아보(그림자)",
 			"baseStats": {
 				"atk": 110,
 				"def": 97,
@@ -2676,7 +2676,7 @@
 			"dex": 24,
 			"speciesName": "Arbok (Shadow)",
 			"speciesId": "arbok_shadow",
-			"speciesNameKor": "아보크",
+			"speciesNameKor": "아보크(그림자)",
 			"baseStats": {
 				"atk": 167,
 				"def": 153,
@@ -3066,7 +3066,7 @@
 			"dex": 27,
 			"speciesName": "Sandshrew (Shadow)",
 			"speciesId": "sandshrew_shadow",
-			"speciesNameKor": "모래두지",
+			"speciesNameKor": "모래두지(그림자)",
 			"baseStats": {
 				"atk": 126,
 				"def": 120,
@@ -3214,7 +3214,7 @@
 			"dex": 28,
 			"speciesName": "Sandslash (Shadow)",
 			"speciesId": "sandslash_shadow",
-			"speciesNameKor": "고지",
+			"speciesNameKor": "고지(그림자)",
 			"baseStats": {
 				"atk": 182,
 				"def": 175,
@@ -3309,7 +3309,7 @@
 			"dex": 29,
 			"speciesName": "Nidoran♀ (Shadow)",
 			"speciesId": "nidoran_female_shadow",
-			"speciesNameKor": "니드런♀",
+			"speciesNameKor": "니드런♀(그림자)",
 			"baseStats": {
 				"atk": 86,
 				"def": 89,
@@ -3404,7 +3404,7 @@
 			"dex": 30,
 			"speciesName": "Nidorina (Shadow)",
 			"speciesId": "nidorina_shadow",
-			"speciesNameKor": "니드리나",
+			"speciesNameKor": "니드리나(그림자)",
 			"baseStats": {
 				"atk": 117,
 				"def": 120,
@@ -3500,7 +3500,7 @@
 			"dex": 31,
 			"speciesName": "Nidoqueen (Shadow)",
 			"speciesId": "nidoqueen_shadow",
-			"speciesNameKor": "니드퀸",
+			"speciesNameKor": "니드퀸(그림자)",
 			"baseStats": {
 				"atk": 180,
 				"def": 173,
@@ -3596,7 +3596,7 @@
 			"dex": 32,
 			"speciesName": "Nidoran♂ (Shadow)",
 			"speciesId": "nidoran_male_shadow",
-			"speciesNameKor": "니드런♂",
+			"speciesNameKor": "니드런♂(그림자)",
 			"baseStats": {
 				"atk": 105,
 				"def": 76,
@@ -3691,7 +3691,7 @@
 			"dex": 33,
 			"speciesName": "Nidorino (Shadow)",
 			"speciesId": "nidorino_shadow",
-			"speciesNameKor": "니드리노",
+			"speciesNameKor": "니드리노(그림자)",
 			"baseStats": {
 				"atk": 137,
 				"def": 111,
@@ -3791,7 +3791,7 @@
 			"dex": 34,
 			"speciesName": "Nidoking (Shadow)",
 			"speciesId": "nidoking_shadow",
-			"speciesNameKor": "니드킹",
+			"speciesNameKor": "니드킹(그림자)",
 			"baseStats": {
 				"atk": 204,
 				"def": 156,
@@ -4033,7 +4033,7 @@
 			"dex": 37,
 			"speciesName": "Vulpix (Shadow)",
 			"speciesId": "vulpix_shadow",
-			"speciesNameKor": "식스테일",
+			"speciesNameKor": "식스테일(그림자)",
 			"baseStats": {
 				"atk": 96,
 				"def": 109,
@@ -4187,7 +4187,7 @@
 			"dex": 38,
 			"speciesName": "Ninetales (Shadow)",
 			"speciesId": "ninetales_shadow",
-			"speciesNameKor": "나인테일",
+			"speciesNameKor": "나인테일(그림자)",
 			"baseStats": {
 				"atk": 169,
 				"def": 190,
@@ -4392,7 +4392,7 @@
 			"dex": 41,
 			"speciesName": "Zubat (Shadow)",
 			"speciesId": "zubat_shadow",
-			"speciesNameKor": "주뱃",
+			"speciesNameKor": "주뱃(그림자)",
 			"baseStats": {
 				"atk": 83,
 				"def": 73,
@@ -4495,7 +4495,7 @@
 			"dex": 42,
 			"speciesName": "Golbat (Shadow)",
 			"speciesId": "golbat_shadow",
-			"speciesNameKor": "골뱃",
+			"speciesNameKor": "골뱃(그림자)",
 			"baseStats": {
 				"atk": 161,
 				"def": 150,
@@ -4594,7 +4594,7 @@
 			"dex": 43,
 			"speciesName": "Oddish (Shadow)",
 			"speciesId": "oddish_shadow",
-			"speciesNameKor": "뚜벅쵸",
+			"speciesNameKor": "뚜벅쵸(그림자)",
 			"baseStats": {
 				"atk": 131,
 				"def": 112,
@@ -4689,7 +4689,7 @@
 			"dex": 44,
 			"speciesName": "Gloom (Shadow)",
 			"speciesId": "gloom_shadow",
-			"speciesNameKor": "냄새꼬",
+			"speciesNameKor": "냄새꼬(그림자)",
 			"baseStats": {
 				"atk": 153,
 				"def": 136,
@@ -4785,7 +4785,7 @@
 			"dex": 45,
 			"speciesName": "Vileplume (Shadow)",
 			"speciesId": "vileplume_shadow",
-			"speciesNameKor": "라플레시아",
+			"speciesNameKor": "라플레시아(그림자)",
 			"baseStats": {
 				"atk": 202,
 				"def": 167,
@@ -4973,7 +4973,7 @@
 			"dex": 48,
 			"speciesName": "Venonat (Shadow)",
 			"speciesId": "venonat_shadow",
-			"speciesNameKor": "콘팡",
+			"speciesNameKor": "콘팡(그림자)",
 			"baseStats": {
 				"atk": 100,
 				"def": 100,
@@ -5073,7 +5073,7 @@
 			"dex": 49,
 			"speciesName": "Venomoth (Shadow)",
 			"speciesId": "venomoth_shadow",
-			"speciesNameKor": "도나리",
+			"speciesNameKor": "도나리(그림자)",
 			"baseStats": {
 				"atk": 179,
 				"def": 143,
@@ -5224,7 +5224,7 @@
 			"dex": 50,
 			"speciesName": "Diglett (Shadow)",
 			"speciesId": "diglett_shadow",
-			"speciesNameKor": "디그다",
+			"speciesNameKor": "디그다(그림자)",
 			"baseStats": {
 				"atk": 109,
 				"def": 78,
@@ -5372,7 +5372,7 @@
 			"dex": 51,
 			"speciesName": "Dugtrio (Shadow)",
 			"speciesId": "dugtrio_shadow",
-			"speciesNameKor": "닥트리오",
+			"speciesNameKor": "닥트리오(그림자)",
 			"baseStats": {
 				"atk": 167,
 				"def": 136,
@@ -5565,7 +5565,7 @@
 			"dex": 52,
 			"speciesName": "Meowth (Shadow)",
 			"speciesId": "meowth_shadow",
-			"speciesNameKor": "나옹",
+			"speciesNameKor": "나옹(그림자)",
 			"baseStats": {
 				"atk": 92,
 				"def": 78,
@@ -5715,7 +5715,7 @@
 			"dex": 53,
 			"speciesName": "Persian (Shadow)",
 			"speciesId": "persian_shadow",
-			"speciesNameKor": "페르시온",
+			"speciesNameKor": "페르시온(그림자)",
 			"baseStats": {
 				"atk": 150,
 				"def": 136,
@@ -5814,7 +5814,7 @@
 			"dex": 54,
 			"speciesName": "Psyduck (Shadow)",
 			"speciesId": "psyduck_shadow",
-			"speciesNameKor": "고라파덕",
+			"speciesNameKor": "고라파덕(그림자)",
 			"baseStats": {
 				"atk": 122,
 				"def": 95,
@@ -5912,7 +5912,7 @@
 			"dex": 55,
 			"speciesName": "Golduck (Shadow)",
 			"speciesId": "golduck_shadow",
-			"speciesNameKor": "골덕",
+			"speciesNameKor": "골덕(그림자)",
 			"baseStats": {
 				"atk": 191,
 				"def": 162,
@@ -6104,7 +6104,7 @@
 			"dex": 58,
 			"speciesName": "Growlithe (Shadow)",
 			"speciesId": "growlithe_shadow",
-			"speciesNameKor": "가디",
+			"speciesNameKor": "가디(그림자)",
 			"baseStats": {
 				"atk": 136,
 				"def": 93,
@@ -6207,7 +6207,7 @@
 			"dex": 59,
 			"speciesName": "Arcanine (Shadow)",
 			"speciesId": "arcanine_shadow",
-			"speciesNameKor": "윈디",
+			"speciesNameKor": "윈디(그림자)",
 			"baseStats": {
 				"atk": 227,
 				"def": 166,
@@ -6310,7 +6310,7 @@
 			"dex": 60,
 			"speciesName": "Poliwag (Shadow)",
 			"speciesId": "poliwag_shadow",
-			"speciesNameKor": "발챙이",
+			"speciesNameKor": "발챙이(그림자)",
 			"baseStats": {
 				"atk": 101,
 				"def": 82,
@@ -6409,7 +6409,7 @@
 			"dex": 61,
 			"speciesName": "Poliwhirl (Shadow)",
 			"speciesId": "poliwhirl_shadow",
-			"speciesNameKor": "슈륙챙이[48]",
+			"speciesNameKor": "슈륙챙이[48](그림자)",
 			"baseStats": {
 				"atk": 130,
 				"def": 123,
@@ -6515,7 +6515,7 @@
 			"dex": 62,
 			"speciesName": "Poliwrath (Shadow)",
 			"speciesId": "poliwrath_shadow",
-			"speciesNameKor": "강챙이",
+			"speciesNameKor": "강챙이(그림자)",
 			"baseStats": {
 				"atk": 182,
 				"def": 184,
@@ -6617,7 +6617,7 @@
 			"dex": 63,
 			"speciesName": "Abra (Shadow)",
 			"speciesId": "abra_shadow",
-			"speciesNameKor": "캐이시",
+			"speciesNameKor": "캐이시(그림자)",
 			"baseStats": {
 				"atk": 195,
 				"def": 82,
@@ -6712,7 +6712,7 @@
 			"dex": 64,
 			"speciesName": "Kadabra (Shadow)",
 			"speciesId": "kadabra_shadow",
-			"speciesNameKor": "윤겔라",
+			"speciesNameKor": "윤겔라(그림자)",
 			"baseStats": {
 				"atk": 232,
 				"def": 117,
@@ -6816,7 +6816,7 @@
 			"dex": 65,
 			"speciesName": "Alakazam (Shadow)",
 			"speciesId": "alakazam_shadow",
-			"speciesNameKor": "후딘",
+			"speciesNameKor": "후딘(그림자)",
 			"baseStats": {
 				"atk": 271,
 				"def": 167,
@@ -6924,7 +6924,7 @@
 			"dex": 66,
 			"speciesName": "Machop (Shadow)",
 			"speciesId": "machop_shadow",
-			"speciesNameKor": "알통몬",
+			"speciesNameKor": "알통몬(그림자)",
 			"baseStats": {
 				"atk": 137,
 				"def": 82,
@@ -7027,7 +7027,7 @@
 			"dex": 67,
 			"speciesName": "Machoke (Shadow)",
 			"speciesId": "machoke_shadow",
-			"speciesNameKor": "근육몬",
+			"speciesNameKor": "근육몬(그림자)",
 			"baseStats": {
 				"atk": 177,
 				"def": 125,
@@ -7137,7 +7137,7 @@
 			"dex": 68,
 			"speciesName": "Machamp (Shadow)",
 			"speciesId": "machamp_shadow",
-			"speciesNameKor": "괴력몬",
+			"speciesNameKor": "괴력몬(그림자)",
 			"baseStats": {
 				"atk": 234,
 				"def": 159,
@@ -7243,7 +7243,7 @@
 			"dex": 69,
 			"speciesName": "Bellsprout (Shadow)",
 			"speciesId": "bellsprout_shadow",
-			"speciesNameKor": "모다피",
+			"speciesNameKor": "모다피(그림자)",
 			"baseStats": {
 				"atk": 139,
 				"def": 61,
@@ -7342,7 +7342,7 @@
 			"dex": 70,
 			"speciesName": "Weepinbell (Shadow)",
 			"speciesId": "weepinbell_shadow",
-			"speciesNameKor": "우츠동",
+			"speciesNameKor": "우츠동(그림자)",
 			"baseStats": {
 				"atk": 172,
 				"def": 92,
@@ -7444,7 +7444,7 @@
 			"dex": 71,
 			"speciesName": "Victreebel (Shadow)",
 			"speciesId": "victreebel_shadow",
-			"speciesNameKor": "우츠보트",
+			"speciesNameKor": "우츠보트(그림자)",
 			"baseStats": {
 				"atk": 207,
 				"def": 135,
@@ -8115,7 +8115,7 @@
 			"dex": 79,
 			"speciesName": "Slowpoke (Shadow)",
 			"speciesId": "slowpoke_shadow",
-			"speciesNameKor": "야돈",
+			"speciesNameKor": "야돈(그림자)",
 			"baseStats": {
 				"atk": 109,
 				"def": 98,
@@ -8210,7 +8210,7 @@
 			"dex": 80,
 			"speciesName": "Slowbro (Shadow)",
 			"speciesId": "slowbro_shadow",
-			"speciesNameKor": "야도란",
+			"speciesNameKor": "야도란(그림자)",
 			"baseStats": {
 				"atk": 177,
 				"def": 180,
@@ -8305,7 +8305,7 @@
 			"dex": 81,
 			"speciesName": "Magnemite (Shadow)",
 			"speciesId": "magnemite_shadow",
-			"speciesNameKor": "코일",
+			"speciesNameKor": "코일(그림자)",
 			"baseStats": {
 				"atk": 165,
 				"def": 121,
@@ -8402,7 +8402,7 @@
 			"dex": 82,
 			"speciesName": "Magneton (Shadow)",
 			"speciesId": "magneton_shadow",
-			"speciesNameKor": "레어코일",
+			"speciesNameKor": "레어코일(그림자)",
 			"baseStats": {
 				"atk": 223,
 				"def": 169,
@@ -8852,7 +8852,7 @@
 			"dex": 88,
 			"speciesName": "Grimer (Shadow)",
 			"speciesId": "grimer_shadow",
-			"speciesNameKor": "질퍽이",
+			"speciesNameKor": "질퍽이(그림자)",
 			"baseStats": {
 				"atk": 135,
 				"def": 90,
@@ -9007,7 +9007,7 @@
 			"dex": 89,
 			"speciesName": "Muk (Shadow)",
 			"speciesId": "muk_shadow",
-			"speciesNameKor": "질뻐기",
+			"speciesNameKor": "질뻐기(그림자)",
 			"baseStats": {
 				"atk": 190,
 				"def": 172,
@@ -9108,7 +9108,7 @@
 			"dex": 90,
 			"speciesName": "Shellder (Shadow)",
 			"speciesId": "shellder_shadow",
-			"speciesNameKor": "셀러",
+			"speciesNameKor": "셀러(그림자)",
 			"baseStats": {
 				"atk": 116,
 				"def": 134,
@@ -9208,7 +9208,7 @@
 			"dex": 91,
 			"speciesName": "Cloyster (Shadow)",
 			"speciesId": "cloyster_shadow",
-			"speciesNameKor": "파르셀",
+			"speciesNameKor": "파르셀(그림자)",
 			"baseStats": {
 				"atk": 186,
 				"def": 256,
@@ -9577,7 +9577,7 @@
 			"dex": 96,
 			"speciesName": "Drowzee (Shadow)",
 			"speciesId": "drowzee_shadow",
-			"speciesNameKor": "슬리프",
+			"speciesNameKor": "슬리프(그림자)",
 			"baseStats": {
 				"atk": 89,
 				"def": 136,
@@ -9681,7 +9681,7 @@
 			"dex": 97,
 			"speciesName": "Hypno (Shadow)",
 			"speciesId": "hypno_shadow",
-			"speciesNameKor": "슬리퍼",
+			"speciesNameKor": "슬리퍼(그림자)",
 			"baseStats": {
 				"atk": 144,
 				"def": 193,
@@ -9975,7 +9975,7 @@
 			"dex": 102,
 			"speciesName": "Exeggcute (Shadow)",
 			"speciesId": "exeggcute_shadow",
-			"speciesNameKor": "아라리",
+			"speciesNameKor": "아라리(그림자)",
 			"baseStats": {
 				"atk": 107,
 				"def": 125,
@@ -10123,7 +10123,7 @@
 			"dex": 103,
 			"speciesName": "Exeggutor (Shadow)",
 			"speciesId": "exeggutor_shadow",
-			"speciesNameKor": "나시",
+			"speciesNameKor": "나시(그림자)",
 			"baseStats": {
 				"atk": 233,
 				"def": 149,
@@ -10224,7 +10224,7 @@
 			"dex": 104,
 			"speciesName": "Cubone (Shadow)",
 			"speciesId": "cubone_shadow",
-			"speciesNameKor": "탕구리",
+			"speciesNameKor": "탕구리(그림자)",
 			"baseStats": {
 				"atk": 90,
 				"def": 144,
@@ -10373,7 +10373,7 @@
 			"dex": 105,
 			"speciesName": "Marowak (Shadow)",
 			"speciesId": "marowak_shadow",
-			"speciesNameKor": "텅구리",
+			"speciesNameKor": "텅구리(그림자)",
 			"baseStats": {
 				"atk": 144,
 				"def": 186,
@@ -10474,7 +10474,7 @@
 			"dex": 106,
 			"speciesName": "Hitmonlee (Shadow)",
 			"speciesId": "hitmonlee_shadow",
-			"speciesNameKor": "시라소몬",
+			"speciesNameKor": "시라소몬(그림자)",
 			"baseStats": {
 				"atk": 224,
 				"def": 181,
@@ -10583,7 +10583,7 @@
 			"dex": 107,
 			"speciesName": "Hitmonchan (Shadow)",
 			"speciesId": "hitmonchan_shadow",
-			"speciesNameKor": "홍수몬",
+			"speciesNameKor": "홍수몬(그림자)",
 			"baseStats": {
 				"atk": 193,
 				"def": 197,
@@ -10740,7 +10740,7 @@
 			"dex": 109,
 			"speciesName": "Koffing (Shadow)",
 			"speciesId": "koffing_shadow",
-			"speciesNameKor": "또가스",
+			"speciesNameKor": "또가스(그림자)",
 			"baseStats": {
 				"atk": 119,
 				"def": 141,
@@ -10889,7 +10889,7 @@
 			"dex": 110,
 			"speciesName": "Weezing (Shadow)",
 			"speciesId": "weezing_shadow",
-			"speciesNameKor": "또도가스",
+			"speciesNameKor": "또도가스(그림자)",
 			"baseStats": {
 				"atk": 174,
 				"def": 197,
@@ -11592,7 +11592,7 @@
 			"dex": 123,
 			"speciesName": "Scyther (Shadow)",
 			"speciesId": "scyther_shadow",
-			"speciesNameKor": "스라크",
+			"speciesNameKor": "스라크(그림자)",
 			"baseStats": {
 				"atk": 218,
 				"def": 170,
@@ -11744,7 +11744,7 @@
 			"dex": 125,
 			"speciesName": "Electabuzz (Shadow)",
 			"speciesId": "electabuzz_shadow",
-			"speciesNameKor": "에레브",
+			"speciesNameKor": "에레브(그림자)",
 			"baseStats": {
 				"atk": 198,
 				"def": 158,
@@ -11839,7 +11839,7 @@
 			"dex": 126,
 			"speciesName": "Magmar (Shadow)",
 			"speciesId": "magmar_shadow",
-			"speciesNameKor": "마그마",
+			"speciesNameKor": "마그마(그림자)",
 			"baseStats": {
 				"atk": 206,
 				"def": 154,
@@ -11941,7 +11941,7 @@
 			"dex": 127,
 			"speciesName": "Pinsir (Shadow)",
 			"speciesId": "pinsir_shadow",
-			"speciesNameKor": "쁘사이저",
+			"speciesNameKor": "쁘사이저(그림자)",
 			"baseStats": {
 				"atk": 238,
 				"def": 182,
@@ -12087,7 +12087,7 @@
 			"dex": 129,
 			"speciesName": "Magikarp (Shadow)",
 			"speciesId": "magikarp_shadow",
-			"speciesNameKor": "잉어킹",
+			"speciesNameKor": "잉어킹(그림자)",
 			"baseStats": {
 				"atk": 29,
 				"def": 85,
@@ -12190,7 +12190,7 @@
 			"dex": 130,
 			"speciesName": "Gyarados (Shadow)",
 			"speciesId": "gyarados_shadow",
-			"speciesNameKor": "갸라도스",
+			"speciesNameKor": "갸라도스(그림자)",
 			"baseStats": {
 				"atk": 237,
 				"def": 186,
@@ -12306,7 +12306,7 @@
 			"dex": 131,
 			"speciesName": "Lapras (Shadow)",
 			"speciesId": "lapras_shadow",
-			"speciesNameKor": "라프라스",
+			"speciesNameKor": "라프라스(그림자)",
 			"baseStats": {
 				"atk": 165,
 				"def": 174,
@@ -12679,7 +12679,7 @@
 			"dex": 137,
 			"speciesName": "Porygon (Shadow)",
 			"speciesId": "porygon_shadow",
-			"speciesNameKor": "폴리곤",
+			"speciesNameKor": "폴리곤(그림자)",
 			"baseStats": {
 				"atk": 153,
 				"def": 136,
@@ -12807,7 +12807,7 @@
 			"dex": 138,
 			"speciesName": "Omanyte (Shadow)",
 			"speciesId": "omanyte_shadow",
-			"speciesNameKor": "암나이트",
+			"speciesNameKor": "암나이트(그림자)",
 			"baseStats": {
 				"atk": 155,
 				"def": 153,
@@ -12914,7 +12914,7 @@
 			"dex": 139,
 			"speciesName": "Omastar (Shadow)",
 			"speciesId": "omastar_shadow",
-			"speciesNameKor": "암스타",
+			"speciesNameKor": "암스타(그림자)",
 			"baseStats": {
 				"atk": 207,
 				"def": 201,
@@ -13111,7 +13111,7 @@
 			"dex": 142,
 			"speciesName": "Aerodactyl (Shadow)",
 			"speciesId": "aerodactyl_shadow",
-			"speciesNameKor": "프테라",
+			"speciesNameKor": "프테라(그림자)",
 			"baseStats": {
 				"atk": 221,
 				"def": 159,
@@ -13218,7 +13218,7 @@
 			"dex": 143,
 			"speciesName": "Snorlax (Shadow)",
 			"speciesId": "snorlax_shadow",
-			"speciesNameKor": "잠만보",
+			"speciesNameKor": "잠만보(그림자)",
 			"baseStats": {
 				"atk": 190,
 				"def": 169,
@@ -13329,7 +13329,7 @@
 			"dex": 144,
 			"speciesName": "Articuno (Shadow)",
 			"speciesId": "articuno_shadow",
-			"speciesNameKor": "프리져",
+			"speciesNameKor": "프리져(그림자)",
 			"baseStats": {
 				"atk": 192,
 				"def": 236,
@@ -13437,7 +13437,7 @@
 			"dex": 145,
 			"speciesName": "Zapdos (Shadow)",
 			"speciesId": "zapdos_shadow",
-			"speciesNameKor": "썬더",
+			"speciesNameKor": "썬더(그림자)",
 			"baseStats": {
 				"atk": 253,
 				"def": 185,
@@ -13544,7 +13544,7 @@
 			"dex": 146,
 			"speciesName": "Moltres (Shadow)",
 			"speciesId": "moltres_shadow",
-			"speciesNameKor": "파이어",
+			"speciesNameKor": "파이어(그림자)",
 			"baseStats": {
 				"atk": 251,
 				"def": 181,
@@ -13645,7 +13645,7 @@
 			"dex": 147,
 			"speciesName": "Dratini (Shadow)",
 			"speciesId": "dratini_shadow",
-			"speciesNameKor": "미뇽",
+			"speciesNameKor": "미뇽(그림자)",
 			"baseStats": {
 				"atk": 119,
 				"def": 91,
@@ -13740,7 +13740,7 @@
 			"dex": 148,
 			"speciesName": "Dragonair (Shadow)",
 			"speciesId": "dragonair_shadow",
-			"speciesNameKor": "신뇽",
+			"speciesNameKor": "신뇽(그림자)",
 			"baseStats": {
 				"atk": 163,
 				"def": 135,
@@ -13844,7 +13844,7 @@
 			"dex": 149,
 			"speciesName": "Dragonite (Shadow)",
 			"speciesId": "dragonite_shadow",
-			"speciesNameKor": "망나뇽",
+			"speciesNameKor": "망나뇽(그림자)",
 			"baseStats": {
 				"atk": 263,
 				"def": 198,
@@ -14011,7 +14011,7 @@
 			"dex": 150,
 			"speciesName": "Mewtwo (Shadow)",
 			"speciesId": "mewtwo_shadow",
-			"speciesNameKor": "뮤츠",
+			"speciesNameKor": "뮤츠(그림자)",
 			"baseStats": {
 				"atk": 300,
 				"def": 182,
@@ -14993,7 +14993,7 @@
 			"dex": 169,
 			"speciesName": "Crobat (Shadow)",
 			"speciesId": "crobat_shadow",
-			"speciesNameKor": "크로뱃",
+			"speciesNameKor": "크로뱃(그림자)",
 			"baseStats": {
 				"atk": 194,
 				"def": 178,
@@ -15539,7 +15539,7 @@
 			"dex": 179,
 			"speciesName": "Mareep (Shadow)",
 			"speciesId": "mareep_shadow",
-			"speciesNameKor": "메리프",
+			"speciesNameKor": "메리프(그림자)",
 			"baseStats": {
 				"atk": 114,
 				"def": 79,
@@ -15634,7 +15634,7 @@
 			"dex": 180,
 			"speciesName": "Flaaffy (Shadow)",
 			"speciesId": "flaaffy_shadow",
-			"speciesNameKor": "보송송",
+			"speciesNameKor": "보송송(그림자)",
 			"baseStats": {
 				"atk": 145,
 				"def": 109,
@@ -15735,7 +15735,7 @@
 			"dex": 181,
 			"speciesName": "Ampharos (Shadow)",
 			"speciesId": "ampharos_shadow",
-			"speciesNameKor": "전룡",
+			"speciesNameKor": "전룡(그림자)",
 			"baseStats": {
 				"atk": 211,
 				"def": 169,
@@ -15837,7 +15837,7 @@
 			"dex": 182,
 			"speciesName": "Bellossom (Shadow)",
 			"speciesId": "bellossom_shadow",
-			"speciesNameKor": "아르코",
+			"speciesNameKor": "아르코(그림자)",
 			"baseStats": {
 				"atk": 169,
 				"def": 186,
@@ -16071,7 +16071,7 @@
 			"dex": 186,
 			"speciesName": "Politoed (Shadow)",
 			"speciesId": "politoed_shadow",
-			"speciesNameKor": "왕구리",
+			"speciesNameKor": "왕구리(그림자)",
 			"baseStats": {
 				"atk": 174,
 				"def": 179,
@@ -16170,7 +16170,7 @@
 			"dex": 187,
 			"speciesName": "Hoppip (Shadow)",
 			"speciesId": "hoppip_shadow",
-			"speciesNameKor": "통통코",
+			"speciesNameKor": "통통코(그림자)",
 			"baseStats": {
 				"atk": 67,
 				"def": 94,
@@ -16265,7 +16265,7 @@
 			"dex": 188,
 			"speciesName": "Skiploom (Shadow)",
 			"speciesId": "skiploom_shadow",
-			"speciesNameKor": "두코",
+			"speciesNameKor": "두코(그림자)",
 			"baseStats": {
 				"atk": 91,
 				"def": 120,
@@ -16362,7 +16362,7 @@
 			"dex": 189,
 			"speciesName": "Jumpluff (Shadow)",
 			"speciesId": "jumpluff_shadow",
-			"speciesNameKor": "솜솜코",
+			"speciesNameKor": "솜솜코(그림자)",
 			"baseStats": {
 				"atk": 118,
 				"def": 183,
@@ -16866,7 +16866,7 @@
 			"dex": 199,
 			"speciesName": "Slowking (Shadow)",
 			"speciesId": "slowking_shadow",
-			"speciesNameKor": "야도킹",
+			"speciesNameKor": "야도킹(그림자)",
 			"baseStats": {
 				"atk": 177,
 				"def": 180,
@@ -16961,7 +16961,7 @@
 			"dex": 200,
 			"speciesName": "Misdreavus (Shadow)",
 			"speciesId": "misdreavus_shadow",
-			"speciesNameKor": "무우마",
+			"speciesNameKor": "무우마(그림자)",
 			"baseStats": {
 				"atk": 167,
 				"def": 154,
@@ -17111,7 +17111,7 @@
 			"dex": 202,
 			"speciesName": "Wobbuffet (Shadow)",
 			"speciesId": "wobbuffet_shadow",
-			"speciesNameKor": "마자용",
+			"speciesNameKor": "마자용(그림자)",
 			"baseStats": {
 				"atk": 60,
 				"def": 106,
@@ -17249,7 +17249,7 @@
 			"dex": 204,
 			"speciesName": "Pineco (Shadow)",
 			"speciesId": "pineco_shadow",
-			"speciesNameKor": "피콘",
+			"speciesNameKor": "피콘(그림자)",
 			"baseStats": {
 				"atk": 108,
 				"def": 122,
@@ -17346,7 +17346,7 @@
 			"dex": 205,
 			"speciesName": "Forretress (Shadow)",
 			"speciesId": "forretress_shadow",
-			"speciesNameKor": "쏘콘",
+			"speciesNameKor": "쏘콘(그림자)",
 			"baseStats": {
 				"atk": 161,
 				"def": 205,
@@ -17487,7 +17487,7 @@
 			"dex": 207,
 			"speciesName": "Gligar (Shadow)",
 			"speciesId": "gligar_shadow",
-			"speciesNameKor": "글라이거",
+			"speciesNameKor": "글라이거(그림자)",
 			"baseStats": {
 				"atk": 143,
 				"def": 184,
@@ -17764,7 +17764,7 @@
 			"dex": 212,
 			"speciesName": "Scizor (Shadow)",
 			"speciesId": "scizor_shadow",
-			"speciesNameKor": "핫삼",
+			"speciesNameKor": "핫삼(그림자)",
 			"baseStats": {
 				"atk": 236,
 				"def": 181,
@@ -17860,7 +17860,7 @@
 			"dex": 213,
 			"speciesName": "Shuckle (Shadow)",
 			"speciesId": "shuckle_shadow",
-			"speciesNameKor": "단단지",
+			"speciesNameKor": "단단지(그림자)",
 			"baseStats": {
 				"atk": 17,
 				"def": 396,
@@ -18002,7 +18002,7 @@
 			"dex": 215,
 			"speciesName": "Sneasel (Shadow)",
 			"speciesId": "sneasel_shadow",
-			"speciesNameKor": "포푸니",
+			"speciesNameKor": "포푸니(그림자)",
 			"baseStats": {
 				"atk": 189,
 				"def": 146,
@@ -18097,7 +18097,7 @@
 			"dex": 216,
 			"speciesName": "Teddiursa (Shadow)",
 			"speciesId": "teddiursa_shadow",
-			"speciesNameKor": "깜지곰",
+			"speciesNameKor": "깜지곰(그림자)",
 			"baseStats": {
 				"atk": 142,
 				"def": 93,
@@ -18193,7 +18193,7 @@
 			"dex": 217,
 			"speciesName": "Ursaring (Shadow)",
 			"speciesId": "ursaring_shadow",
-			"speciesNameKor": "링곰",
+			"speciesNameKor": "링곰(그림자)",
 			"baseStats": {
 				"atk": 236,
 				"def": 144,
@@ -18609,7 +18609,7 @@
 			"dex": 225,
 			"speciesName": "Delibird (Shadow)",
 			"speciesId": "delibird_shadow",
-			"speciesNameKor": "딜리버드",
+			"speciesNameKor": "딜리버드(그림자)",
 			"baseStats": {
 				"atk": 128,
 				"def": 90,
@@ -18751,7 +18751,7 @@
 			"dex": 227,
 			"speciesName": "Skarmory (Shadow)",
 			"speciesId": "skarmory_shadow",
-			"speciesNameKor": "무장조",
+			"speciesNameKor": "무장조(그림자)",
 			"baseStats": {
 				"atk": 148,
 				"def": 226,
@@ -18847,7 +18847,7 @@
 			"dex": 228,
 			"speciesName": "Houndour (Shadow)",
 			"speciesId": "houndour_shadow",
-			"speciesNameKor": "델빌",
+			"speciesNameKor": "델빌(그림자)",
 			"baseStats": {
 				"atk": 152,
 				"def": 83,
@@ -18993,7 +18993,7 @@
 			"dex": 229,
 			"speciesName": "Houndoom (Shadow)",
 			"speciesId": "houndoom_shadow",
-			"speciesNameKor": "헬가",
+			"speciesNameKor": "헬가(그림자)",
 			"baseStats": {
 				"atk": 224,
 				"def": 144,
@@ -19245,7 +19245,7 @@
 			"dex": 233,
 			"speciesName": "Porygon2 (Shadow)",
 			"speciesId": "porygon2_shadow",
-			"speciesNameKor": "폴리곤2",
+			"speciesNameKor": "폴리곤2(그림자)",
 			"baseStats": {
 				"atk": 198,
 				"def": 180,
@@ -19356,7 +19356,7 @@
 			"dex": 234,
 			"speciesName": "Stantler (Shadow)",
 			"speciesId": "stantler_shadow",
-			"speciesNameKor": "노라키",
+			"speciesNameKor": "노라키(그림자)",
 			"baseStats": {
 				"atk": 192,
 				"def": 131,
@@ -20004,7 +20004,7 @@
 			"dex": 243,
 			"speciesName": "Raikou (Shadow)",
 			"speciesId": "raikou_shadow",
-			"speciesNameKor": "라이코",
+			"speciesNameKor": "라이코(그림자)",
 			"baseStats": {
 				"atk": 241,
 				"def": 195,
@@ -20104,7 +20104,7 @@
 			"dex": 244,
 			"speciesName": "Entei (Shadow)",
 			"speciesId": "entei_shadow",
-			"speciesNameKor": "앤테이",
+			"speciesNameKor": "앤테이(그림자)",
 			"baseStats": {
 				"atk": 235,
 				"def": 171,
@@ -20239,7 +20239,7 @@
 			"dex": 245,
 			"speciesName": "Suicune (Shadow)",
 			"speciesId": "suicune_shadow",
-			"speciesNameKor": "스이쿤",
+			"speciesNameKor": "스이쿤(그림자)",
 			"baseStats": {
 				"atk": 180,
 				"def": 235,
@@ -20371,7 +20371,7 @@
 			"dex": 246,
 			"speciesName": "Larvitar (Shadow)",
 			"speciesId": "larvitar_shadow",
-			"speciesNameKor": "애버라스",
+			"speciesNameKor": "애버라스(그림자)",
 			"baseStats": {
 				"atk": 115,
 				"def": 93,
@@ -20466,7 +20466,7 @@
 			"dex": 247,
 			"speciesName": "Pupitar (Shadow)",
 			"speciesId": "pupitar_shadow",
-			"speciesNameKor": "데기라스",
+			"speciesNameKor": "데기라스(그림자)",
 			"baseStats": {
 				"atk": 155,
 				"def": 133,
@@ -20566,7 +20566,7 @@
 			"dex": 248,
 			"speciesName": "Tyranitar (Shadow)",
 			"speciesId": "tyranitar_shadow",
-			"speciesNameKor": "마기라스",
+			"speciesNameKor": "마기라스(그림자)",
 			"baseStats": {
 				"atk": 251,
 				"def": 207,
@@ -21129,7 +21129,7 @@
 			"dex": 258,
 			"speciesName": "Mudkip (Shadow)",
 			"speciesId": "mudkip_shadow",
-			"speciesNameKor": "물짱이",
+			"speciesNameKor": "물짱이(그림자)",
 			"baseStats": {
 				"atk": 126,
 				"def": 93,
@@ -21225,7 +21225,7 @@
 			"dex": 259,
 			"speciesName": "Marshtomp (Shadow)",
 			"speciesId": "marshtomp_shadow",
-			"speciesNameKor": "늪짱이",
+			"speciesNameKor": "늪짱이(그림자)",
 			"baseStats": {
 				"atk": 156,
 				"def": 133,
@@ -21328,7 +21328,7 @@
 			"dex": 260,
 			"speciesName": "Swampert (Shadow)",
 			"speciesId": "swampert_shadow",
-			"speciesNameKor": "대짱이",
+			"speciesNameKor": "대짱이(그림자)",
 			"baseStats": {
 				"atk": 208,
 				"def": 175,
@@ -22049,7 +22049,7 @@
 			"dex": 273,
 			"speciesName": "Seedot (Shadow)",
 			"speciesId": "seedot_shadow",
-			"speciesNameKor": "도토링",
+			"speciesNameKor": "도토링(그림자)",
 			"baseStats": {
 				"atk": 71,
 				"def": 77,
@@ -22144,7 +22144,7 @@
 			"dex": 274,
 			"speciesName": "Nuzleaf (Shadow)",
 			"speciesId": "nuzleaf_shadow",
-			"speciesNameKor": "잎새코",
+			"speciesNameKor": "잎새코(그림자)",
 			"baseStats": {
 				"atk": 134,
 				"def": 78,
@@ -22246,7 +22246,7 @@
 			"dex": 275,
 			"speciesName": "Shiftry (Shadow)",
 			"speciesId": "shiftry_shadow",
-			"speciesNameKor": "다탱구",
+			"speciesNameKor": "다탱구(그림자)",
 			"baseStats": {
 				"atk": 200,
 				"def": 121,
@@ -22523,7 +22523,7 @@
 			"dex": 280,
 			"speciesName": "Ralts (Shadow)",
 			"speciesId": "ralts_shadow",
-			"speciesNameKor": "랄토스",
+			"speciesNameKor": "랄토스(그림자)",
 			"baseStats": {
 				"atk": 79,
 				"def": 59,
@@ -22622,7 +22622,7 @@
 			"dex": 281,
 			"speciesName": "Kirlia (Shadow)",
 			"speciesId": "kirlia_shadow",
-			"speciesNameKor": "킬리아",
+			"speciesNameKor": "킬리아(그림자)",
 			"baseStats": {
 				"atk": 117,
 				"def": 90,
@@ -22726,7 +22726,7 @@
 			"dex": 282,
 			"speciesName": "Gardevoir (Shadow)",
 			"speciesId": "gardevoir_shadow",
-			"speciesNameKor": "가디안",
+			"speciesNameKor": "가디안(그림자)",
 			"baseStats": {
 				"atk": 237,
 				"def": 195,
@@ -23682,7 +23682,7 @@
 			"dex": 302,
 			"speciesName": "Sableye (Shadow)",
 			"speciesId": "sableye_shadow",
-			"speciesNameKor": "깜까미",
+			"speciesNameKor": "깜까미(그림자)",
 			"baseStats": {
 				"atk": 141,
 				"def": 136,
@@ -23781,7 +23781,7 @@
 			"dex": 303,
 			"speciesName": "Mawile (Shadow)",
 			"speciesId": "mawile_shadow",
-			"speciesNameKor": "입치트",
+			"speciesNameKor": "입치트(그림자)",
 			"baseStats": {
 				"atk": 155,
 				"def": 141,
@@ -24507,7 +24507,7 @@
 			"dex": 318,
 			"speciesName": "Carvanha (Shadow)",
 			"speciesId": "carvanha_shadow",
-			"speciesNameKor": "샤프니아",
+			"speciesNameKor": "샤프니아(그림자)",
 			"baseStats": {
 				"atk": 171,
 				"def": 39,
@@ -24602,7 +24602,7 @@
 			"dex": 319,
 			"speciesName": "Sharpedo (Shadow)",
 			"speciesId": "sharpedo_shadow",
-			"speciesNameKor": "샤크니아",
+			"speciesNameKor": "샤크니아(그림자)",
 			"baseStats": {
 				"atk": 243,
 				"def": 83,
@@ -25053,7 +25053,7 @@
 			"dex": 328,
 			"speciesName": "Trapinch (Shadow)",
 			"speciesId": "trapinch_shadow",
-			"speciesNameKor": "톱치",
+			"speciesNameKor": "톱치(그림자)",
 			"baseStats": {
 				"atk": 162,
 				"def": 78,
@@ -25148,7 +25148,7 @@
 			"dex": 329,
 			"speciesName": "Vibrava (Shadow)",
 			"speciesId": "vibrava_shadow",
-			"speciesNameKor": "비브라바",
+			"speciesNameKor": "비브라바(그림자)",
 			"baseStats": {
 				"atk": 134,
 				"def": 99,
@@ -25247,7 +25247,7 @@
 			"dex": 330,
 			"speciesName": "Flygon (Shadow)",
 			"speciesId": "flygon_shadow",
-			"speciesNameKor": "플라이곤",
+			"speciesNameKor": "플라이곤(그림자)",
 			"baseStats": {
 				"atk": 205,
 				"def": 168,
@@ -25346,7 +25346,7 @@
 			"dex": 331,
 			"speciesName": "Cacnea (Shadow)",
 			"speciesId": "cacnea_shadow",
-			"speciesNameKor": "선인왕",
+			"speciesNameKor": "선인왕(그림자)",
 			"baseStats": {
 				"atk": 156,
 				"def": 74,
@@ -25441,7 +25441,7 @@
 			"dex": 332,
 			"speciesName": "Cacturne (Shadow)",
 			"speciesId": "cacturne_shadow",
-			"speciesNameKor": "밤선인",
+			"speciesNameKor": "밤선인(그림자)",
 			"baseStats": {
 				"atk": 221,
 				"def": 115,
@@ -26572,7 +26572,7 @@
 			"dex": 353,
 			"speciesName": "Shuppet (Shadow)",
 			"speciesId": "shuppet_shadow",
-			"speciesNameKor": "어둠대신",
+			"speciesNameKor": "어둠대신(그림자)",
 			"baseStats": {
 				"atk": 138,
 				"def": 65,
@@ -26667,7 +26667,7 @@
 			"dex": 354,
 			"speciesName": "Banette (Shadow)",
 			"speciesId": "banette_shadow",
-			"speciesNameKor": "다크펫",
+			"speciesNameKor": "다크펫(그림자)",
 			"baseStats": {
 				"atk": 218,
 				"def": 126,
@@ -26762,7 +26762,7 @@
 			"dex": 355,
 			"speciesName": "Duskull (Shadow)",
 			"speciesId": "duskull_shadow",
-			"speciesNameKor": "해골몽",
+			"speciesNameKor": "해골몽(그림자)",
 			"baseStats": {
 				"atk": 70,
 				"def": 162,
@@ -26857,7 +26857,7 @@
 			"dex": 356,
 			"speciesName": "Dusclops (Shadow)",
 			"speciesId": "dusclops_shadow",
-			"speciesNameKor": "미라몽",
+			"speciesNameKor": "미라몽(그림자)",
 			"baseStats": {
 				"atk": 124,
 				"def": 234,
@@ -27044,7 +27044,7 @@
 			"dex": 359,
 			"speciesName": "Absol (Shadow)",
 			"speciesId": "absol_shadow",
-			"speciesNameKor": "앱솔",
+			"speciesNameKor": "앱솔(그림자)",
 			"baseStats": {
 				"atk": 246,
 				"def": 120,
@@ -27623,7 +27623,7 @@
 			"dex": 371,
 			"speciesName": "Bagon (Shadow)",
 			"speciesId": "bagon_shadow",
-			"speciesNameKor": "아공이",
+			"speciesNameKor": "아공이(그림자)",
 			"baseStats": {
 				"atk": 134,
 				"def": 93,
@@ -27718,7 +27718,7 @@
 			"dex": 372,
 			"speciesName": "Shelgon (Shadow)",
 			"speciesId": "shelgon_shadow",
-			"speciesNameKor": "쉘곤",
+			"speciesNameKor": "쉘곤(그림자)",
 			"baseStats": {
 				"atk": 172,
 				"def": 155,
@@ -27818,7 +27818,7 @@
 			"dex": 373,
 			"speciesName": "Salamence (Shadow)",
 			"speciesId": "salamence_shadow",
-			"speciesNameKor": "보만다",
+			"speciesNameKor": "보만다(그림자)",
 			"baseStats": {
 				"atk": 277,
 				"def": 168,
@@ -27915,7 +27915,7 @@
 			"dex": 374,
 			"speciesName": "Beldum (Shadow)",
 			"speciesId": "beldum_shadow",
-			"speciesNameKor": "메탕",
+			"speciesNameKor": "메탕(그림자)",
 			"baseStats": {
 				"atk": 96,
 				"def": 132,
@@ -28007,7 +28007,7 @@
 			"dex": 375,
 			"speciesName": "Metang (Shadow)",
 			"speciesId": "metang_shadow",
-			"speciesNameKor": "메탕구",
+			"speciesNameKor": "메탕구(그림자)",
 			"baseStats": {
 				"atk": 138,
 				"def": 176,
@@ -28107,7 +28107,7 @@
 			"dex": 376,
 			"speciesName": "Metagross (Shadow)",
 			"speciesId": "metagross_shadow",
-			"speciesNameKor": "메타그로스",
+			"speciesNameKor": "메타그로스(그림자)",
 			"baseStats": {
 				"atk": 257,
 				"def": 228,
@@ -28836,7 +28836,7 @@
 			"dex": 387,
 			"speciesName": "Turtwig (Shadow)",
 			"speciesId": "turtwig_shadow",
-			"speciesNameKor": "모부기",
+			"speciesNameKor": "모부기(그림자)",
 			"baseStats": {
 				"atk": 119,
 				"def": 110,
@@ -28933,7 +28933,7 @@
 			"dex": 388,
 			"speciesName": "Grotle (Shadow)",
 			"speciesId": "grotle_shadow",
-			"speciesNameKor": "수풀부기",
+			"speciesNameKor": "수풀부기(그림자)",
 			"baseStats": {
 				"atk": 157,
 				"def": 143,
@@ -29035,7 +29035,7 @@
 			"dex": 389,
 			"speciesName": "Torterra (Shadow)",
 			"speciesId": "torterra_shadow",
-			"speciesNameKor": "토대부기",
+			"speciesNameKor": "토대부기(그림자)",
 			"baseStats": {
 				"atk": 202,
 				"def": 188,
@@ -31292,7 +31292,7 @@
 			"dex": 429,
 			"speciesName": "Mismagius (Shadow)",
 			"speciesId": "mismagius_shadow",
-			"speciesNameKor": "무우마직",
+			"speciesNameKor": "무우마직(그림자)",
 			"baseStats": {
 				"atk": 211,
 				"def": 187,
@@ -31566,7 +31566,7 @@
 			"dex": 434,
 			"speciesName": "Stunky (Shadow)",
 			"speciesId": "stunky_shadow",
-			"speciesNameKor": "스컹뿡",
+			"speciesNameKor": "스컹뿡(그림자)",
 			"baseStats": {
 				"atk": 121,
 				"def": 90,
@@ -31662,7 +31662,7 @@
 			"dex": 435,
 			"speciesName": "Skuntank (Shadow)",
 			"speciesId": "skuntank_shadow",
-			"speciesNameKor": "스컹탱크",
+			"speciesNameKor": "스컹탱크(그림자)",
 			"baseStats": {
 				"atk": 184,
 				"def": 132,
@@ -32790,7 +32790,7 @@
 			"dex": 459,
 			"speciesName": "Snover (Shadow)",
 			"speciesId": "snover_shadow",
-			"speciesNameKor": "눈쓰개",
+			"speciesNameKor": "눈쓰개(그림자)",
 			"baseStats": {
 				"atk": 115,
 				"def": 105,
@@ -32886,7 +32886,7 @@
 			"dex": 460,
 			"speciesName": "Abomasnow (Shadow)",
 			"speciesId": "abomasnow_shadow",
-			"speciesNameKor": "눈설왕",
+			"speciesNameKor": "눈설왕(그림자)",
 			"baseStats": {
 				"atk": 178,
 				"def": 158,
@@ -32983,7 +32983,7 @@
 			"dex": 461,
 			"speciesName": "Weavile (Shadow)",
 			"speciesId": "weavile_shadow",
-			"speciesNameKor": "포푸니라",
+			"speciesNameKor": "포푸니라(그림자)",
 			"baseStats": {
 				"atk": 243,
 				"def": 171,
@@ -33081,7 +33081,7 @@
 			"dex": 462,
 			"speciesName": "Magnezone (Shadow)",
 			"speciesId": "magnezone_shadow",
-			"speciesNameKor": "자포코일",
+			"speciesNameKor": "자포코일(그림자)",
 			"baseStats": {
 				"atk": 238,
 				"def": 205,
@@ -33327,7 +33327,7 @@
 			"dex": 466,
 			"speciesName": "Electivire (Shadow)",
 			"speciesId": "electivire_shadow",
-			"speciesNameKor": "에레키블",
+			"speciesNameKor": "에레키블(그림자)",
 			"baseStats": {
 				"atk": 249,
 				"def": 163,
@@ -33424,7 +33424,7 @@
 			"dex": 467,
 			"speciesName": "Magmortar (Shadow)",
 			"speciesId": "magmortar_shadow",
-			"speciesNameKor": "마그마번",
+			"speciesNameKor": "마그마번(그림자)",
 			"baseStats": {
 				"atk": 247,
 				"def": 172,
@@ -33723,7 +33723,7 @@
 			"dex": 472,
 			"speciesName": "Gliscor (Shadow)",
 			"speciesId": "gliscor_shadow",
-			"speciesNameKor": "글라이온",
+			"speciesNameKor": "글라이온(그림자)",
 			"baseStats": {
 				"atk": 185,
 				"def": 222,
@@ -33890,7 +33890,7 @@
 			"dex": 474,
 			"speciesName": "Porygon-Z (Shadow)",
 			"speciesId": "porygon_z_shadow",
-			"speciesNameKor": "폴리곤Z",
+			"speciesNameKor": "폴리곤Z(그림자)",
 			"baseStats": {
 				"atk": 264,
 				"def": 150,
@@ -34012,7 +34012,7 @@
 			"dex": 475,
 			"speciesName": "Gallade (Shadow)",
 			"speciesId": "gallade_shadow",
-			"speciesNameKor": "엘레이드",
+			"speciesNameKor": "엘레이드(그림자)",
 			"baseStats": {
 				"atk": 237,
 				"def": 195,
@@ -34156,7 +34156,7 @@
 			"dex": 477,
 			"speciesName": "Dusknoir (Shadow)",
 			"speciesId": "dusknoir_shadow",
-			"speciesNameKor": "야느와르몽",
+			"speciesNameKor": "야느와르몽(그림자)",
 			"baseStats": {
 				"atk": 180,
 				"def": 254,
@@ -46724,257 +46724,582 @@
 		}
 	],
 	"types": [
-      {
-        "name": "normal",
-        "nameKor": "노말",
-        "attack": {
-          "effective": [],
-          "weak": ["rock","steel"],
-          "noneffective": ["ghost"]
-        },
-        "defense": {
-          "effective": ["fighting"],
-          "resistant": [],
-          "noneffective": ["ghost"]
-        }
-      },
-      {
-        "name": "fire",
-        "nameKor": "불꽃",
-        "attack": {
-          "effective": ["grass","ice","bug","steel"],
-          "weak": ["fire","water","rock","dragon"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["water","ground","rock"],
-          "resistant": ["fire","grass","ice","bug","steel","fairy"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "water",
-        "nameKor": "물",
-        "attack": {
-          "effective": ["fire","ground","rock"],
-          "weak": ["water","grass","dragon"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["electric","grass"],
-          "resistant": ["fire","water","ice","steel"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "electric",
-        "nameKor": "전기",
-        "attack": {
-          "effective": ["water","flying"],
-          "weak": ["electric","grass","dragon"],
-          "noneffective": ["ground"]
-        },
-        "defense": {
-          "effective": ["ground"],
-          "resistant": ["electric","flying","steel"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "grass",
-        "nameKor": "풀",
-        "attack": {
-          "effective": ["water","ground","rock"],
-          "weak": ["fire","grass","poison","flying","bug","dragon","steel"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["fire","ice","poison","flying","bug"],
-          "resistant": ["water","electric","grass","ground"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "ice",
-        "nameKor": "얼음",
-        "attack": {
-          "effective": ["grass","ground","flying","dragon"],
-          "weak": ["fire","water","ice","steel"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["fire","fighting","rock","steel"],
-          "resistant": ["ice"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "fighting",
-        "nameKor": "격투",
-        "attack": {
-          "effective": ["normal","ice","rock","dark","steel"],
-          "weak": ["poison","flying","psychic","bug","fairy"],
-          "noneffective": ["ghost"]
-        },
-        "defense": {
-          "effective": ["flying","psychic","fairy"],
-          "resistant": ["bug","rock","dark"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "poison",
-        "nameKor": "독",
-        "attack": {
-          "effective": ["grass","fairy"],
-          "weak": ["poison","ground","rock","ghost"],
-          "noneffective": ["steel"]
-        },
-        "defense": {
-          "effective": ["ground","psychic"],
-          "resistant": ["grass","fighting","poison","bug","fairy"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "ground",
-        "nameKor": "땅",
-        "attack": {
-          "effective": ["fire","electric","poison","rock","steel"],
-          "weak": ["grass","bug"],
-          "noneffective": ["flying"]
-        },
-        "defense": {
-          "effective": ["water","grass","ice"],
-          "resistant": ["poison","roc"],
-          "noneffective": ["electric"]
-        }
-      },
-      {
-        "name": "flying",
-        "nameKor": "비행",
-        "attack": {
-          "effective": ["grass","fighting","bug"],
-          "weak": ["electric","rock","steel"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["electric","ice","rock"],
-          "resistant": ["grass","fighting","bug"],
-          "noneffective": ["ground"]
-        }
-      },
-      {
-        "name": "psychic",
-        "nameKor": "에스퍼",
-        "attack": {
-          "effective": ["fighting","poison"],
-          "weak": ["psychic","steel"],
-          "noneffective": ["dark"]
-        },
-        "defense": {
-          "effective": ["bug","ghost","dark"],
-          "resistant": ["fighting","psychic"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "bug",
-        "nameKor": "벌레",
-        "attack": {
-          "effective": ["grass","psychic","dark"],
-          "weak": ["fire","fighting","poison","flying","ghost","steel","fairy"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["fire","flying","rock"],
-          "resistant": ["grass","fighting","ground"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "rock",
-        "nameKor": "바위",
-        "attack": {
-          "effective": ["fire","ice","flying","bug"],
-          "weak": ["fighting","ground","steel"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["water","grass","fighting","ground","steel"],
-          "resistant": ["normal","fire","poison","flying"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "ghost",
-        "nameKor": "고스트",
-        "attack": {
-          "effective": ["psychic","ghost"],
-          "weak": ["dark"],
-          "noneffective": ["normal"]
-        },
-        "defense": {
-          "effective": ["ghost","dark"],
-          "resistant": ["poison","bug"],
-          "noneffective": ["normal","fighting"]
-        }
-      },
-      {
-        "name": "dragon",
-        "nameKor": "드래곤",
-        "attack": {
-          "effective": ["dragon"],
-          "weak": ["steel"],
-          "noneffective": ["fairy"]
-        },
-        "defense": {
-          "effective": ["ice","dragon","fairy"],
-          "resistant": ["fire","water","electric","grass"],
-          "noneffective": []
-        }
-      },
-      {
-        "name": "dark",
-        "nameKor": "악",
-        "attack": {
-          "effective": ["psychic","ghost"],
-          "weak": ["fighting","dark","fairy"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["fighting","bug","fairy"],
-          "resistant": ["ghost","dark"],
-          "noneffective": ["psychic"]
-        }
-      },
-      {
-        "name": "steel",
-        "nameKor": "강철",
-        "attack": {
-          "effective": ["ice","rock","fairy"],
-          "weak": ["fire","water","electric","steel"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["fire","fighting","ground"],
-          "resistant": ["normal","grass","ice","flying","psychic","bug","rock","dragon","steel","fairy"],
-          "noneffective": ["poison"]
-        }
-      },
-      {
-        "name": "fairy",
-        "nameKor": "페어리",
-        "attack": {
-          "effective": ["fighting","dragon","dark"],
-          "weak": ["fire","poison","steel"],
-          "noneffective": []
-        },
-        "defense": {
-          "effective": ["poison","steel"],
-          "resistant": ["fighting","bug","dark"],
-          "noneffective": ["dragon"]
-        }
-      }
-    ]
+		{
+			"name": "normal",
+			"nameKor": "노말",
+			"attack": {
+				"effective": [],
+				"weak": [
+					"rock",
+					"steel"
+				],
+				"noneffective": [
+					"ghost"
+				]
+			},
+			"defense": {
+				"effective": [
+					"fighting"
+				],
+				"resistant": [],
+				"noneffective": [
+					"ghost"
+				]
+			}
+		},
+		{
+			"name": "fire",
+			"nameKor": "불꽃",
+			"attack": {
+				"effective": [
+					"grass",
+					"ice",
+					"bug",
+					"steel"
+				],
+				"weak": [
+					"fire",
+					"water",
+					"rock",
+					"dragon"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"water",
+					"ground",
+					"rock"
+				],
+				"resistant": [
+					"fire",
+					"grass",
+					"ice",
+					"bug",
+					"steel",
+					"fairy"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "water",
+			"nameKor": "물",
+			"attack": {
+				"effective": [
+					"fire",
+					"ground",
+					"rock"
+				],
+				"weak": [
+					"water",
+					"grass",
+					"dragon"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"electric",
+					"grass"
+				],
+				"resistant": [
+					"fire",
+					"water",
+					"ice",
+					"steel"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "electric",
+			"nameKor": "전기",
+			"attack": {
+				"effective": [
+					"water",
+					"flying"
+				],
+				"weak": [
+					"electric",
+					"grass",
+					"dragon"
+				],
+				"noneffective": [
+					"ground"
+				]
+			},
+			"defense": {
+				"effective": [
+					"ground"
+				],
+				"resistant": [
+					"electric",
+					"flying",
+					"steel"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "grass",
+			"nameKor": "풀",
+			"attack": {
+				"effective": [
+					"water",
+					"ground",
+					"rock"
+				],
+				"weak": [
+					"fire",
+					"grass",
+					"poison",
+					"flying",
+					"bug",
+					"dragon",
+					"steel"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"fire",
+					"ice",
+					"poison",
+					"flying",
+					"bug"
+				],
+				"resistant": [
+					"water",
+					"electric",
+					"grass",
+					"ground"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "ice",
+			"nameKor": "얼음",
+			"attack": {
+				"effective": [
+					"grass",
+					"ground",
+					"flying",
+					"dragon"
+				],
+				"weak": [
+					"fire",
+					"water",
+					"ice",
+					"steel"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"fire",
+					"fighting",
+					"rock",
+					"steel"
+				],
+				"resistant": [
+					"ice"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "fighting",
+			"nameKor": "격투",
+			"attack": {
+				"effective": [
+					"normal",
+					"ice",
+					"rock",
+					"dark",
+					"steel"
+				],
+				"weak": [
+					"poison",
+					"flying",
+					"psychic",
+					"bug",
+					"fairy"
+				],
+				"noneffective": [
+					"ghost"
+				]
+			},
+			"defense": {
+				"effective": [
+					"flying",
+					"psychic",
+					"fairy"
+				],
+				"resistant": [
+					"bug",
+					"rock",
+					"dark"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "poison",
+			"nameKor": "독",
+			"attack": {
+				"effective": [
+					"grass",
+					"fairy"
+				],
+				"weak": [
+					"poison",
+					"ground",
+					"rock",
+					"ghost"
+				],
+				"noneffective": [
+					"steel"
+				]
+			},
+			"defense": {
+				"effective": [
+					"ground",
+					"psychic"
+				],
+				"resistant": [
+					"grass",
+					"fighting",
+					"poison",
+					"bug",
+					"fairy"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "ground",
+			"nameKor": "땅",
+			"attack": {
+				"effective": [
+					"fire",
+					"electric",
+					"poison",
+					"rock",
+					"steel"
+				],
+				"weak": [
+					"grass",
+					"bug"
+				],
+				"noneffective": [
+					"flying"
+				]
+			},
+			"defense": {
+				"effective": [
+					"water",
+					"grass",
+					"ice"
+				],
+				"resistant": [
+					"poison",
+					"roc"
+				],
+				"noneffective": [
+					"electric"
+				]
+			}
+		},
+		{
+			"name": "flying",
+			"nameKor": "비행",
+			"attack": {
+				"effective": [
+					"grass",
+					"fighting",
+					"bug"
+				],
+				"weak": [
+					"electric",
+					"rock",
+					"steel"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"electric",
+					"ice",
+					"rock"
+				],
+				"resistant": [
+					"grass",
+					"fighting",
+					"bug"
+				],
+				"noneffective": [
+					"ground"
+				]
+			}
+		},
+		{
+			"name": "psychic",
+			"nameKor": "에스퍼",
+			"attack": {
+				"effective": [
+					"fighting",
+					"poison"
+				],
+				"weak": [
+					"psychic",
+					"steel"
+				],
+				"noneffective": [
+					"dark"
+				]
+			},
+			"defense": {
+				"effective": [
+					"bug",
+					"ghost",
+					"dark"
+				],
+				"resistant": [
+					"fighting",
+					"psychic"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "bug",
+			"nameKor": "벌레",
+			"attack": {
+				"effective": [
+					"grass",
+					"psychic",
+					"dark"
+				],
+				"weak": [
+					"fire",
+					"fighting",
+					"poison",
+					"flying",
+					"ghost",
+					"steel",
+					"fairy"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"fire",
+					"flying",
+					"rock"
+				],
+				"resistant": [
+					"grass",
+					"fighting",
+					"ground"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "rock",
+			"nameKor": "바위",
+			"attack": {
+				"effective": [
+					"fire",
+					"ice",
+					"flying",
+					"bug"
+				],
+				"weak": [
+					"fighting",
+					"ground",
+					"steel"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"water",
+					"grass",
+					"fighting",
+					"ground",
+					"steel"
+				],
+				"resistant": [
+					"normal",
+					"fire",
+					"poison",
+					"flying"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "ghost",
+			"nameKor": "고스트",
+			"attack": {
+				"effective": [
+					"psychic",
+					"ghost"
+				],
+				"weak": [
+					"dark"
+				],
+				"noneffective": [
+					"normal"
+				]
+			},
+			"defense": {
+				"effective": [
+					"ghost",
+					"dark"
+				],
+				"resistant": [
+					"poison",
+					"bug"
+				],
+				"noneffective": [
+					"normal",
+					"fighting"
+				]
+			}
+		},
+		{
+			"name": "dragon",
+			"nameKor": "드래곤",
+			"attack": {
+				"effective": [
+					"dragon"
+				],
+				"weak": [
+					"steel"
+				],
+				"noneffective": [
+					"fairy"
+				]
+			},
+			"defense": {
+				"effective": [
+					"ice",
+					"dragon",
+					"fairy"
+				],
+				"resistant": [
+					"fire",
+					"water",
+					"electric",
+					"grass"
+				],
+				"noneffective": []
+			}
+		},
+		{
+			"name": "dark",
+			"nameKor": "악",
+			"attack": {
+				"effective": [
+					"psychic",
+					"ghost"
+				],
+				"weak": [
+					"fighting",
+					"dark",
+					"fairy"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"fighting",
+					"bug",
+					"fairy"
+				],
+				"resistant": [
+					"ghost",
+					"dark"
+				],
+				"noneffective": [
+					"psychic"
+				]
+			}
+		},
+		{
+			"name": "steel",
+			"nameKor": "강철",
+			"attack": {
+				"effective": [
+					"ice",
+					"rock",
+					"fairy"
+				],
+				"weak": [
+					"fire",
+					"water",
+					"electric",
+					"steel"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"fire",
+					"fighting",
+					"ground"
+				],
+				"resistant": [
+					"normal",
+					"grass",
+					"ice",
+					"flying",
+					"psychic",
+					"bug",
+					"rock",
+					"dragon",
+					"steel",
+					"fairy"
+				],
+				"noneffective": [
+					"poison"
+				]
+			}
+		},
+		{
+			"name": "fairy",
+			"nameKor": "페어리",
+			"attack": {
+				"effective": [
+					"fighting",
+					"dragon",
+					"dark"
+				],
+				"weak": [
+					"fire",
+					"poison",
+					"steel"
+				],
+				"noneffective": []
+			},
+			"defense": {
+				"effective": [
+					"poison",
+					"steel"
+				],
+				"resistant": [
+					"fighting",
+					"bug",
+					"dark"
+				],
+				"noneffective": [
+					"dragon"
+				]
+			}
+		}
+	]
 }
