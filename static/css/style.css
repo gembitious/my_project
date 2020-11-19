@@ -286,6 +286,7 @@ a.toggle {
 
 .poke-search {
     /*margin-bottom: 15px;*/
+    box-sizing: border-box;
 }
 
 select{
@@ -336,6 +337,42 @@ select::-ms-expand{
 .type-table{
     /*float: left;*/
     padding: 10px;
+}
+
+.team-header{
+    margin-bottom: 5px;
+}
+
+.team-table{
+    width: 100%;
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+    table-layout: fixed;
+}
+
+.team-table th{
+    border: 1px solid #808080;
+    background-color: #7ca2dc;
+}
+
+.team-table tr,td{
+    border: 1px solid #000000;
+}
+
+.team-table td{
+}
+
+.result-table{
+    width: 100%;
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+.result-table th{
+    border: 1px solid #808080;
+    background-color: #dc7c7c;
 }
 
 @media screen and (max-width: 720px) {

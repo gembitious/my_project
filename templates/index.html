@@ -49,7 +49,8 @@
             $('#selectPokemon').empty();
             let cup = $('#cup').val();
             $.ajax({
-                url: "{{ url_for('static', filename='data/gamemaster.json') }}",
+                url: "../static/data/gamemaster.json",
+                // url: "{{ url_for('static', filename='data/gamemaster.json') }}",
                 dataType: "json",
                 data: {},
                 success: function (res) {

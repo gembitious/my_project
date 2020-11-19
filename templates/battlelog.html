@@ -40,14 +40,35 @@
             setPokemonList();
         });
 
-        function saveResult(){
-
+        function saveResult() {
+            let idx = $("#resultList tr").length() + 1;
+            let my1 = $("#selectMyTeamFirst").val();
+            let my2 = $("#selectMyTeamSecond").val();
+            let my3 = $("#selectMyTeamThird").val();
+            let opp1 = $("#selectOppTeamFirst").val();
+            let opp2 = $("#selectOppTeamSecond").val();
+            let opp3 = $("#selectOppTeamThird").val();
+            let result = $("#battleResult").val();
+            $.ajax({
+                type: 'POST',
+                url: "/battlelog/save",
+                data: {
+                    'index': idx, 'my_first': my1, 'my_second': my2, 'my_third': my3,
+                    'opp_first': opp1, 'opp_second': opp2, 'opp_third': opp3, 'result': result
+                },
+                success: function (response) {
+                    if (response['result'] == 'success') {
+                        alert('등록 완료!');
+                        window.location.reload();
+                    }
+                }
+            });
         }
 
-        function checkName(obj, target){
+        function checkName(obj, target) {
             let x = $(obj).val();
-            let id = $('#'+target+" > option:contains("+x+")").val();
-            $('#'+target).val(id).prop("selected",true);
+            let id = $('#' + target + " > option:contains(" + x + ")").val();
+            $('#' + target).val(id).prop("selected", true);
         }
 
         function clearList() {
@@ -70,7 +91,8 @@
             clearList();
             let cup = $('#cup').val();
             $.ajax({
-                url: "{{ url_for('static', filename='data/gamemaster.json') }}",
+                url: "../static/data/gamemaster.json",
+                // url: "{{ url_for('static', filename='data/gamemaster.json') }}",
                 dataType: "json",
                 data: {},
                 success: function (res) {
@@ -103,8 +125,8 @@
 </header>
 <div class="main-wrap">
     <div id="main">
-        <div class="section home white">
-            <div class="">
+        <div class="section log white">
+            <div class="team-header">
                 <select class="poke-select">
                     <option value="great">슈퍼리그 (CP 1500)</option>
                     <option value="ultra">하이퍼리그 (CP 2500)</option>
@@ -116,48 +138,64 @@
                     <option value="kanto">관동컵</option>
                 </select>
             </div>
-            <div id="myTeam" class="">
-                <div>
-                    <input id="myTeamFirst" class="poke-search" type="text" placeholder="포켓몬 이름 검색" onkeyup="checkName(this, 'selectMyTeamFirst')">
-                    <input id="myTeamSecond" class="poke-search" type="text" placeholder="포켓몬 이름 검색" onkeyup="checkName(this, 'selectMyTeamSecond')">
-                    <input id="myTeamThird" class="poke-search" type="text" placeholder="포켓몬 이름 검색" onkeyup="checkName(this, 'selectMyTeamThird')">
-                </div>
-                <div>
-                    <select id="selectMyTeamFirst" class="poke-select">
+            <table id="myTeam" class="team-table">
+                <th colspan="3">내 팀</th>
+                <tr>
+                    <td><input id="myTeamFirst" class="poke-search" type="text" placeholder="포켓몬 이름 검색"
+                               onkeyup="checkName(this, 'selectMyTeamFirst')"></td>
+                    <td><input id="myTeamSecond" class="poke-search" type="text" placeholder="포켓몬 이름 검색"
+                               onkeyup="checkName(this, 'selectMyTeamSecond')"></td>
+                    <td><input id="myTeamThird" class="poke-search" type="text" placeholder="포켓몬 이름 검색"
+                               onkeyup="checkName(this, 'selectMyTeamThird')"></td>
+                </tr>
+                <tr>
+                    <td><select id="selectMyTeamFirst" class="poke-select">
                         <option disabled="" selected="" value="">-</option>
-                    </select>
-                    <select id="selectMyTeamSecond" class="poke-select">
+                    </select></td>
+                    <td><select id="selectMyTeamSecond" class="poke-select">
                         <option disabled="" selected="" value="">-</option>
-                    </select>
-                    <select id="selectMyTeamThird" class="poke-select">
+                    </select></td>
+                    <td><select id="selectMyTeamThird" class="poke-select">
                         <option disabled="" selected="" value="">-</option>
-                    </select>
-                </div>
+                    </select></td>
+                </tr>
+            </table>
+            <table id="oppTeam" class="team-table">
+                <th colspan="3">상대 팀</th>
+                <tr>
+                    <td><input id="oppTeamFirst" class="poke-search" type="text" placeholder="포켓몬 이름 검색"
+                               onkeyup="checkName(this, 'selectOppTeamFirst')"></td>
+                    <td><input id="oppTeamSecond" class="poke-search" type="text" placeholder="포켓몬 이름 검색"
+                               onkeyup="checkName(this, 'selectOppTeamSecond')"></td>
+                    <td><input id="oppTeamThird" class="poke-search" type="text" placeholder="포켓몬 이름 검색"
+                               onkeyup="checkName(this, 'selectOppTeamThird')"></td>
+                </tr>
+                <tr>
+                    <td><select id="selectOppTeamFirst" class="poke-select">
+                        <option disabled="" selected="" value="">-</option>
+                    </select></td>
+                    <td><select id="selectOppTeamSecond" class="poke-select">
+                        <option disabled="" selected="" value="">-</option>
+                    </select></td>
+                    <td><select id="selectOppTeamThird" class="poke-select">
+                        <option disabled="" selected="" value="">-</option>
+                    </select></td>
+                </tr>
+            </table>
+            <div>
+                <select id="battleResult">
+                    <option>승리</option>
+                    <option>패배</option>
+                    <option>무승부</option>
+                </select>
+                <button onclick="saveResult()" type="button">저장</button>
             </div>
-            <div id="oppTeam" class="">
-                <div>
-                    <input id="oppTeamFirst" class="poke-search" type="text" placeholder="포켓몬 이름 검색" onkeyup="checkName(this, 'selectOppTeamFirst')">
-                    <input id="oppTeamSecond" class="poke-search" type="text" placeholder="포켓몬 이름 검색" onkeyup="checkName(this, 'selectOppTeamSecond')">
-                    <input id="oppTeamThird" class="poke-search" type="text" placeholder="포켓몬 이름 검색" onkeyup="checkName(this, 'selectOppTeamThird')">
-                    <select>
-                        <option>승리</option>
-                        <option>패배</option>
-                        <option>무승부</option>
-                    </select>
-                    <button onclick="saveResult()">저장</button>
-                </div>
-                <div>
-                    <select id="selectOppTeamFirst" class="poke-select">
-                        <option disabled="" selected="" value="">-</option>
-                    </select>
-                    <select id="selectOppTeamSecond" class="poke-select">
-                        <option disabled="" selected="" value="">-</option>
-                    </select>
-                    <select id="selectOppTeamThird" class="poke-select">
-                        <option disabled="" selected="" value="">-</option>
-                    </select>
-                </div>
-            </div>
+            <table id="resultList" class="result-table">
+                <th style="width: 10%;">번호</th>
+                <th colspan="3" style="width: 40%;">내 팀</th>
+                <th colspan="3" style="width: 40%;">상대 팀</th>
+                <th style="width: 10%;">결과</th>
+            </table>
         </div>
 
     </div>
