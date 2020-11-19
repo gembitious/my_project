@@ -5,8 +5,8 @@ import json
 data = {}
 # with open("../data/moveKor.json", "r", encoding='utf-8') as f:
     # moveKor = json.load(f)
-# with open("../data/pokeKor.json", "r", encoding='utf-8') as f:
-    # pokeKor = json.load(f)
+with open("../data/pokeKor.json", "r", encoding='utf-8') as f:
+    pokeKor = json.load(f)
 with open("../data/gamemaster.json", "r", encoding='utf-8') as f:
     data = json.load(f)
 # print(moveKor)
@@ -17,6 +17,10 @@ for poke in data["pokemon"]:
     if "tags" in poke:
         if "shadow" in poke["tags"]:
             poke["speciesNameKor"] += "(그림자)"
+        if "alolan" in poke["tags"]:
+            poke["speciesNameKor"] += "(알로라)"
+        if "galarian" in poke["tags"]:
+            poke["speciesNameKor"] += "(가라르)"
     # poke["speciesNameKor"] = pokeKor[poke["dex"]-1]["speciesNameKor"]
 
 # for move in data["moves"]:

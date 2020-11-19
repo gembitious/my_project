@@ -250,6 +250,12 @@ header {
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
+.home .poke-name {
+    display: block;
+    font-size: 18px;
+    margin: 5px auto;
+}
+
 /* 텍스트/폰트 */
 h1.title {
     font-size: 18px;

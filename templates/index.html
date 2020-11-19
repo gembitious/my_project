@@ -12,7 +12,7 @@
     <!--OG tags for social-->
     <meta property="og:title" content="STGpoke">
     <meta property="og:description" content="Personal Project">
-    <meta property="og:image" content="{{ url_for('static', filename='bg_sunset.png') }}">
+    <meta property="og:image" content="{{ url_for('static', filename='og.png') }}">
 
     <meta name="apple-mobile-web-app-capable">
     <meta name="mobile-web-app-capable">
@@ -28,50 +28,52 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-            crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
             integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
             crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
             integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
             crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            setpokemonListNonDup();
+        });
+
+        function checkName(obj, target){
+            let x = $(obj).val();
+            let id = $('#'+target+" > option:contains("+x+")").val();
+            $('#'+target).val(id).prop("selected",true);
+        }
+
+        function setpokemonListNonDup() {
+            $('#selectPokemon').empty();
+            let cup = $('#cup').val();
+            $.ajax({
+                url: "../data/gamemaster.json",
+                dataType: "json",
+                data: {},
+                success: function (res) {
+                    let dex = res["pokemon"]
+                    let pokeList = ``;
+                    for (let i = 0; i < dex.length; i++) {
+                        let id = dex[i]["speciesId"];
+                        let nameKor = dex[i]["speciesNameKor"];
+                        let nameEng = dex[i]["speciesName"];
+                        let temp = `<option value="${id}">${nameKor} / ${nameEng}</option>`;
+                        if(id.indexOf('_') == -1) {
+                            pokeList += temp;
+                        }
+                    }
+                    $('#selectPokemon').append(pokeList);
+                }
+            });
+        }
+    </script>
 </head>
 <body>
 <header>
     <div class="header-wrap">
-        <!--        <div class="hamburger">-->
-        <!--            <div class="meat"></div>-->
-        <!--            <div class="meat"></div>-->
-        <!--            <div class="meat"></div>-->
-        <!--        </div>-->
-<!--        <h1 class="title"><a href="https://pvpoke.com/">나만 보는 포켓몬고</a></h1>-->
-        <!--        <div class="menu">-->
-        <!--            <a class="icon-battle" href="https://pvpoke.com/battle/">Battle</a>-->
-        <!--            <a class="icon-train" href="https://pvpoke.com/train/">Train</a>-->
-        <!--            <div class="parent-menu">-->
-        <!--                <a class="icon-rankings" href="https://pvpoke.com/rankings/">Rankings</a>-->
-        <!--                <div class="submenu">-->
-        <!--                    <div class="submenu-wrap">-->
-        <!--                        <a class="icon-rankings" href="https://pvpoke.com/custom-rankings/">Custom Rankings</a>-->
-        <!--                    </div>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--            <a class="icon-team" href="https://pvpoke.com/team-builder/">Team Builder</a>-->
-        <!--            <div class="parent-menu">-->
-        <!--                <a class="more desktop" href="https://pvpoke.com/#"></a>-->
-        <!--                <div class="submenu">-->
-        <!--                    <div class="submenu-wrap">-->
-        <!--                        <a class="icon-moves" href="https://pvpoke.com/moves/">Moves</a>-->
-        <!--                        <a class="icon-articles" href="https://pvpoke.com/articles/">Articles</a>-->
-        <!--                        <a class="icon-contribute" href="https://pvpoke.com/contribute/">Contribute</a>-->
-        <!--                        <a class="icon-settings" href="https://pvpoke.com/settings/">Settings</a>-->
-        <!--                        <a class="icon-twitter" href="https://twitter.com/pvpoke" target="_blank">Twitter</a>-->
-        <!--                    </div>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--        </div>-->
         <div class="clear"></div>
     </div>
 </header>
@@ -84,20 +86,26 @@
     <div class="section home white" id="home">
         <!--            <p>Welcome to PvPoke.com! We're an open-source tool for simulating, ranking, and building teams for Pokemon-->
         <!--                GO PvP (player versus player) battles. Check out the links below to get started.</p>-->
-
-        <a href="https://pvpoke.com/battle/" class="button">
+        <div class="poke-name">
+            포켓몬의 영어이름 찾기
+            <input id="inputPokemon" type="text" placeholder="포켓몬 이름 검색" onkeyup="checkName(this, 'selectPokemon')">
+            <select id="selectPokemon" class="poke-select">
+                <option disabled="" selected="" value="">-</option>
+            </select>
+        </div>
+        <a href="https://stgpoke.shop/battlelog/" class="button">
             <h2 class="title">GO배틀리그 전적 기록하기</h2>
             <p>GO배틀리그 전적 관리 및 통계</p>
         </a>
-        <a href="https://pvpoke.com/pokedex/" class="button">
+        <a href="https://stgpoke.shop/pokedex/" class="button">
             <h2 class="title">도감</h2>
             <p>포켓몬고에 등장하는 모든 포켓몬스터의 정보</p>
         </a>
-        <a href="https://pvpoke.com/types/" class="button">
+        <a href="https://stgpoke.shop/types/" class="button">
             <h2 class="title">타입별 상성</h2>
             <p>포켓몬의 타입별 상성</p>
         </a>
-        <a href="https://pvpoke.com/battle/" class="button">
+        <a href="https://stgpoke.shop/battle/" class="button">
             <h2 class="title">배틀</h2>
             <p>-공사중-</p>
         </a>
