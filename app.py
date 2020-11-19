@@ -43,6 +43,12 @@ def save_result():
     return jsonify({'result': 'success'})
 
 
+@app.route('/battlelog/load', methods=['GET'])
+def load_result():
+    results = list(db.battlelog.find({}, {'_id': 0}))
+    return jsonify({'result': 'success', 'results': results})
+
+
 @app.route('/battlelog/modify', methods=['GET'])
 def modify_result():
     return

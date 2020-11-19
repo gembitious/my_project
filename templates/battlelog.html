@@ -20,8 +20,8 @@
 
     <!--OG tags for social-->
     <link rel="icon" href="{{ url_for('static', filename='images/icon.png') }}">
-    <!--    <link rel="stylesheet" type="text/css" href="../static/css/style.css">-->
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+    <!--    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">-->
     <!--    <link rel="stylesheet" type="text/css" href="../static/css/bootstrap.min.css">-->
     <!--    <script src="../static/js/jquery.min.js"></script>-->
     <!--    <script src="../static/js/bootstrap.min.js"></script>-->
@@ -39,17 +39,19 @@
     <script type="text/javascript">
         $(document).ready(function () {
             setPokemonList();
+            $("#resultList").html("");
+            showResults();
         });
 
         function saveResult() {
             let idx = $("#resultList > tbody tr").length;
-            let my1 = $("#selectMyTeamFirst").val();
-            let my2 = $("#selectMyTeamSecond").val();
-            let my3 = $("#selectMyTeamThird").val();
-            let opp1 = $("#selectOppTeamFirst").val();
-            let opp2 = $("#selectOppTeamSecond").val();
-            let opp3 = $("#selectOppTeamThird").val();
-            let result = $("#battleResult").val();
+            let my1 = $("#selectMyTeamFirst option:selected").text();
+            let my2 = $("#selectMyTeamSecond option:selected").text();
+            let my3 = $("#selectMyTeamThird option:selected").text();
+            let opp1 = $("#selectOppTeamFirst option:selected").text();
+            let opp2 = $("#selectOppTeamSecond option:selected").text();
+            let opp3 = $("#selectOppTeamThird option:selected").text();
+            let result = $("#battleResult option:selected").text();
             $.ajax({
                 type: 'POST',
                 url: "/battlelog/save",
@@ -60,17 +62,31 @@
                 success: function (response) {
                     if (response['result'] == 'success') {
                         alert('등록 완료!');
-                        createLog(idx, my1, my2, my3, opp1, opp2, opp3, result);
                         window.location.reload();
                     }
                 }
             });
         }
 
+        function showResults() {
+            $.ajax({
+                type: "GET",
+                url: "/battlelog/load",
+                data: {},
+                success: function (response) {
+                    let results = response["results"];
+                    for (let i = 0; i < results.length; i++) {
+                        createLog(results[i]["index"], results[i]["my_first"], results[i]["my_second"], results[i]["my_third"],
+                            results[i]["opp_first"], results[i]["opp_second"], results[i]["opp_third"], results[i]["result"]);
+                    }
+                }
+            })
+        }
+
         function createLog(idx, my1, my2, my3, opp1, opp2, opp3, result) {
             let temp_html = `<tr><td>${idx}</td><td>${my1}</td><td>${my2}</td><td>${my3}</td>
                             <td>${opp1}</td><td>${opp2}</td><td>${opp3}</td><td>${result}</td></tr>`;
-            $("#resultList").append(temp_html);
+            $("#resultList > tbody").append(temp_html);
         }
 
         function checkName(obj, target) {
@@ -198,11 +214,18 @@
                 </select>
                 <button onclick="saveResult()" type="button">저장</button>
             </div>
-            <table id="resultList" class="result-table">
-                <th style="width: 10%;">번호</th>
-                <th colspan="3" style="width: 40%;">내 팀</th>
-                <th colspan="3" style="width: 40%;">상대 팀</th>
-                <th style="width: 10%;">결과</th>
+            <table class="result-table">
+                <thead>
+                <tr>
+                    <th style="width: 10%;">번호</th>
+                    <th colspan="3" style="width: 40%;">내 팀</th>
+                    <th colspan="3" style="width: 40%;">상대 팀</th>
+                    <th style="width: 10%;">결과</th>
+                </tr>
+                </thead>
+                <tbody id="resultList">
+
+                </tbody>
             </table>
         </div>
 
