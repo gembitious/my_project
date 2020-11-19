@@ -20,7 +20,7 @@
 
     <!--OG tags for social-->
     <link rel="icon" href="{{ url_for('static', filename='images/icon.png') }}">
-<!--    <link rel="stylesheet" type="text/css" href="../static/css/style.css">-->
+    <!--    <link rel="stylesheet" type="text/css" href="../static/css/style.css">-->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
     <!--    <link rel="stylesheet" type="text/css" href="../static/css/bootstrap.min.css">-->
     <!--    <script src="../static/js/jquery.min.js"></script>-->
@@ -42,7 +42,7 @@
         });
 
         function saveResult() {
-            let idx = $("#resultList > tbody tr").length();
+            let idx = $("#resultList > tbody tr").length;
             let my1 = $("#selectMyTeamFirst").text();
             let my2 = $("#selectMyTeamSecond").text();
             let my3 = $("#selectMyTeamThird").text();
@@ -60,10 +60,17 @@
                 success: function (response) {
                     if (response['result'] == 'success') {
                         alert('등록 완료!');
+                        createLog(idx, my1, my2, my3, opp1, opp2, opp3, result);
                         window.location.reload();
                     }
                 }
             });
+        }
+
+        function createLog(idx, my1, my2, my3, opp1, opp2, opp3, result) {
+            let temp_html = `<tr><td>${idx}</td><td>${my1}</td><td>${my2}</td><td>${my3}</td>
+                            <td>${opp1}</td><td>${opp2}</td><td>${opp3}</td><td>${result}</td></tr>`;
+            $("#resultList").append(temp_html);
         }
 
         function checkName(obj, target) {
