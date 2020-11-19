@@ -42,14 +42,14 @@
         });
 
         function saveResult() {
-            let idx = $("#resultList > tbody tr").length;
-            let my1 = $("#selectMyTeamFirst").text;
-            let my2 = $("#selectMyTeamSecond").text;
-            let my3 = $("#selectMyTeamThird").text;
-            let opp1 = $("#selectOppTeamFirst").text;
-            let opp2 = $("#selectOppTeamSecond").text;
-            let opp3 = $("#selectOppTeamThird").text;
-            let result = $("#battleResult").text;
+            let idx = $("#resultList > tbody tr").length();
+            let my1 = $("#selectMyTeamFirst").text();
+            let my2 = $("#selectMyTeamSecond").text();
+            let my3 = $("#selectMyTeamThird").text();
+            let opp1 = $("#selectOppTeamFirst").text();
+            let opp2 = $("#selectOppTeamSecond").text();
+            let opp3 = $("#selectOppTeamThird").text();
+            let result = $("#battleResult").text();
             $.ajax({
                 type: 'POST',
                 url: "/battlelog/save",
