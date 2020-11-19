@@ -43,13 +43,13 @@
 
         function saveResult() {
             let idx = $("#resultList > tbody tr").length;
-            let my1 = $("#selectMyTeamFirst").text();
-            let my2 = $("#selectMyTeamSecond").text();
-            let my3 = $("#selectMyTeamThird").text();
-            let opp1 = $("#selectOppTeamFirst").text();
-            let opp2 = $("#selectOppTeamSecond").text();
-            let opp3 = $("#selectOppTeamThird").text();
-            let result = $("#battleResult").text();
+            let my1 = $("#selectMyTeamFirst").val();
+            let my2 = $("#selectMyTeamSecond").val();
+            let my3 = $("#selectMyTeamThird").val();
+            let opp1 = $("#selectOppTeamFirst").val();
+            let opp2 = $("#selectOppTeamSecond").val();
+            let opp3 = $("#selectOppTeamThird").val();
+            let result = $("#battleResult").val();
             $.ajax({
                 type: 'POST',
                 url: "/battlelog/save",
@@ -192,9 +192,9 @@
             </table>
             <div>
                 <select id="battleResult">
-                    <option>승리</option>
-                    <option>패배</option>
-                    <option>무승부</option>
+                    <option vaule="win">승리</option>
+                    <option vaule="lose">패배</option>
+                    <option vaule="draw">무승부</option>
                 </select>
                 <button onclick="saveResult()" type="button">저장</button>
             </div>
