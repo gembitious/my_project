@@ -18,6 +18,7 @@ def home():
 def battle_log():
     return render_template('battlelog.html')
 
+
 @app.route('/battlelog/save', methods=['POST'])
 def save_result():
     index = request.form['index']
@@ -38,15 +39,21 @@ def save_result():
     # 5. 성공하면 success 메시지를 반환합니다.
     return jsonify({'result': 'success'})
 
+
 @app.route('/battlelog/modify', methods=['GET'])
 def modify_result():
+    return
+
 
 @app.route('/battlelog/delete', methods=['GET'])
 def delete_result():
+    return
+
 
 @app.route('/types')
 def types():
     return render_template('types.html')
+
 
 @app.route('/pokedex')
 def poke_dex():
