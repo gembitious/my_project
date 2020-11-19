@@ -44,7 +44,7 @@
         });
 
         function saveResult() {
-            let idx = $("#resultList > tbody tr").length;
+            let idx = $("#resultList > tr").length + 1;
             let my1 = $("#selectMyTeamFirst option:selected").text();
             let my2 = $("#selectMyTeamSecond option:selected").text();
             let my3 = $("#selectMyTeamThird option:selected").text();
@@ -86,7 +86,7 @@
         function createLog(idx, my1, my2, my3, opp1, opp2, opp3, result) {
             let temp_html = `<tr><td>${idx}</td><td>${my1}</td><td>${my2}</td><td>${my3}</td>
                             <td>${opp1}</td><td>${opp2}</td><td>${opp3}</td><td>${result}</td></tr>`;
-            $("#resultList > tbody").append(temp_html);
+            $("#resultList").append(temp_html);
         }
 
         function checkName(obj, target) {
