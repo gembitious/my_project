@@ -70,7 +70,7 @@
             clearList();
             let cup = $('#cup').val();
             $.ajax({
-                url: "../data/gamemaster.json",
+                url: "{{ url_for('static', filename='data/gamemaster.json') }}",
                 dataType: "json",
                 data: {},
                 success: function (res) {

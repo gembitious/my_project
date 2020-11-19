@@ -36,7 +36,7 @@
             crossorigin="anonymous"></script>
     <script type="text/javascript">
         $(document).ready(function () {
-            setpokemonListNonDup();
+            setPokemonListNonDup();
         });
 
         function checkName(obj, target){
@@ -45,11 +45,11 @@
             $('#'+target).val(id).prop("selected",true);
         }
 
-        function setpokemonListNonDup() {
+        function setPokemonListNonDup() {
             $('#selectPokemon').empty();
             let cup = $('#cup').val();
             $.ajax({
-                url: "../data/gamemaster.json",
+                url: "{{ url_for('static', filename='data/gamemaster.json') }}",
                 dataType: "json",
                 data: {},
                 success: function (res) {
